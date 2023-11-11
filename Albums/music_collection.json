@@ -1,0 +1,20 @@
+[
+  {
+    "title": "This Is Acting",
+    "artist": "Sia",
+    "songs": ["Bird Set Free", "Alive", "Cheap Thrills", "Reaper", "Move Your Body"],
+    "year": 2016
+  },
+  {
+    "title": "Memories...Do Not Open",
+    "artist": "The Chainsmokers",
+    "songs": ["Something Just Like This", "Paris", "Closer", "All We Know", "The One"],
+    "year": 2017
+  },
+  {
+    "title": "A Head Full of Dreams",
+    "artist": "Coldplay",
+    "songs": ["Adventure of a Lifetime", "Hymn for the Weekend", "Up&Up", "A Head Full of Dreams", "Everglow"],
+    "year": 2015
+  }
+]
