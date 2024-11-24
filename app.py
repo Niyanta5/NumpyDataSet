@@ -14,7 +14,7 @@ def load_model():
    
     # Download the model if it doesn't already exist
     if not os.path.exists(model_path):
-        url = "https://github.com/your-repo-path/model.pkl"  # Replace with the raw URL to your model file
+        url = "https://github.com/Niyanta5/NumpyDataSet/blob/main/model.pkl" 
         with open(model_path, "wb") as f:
             response = requests.get(url)
             f.write(response.content)
