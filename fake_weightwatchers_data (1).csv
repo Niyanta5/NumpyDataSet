@@ -1,0 +1,1001 @@
+member_id,signup_date,age,gender,location,goal_type,goal_weight,current_weight,session_engagement,meal_logging,workout_logging,profile_completeness,device,campaign_source,signup_source,membership_plan,member_since,last_activity_date,progress_achieved,support_ticket_sent,sentiment_score,interaction_type,session_duration,community_interaction,product_feedback,at_risk
+1113,2021-02-16,22,Other,North Cynthiachester,Lose Weight,90,95,4,4,2,0.6,iOS,Referral,Web,Standard,2024-11-16,2025-01-03,False,False,0.8,Meal Logging,60,True,Negative,False
+9149,2023-08-26,46,Male,Jacksonberg,Gain Muscle,16,47,7,3,4,0.4,Web,Referral,Mobile,Standard,2023-10-03,2025-04-04,True,False,0.1,Support,81,False,Negative,False
+6215,2021-09-06,43,Male,Hoodport,Lose Weight,46,6,3,5,7,0.8,iOS,Referral,Web,Premium,2025-05-08,2025-01-21,False,True,0.7,Meal Logging,13,True,Negative,False
+3525,2021-01-29,64,Male,East Kimberly,Lose Weight,8,45,1,2,4,0.2,Android,Referral,Web,Standard,2021-07-29,2025-04-19,True,False,0.2,Workout,2,True,Positive,True
+5329,2024-12-03,40,Female,Gonzalezview,Gain Muscle,78,81,6,3,3,0.9,Web,Google Ads,Web,Premium,2024-05-25,2025-04-07,False,False,0.2,Workout,26,True,Neutral,True
+5094,2021-10-13,46,Female,Cantustad,Lose Weight,39,59,7,2,4,0.4,Android,Google Ads,Web,Standard,2020-02-20,2025-02-23,False,False,0.2,Workout,40,False,Positive,True
+5596,2023-09-05,43,Other,New Charlottefurt,Lose Weight,30,33,3,5,1,0.9,iOS,Referral,Mobile,Premium,2023-06-19,2025-01-17,False,True,0.6,Support,52,False,Negative,True
+7282,2024-11-05,77,Other,Simmonsview,Lose Weight,64,87,5,1,4,0.9,Web,Referral,Mobile,Standard,2022-06-03,2025-02-04,False,True,0.7,Workout,29,True,Positive,True
+4133,2020-09-09,51,Male,Yatesland,Gain Muscle,65,62,1,4,6,0.6,iOS,Google Ads,Web,Standard,2021-07-02,2025-01-15,True,False,0.2,Workout,74,False,Negative,False
+6893,2024-07-21,55,Other,New Kelly,Lose Weight,78,6,4,4,5,0.5,Android,Referral,Mobile,Premium,2020-08-30,2025-02-05,False,False,0.5,Support,10,False,Neutral,True
+2477,2021-11-09,38,Female,Danielfort,Gain Muscle,56,97,2,2,5,0.2,Android,Referral,Mobile,Standard,2021-07-26,2025-01-10,True,True,0.9,Support,91,True,Positive,True
+246,2022-12-07,44,Female,Jamesville,Lose Weight,53,26,6,2,2,0.2,iOS,Referral,Web,Premium,2021-09-23,2025-02-22,False,False,0.8,Meal Logging,74,False,Positive,True
+4854,2023-12-21,53,Other,Smithstad,Lose Weight,3,89,5,1,4,0.3,Web,Google Ads,Web,Premium,2025-05-09,2025-01-29,True,False,0.1,Workout,24,False,Positive,True
+6855,2022-06-30,78,Other,New Brandyhaven,Lose Weight,85,52,1,6,1,0.4,Android,Google Ads,Web,Premium,2024-09-24,2025-03-29,False,False,0.9,Workout,27,True,Positive,True
+4806,2022-02-25,76,Other,Lake Melissachester,Lose Weight,74,89,7,7,3,0.8,Web,Referral,Mobile,Premium,2020-04-15,2025-03-08,True,True,0.1,Support,21,False,Neutral,True
+8686,2024-07-22,46,Female,Lake Melissamouth,Gain Muscle,4,61,2,3,1,0.3,Android,Referral,Web,Standard,2023-02-05,2025-02-20,True,False,0.1,Workout,73,False,Positive,True
+6554,2023-11-15,21,Other,Jeffville,Gain Muscle,64,42,7,5,2,0.8,Web,Google Ads,Mobile,Premium,2023-01-04,2025-01-13,False,True,0.5,Meal Logging,72,True,Positive,False
+5492,2020-01-10,50,Female,North Ethanbury,Lose Weight,72,73,3,4,2,0.7,iOS,Google Ads,Web,Standard,2022-05-13,2025-02-19,True,False,0.7,Meal Logging,4,True,Neutral,False
+4346,2023-01-11,48,Female,Lake Davidhaven,Lose Weight,31,35,7,4,2,0.9,Web,Google Ads,Mobile,Premium,2023-12-12,2025-03-21,False,False,0.8,Meal Logging,7,False,Negative,False
+1810,2024-07-16,65,Other,Hansenbury,Gain Muscle,86,14,2,4,3,0.9,Web,Referral,Mobile,Premium,2024-12-29,2025-01-30,False,True,0.5,Support,64,False,Negative,False
+6802,2021-09-03,55,Female,North Kimberlyfort,Lose Weight,23,83,6,1,7,0.7,iOS,Google Ads,Web,Premium,2021-01-11,2025-03-08,True,True,0.7,Support,9,True,Negative,False
+8022,2024-09-09,59,Other,New Nicolebury,Lose Weight,21,52,6,3,2,0.5,Web,Google Ads,Web,Standard,2025-03-16,2025-03-10,False,False,0.5,Support,82,False,Neutral,True
+2940,2024-04-24,57,Female,Michelleborough,Gain Muscle,72,44,7,3,4,0.9,Web,Referral,Web,Premium,2021-10-09,2025-04-12,False,False,0.7,Meal Logging,92,True,Negative,False
+7892,2021-05-04,54,Other,North Christopherburgh,Gain Muscle,7,64,1,7,5,0.8,iOS,Google Ads,Web,Premium,2021-06-16,2025-04-18,False,False,0.4,Support,19,True,Neutral,True
+6475,2020-08-23,45,Male,Teresatown,Gain Muscle,72,90,2,1,3,0.6,Android,Referral,Mobile,Premium,2023-02-09,2025-04-11,False,True,0.6,Workout,87,True,Negative,False
+7561,2021-05-02,40,Male,New Jennifer,Gain Muscle,73,84,5,2,7,0.8,iOS,Referral,Mobile,Standard,2022-02-24,2025-01-01,False,False,0.2,Meal Logging,89,True,Neutral,False
+6020,2020-04-17,58,Female,North Kevin,Gain Muscle,31,21,6,4,6,0.4,iOS,Referral,Mobile,Premium,2023-05-28,2025-02-17,True,True,0.5,Workout,10,False,Neutral,True
+8613,2020-04-28,76,Male,Owensborough,Gain Muscle,60,13,7,7,3,0.2,Web,Google Ads,Web,Standard,2021-07-06,2025-03-21,True,False,0.0,Meal Logging,17,False,Negative,False
+828,2022-01-08,56,Female,Port Janet,Gain Muscle,22,26,7,2,1,0.3,Android,Google Ads,Web,Standard,2025-02-10,2025-02-19,True,True,0.2,Support,10,False,Negative,True
+1629,2021-04-09,21,Male,Port Kevin,Gain Muscle,12,43,5,2,1,0.7,Web,Referral,Web,Premium,2023-05-08,2025-02-08,False,True,0.5,Workout,24,False,Neutral,False
+1660,2022-09-02,56,Other,North Margaret,Lose Weight,95,92,5,4,7,0.5,iOS,Google Ads,Mobile,Standard,2021-11-07,2025-04-20,False,False,0.8,Workout,57,True,Positive,False
+5346,2022-04-05,65,Female,South Justinport,Gain Muscle,93,77,3,5,1,0.6,Android,Referral,Mobile,Standard,2020-10-12,2025-05-05,True,False,0.5,Meal Logging,18,True,Neutral,False
+8848,2022-05-03,67,Female,North Kevinside,Gain Muscle,64,71,1,5,7,0.5,Web,Google Ads,Mobile,Premium,2024-03-26,2025-01-17,True,True,0.2,Support,77,False,Negative,False
+5444,2024-05-25,49,Other,Leeton,Lose Weight,13,63,4,6,1,0.9,Android,Referral,Mobile,Standard,2024-07-02,2025-03-05,True,False,0.3,Meal Logging,72,True,Negative,True
+9225,2024-04-14,28,Male,Port Julia,Gain Muscle,32,66,6,2,5,0.7,Android,Referral,Mobile,Premium,2022-11-30,2025-04-01,False,False,0.7,Support,6,False,Neutral,False
+8378,2024-07-04,70,Other,East Jacqueline,Lose Weight,44,82,3,1,5,0.4,iOS,Referral,Web,Standard,2024-11-27,2025-01-21,False,True,0.2,Workout,3,True,Positive,False
+7940,2025-03-15,76,Male,Mariachester,Gain Muscle,30,53,4,2,5,0.4,Android,Google Ads,Mobile,Standard,2021-04-21,2025-01-01,False,True,0.3,Workout,7,True,Neutral,False
+7837,2024-06-05,33,Other,East Anthony,Gain Muscle,53,45,6,2,1,0.4,Android,Referral,Web,Standard,2021-04-05,2025-02-01,False,True,0.1,Meal Logging,89,True,Positive,False
+5291,2023-09-03,42,Male,Madisonland,Lose Weight,82,99,2,6,7,0.1,iOS,Google Ads,Mobile,Standard,2024-03-28,2025-04-01,True,False,0.0,Meal Logging,73,True,Negative,False
+1580,2024-07-29,42,Other,Port Michael,Lose Weight,79,44,5,7,3,0.7,Android,Google Ads,Mobile,Standard,2024-05-28,2025-01-19,False,False,0.7,Support,57,False,Negative,True
+4785,2023-02-02,61,Female,Richardland,Lose Weight,22,67,5,5,7,0.1,Android,Google Ads,Mobile,Standard,2022-10-14,2025-03-11,True,True,0.4,Workout,66,False,Negative,False
+110,2020-12-08,73,Other,East Jennifertown,Lose Weight,48,40,6,6,4,0.6,Web,Google Ads,Mobile,Premium,2021-04-29,2025-04-24,False,True,0.1,Workout,51,False,Positive,True
+6251,2023-07-31,75,Other,North Curtisview,Gain Muscle,7,16,7,6,4,0.7,Android,Google Ads,Mobile,Standard,2020-02-13,2025-04-24,False,False,0.7,Meal Logging,53,False,Positive,False
+4482,2023-02-25,57,Female,North Stephanie,Gain Muscle,83,62,3,1,2,0.6,Android,Google Ads,Web,Standard,2024-02-21,2025-02-27,True,False,0.8,Meal Logging,76,False,Neutral,False
+5639,2023-12-08,34,Other,Sarahton,Lose Weight,7,65,4,4,2,0.6,Web,Referral,Mobile,Standard,2025-02-16,2025-01-27,True,True,0.3,Support,94,False,Neutral,False
+7287,2023-03-31,74,Other,Port Marcus,Gain Muscle,62,36,6,3,2,0.0,Web,Google Ads,Mobile,Standard,2022-09-08,2025-02-11,False,False,0.1,Support,97,False,Positive,True
+7958,2021-06-20,58,Male,Port Caleb,Lose Weight,93,37,1,4,5,0.8,Android,Google Ads,Web,Standard,2021-01-18,2025-04-09,False,False,0.1,Workout,0,False,Positive,True
+5160,2022-01-12,40,Female,Tanyafort,Lose Weight,12,79,2,5,5,0.1,Web,Google Ads,Mobile,Standard,2020-06-26,2025-04-30,False,True,0.1,Workout,73,True,Neutral,True
+9917,2021-09-15,48,Female,Kristinehaven,Lose Weight,91,85,4,2,5,0.1,Web,Referral,Mobile,Standard,2022-04-15,2025-02-19,True,True,0.9,Workout,52,True,Neutral,True
+9902,2023-07-02,38,Male,Leeberg,Lose Weight,56,47,5,2,7,0.1,iOS,Google Ads,Web,Premium,2024-06-17,2025-01-21,False,False,0.6,Meal Logging,61,False,Neutral,True
+1681,2024-02-11,71,Female,Jamesmouth,Gain Muscle,98,33,6,2,2,0.3,Web,Referral,Mobile,Premium,2024-10-11,2025-03-15,False,False,0.8,Workout,69,False,Neutral,False
+779,2024-06-21,60,Other,Susanchester,Gain Muscle,68,75,6,4,5,0.1,Android,Referral,Mobile,Premium,2022-10-14,2025-02-24,True,True,0.7,Workout,46,True,Negative,True
+1577,2024-08-26,43,Female,Hansenberg,Lose Weight,11,63,5,7,1,0.6,Web,Google Ads,Mobile,Premium,2022-03-02,2025-01-05,True,False,0.6,Workout,29,True,Negative,False
+9038,2021-04-20,50,Female,Port Tanyaport,Lose Weight,39,7,1,3,7,0.2,Android,Referral,Mobile,Premium,2020-04-07,2025-01-04,True,False,0.7,Workout,55,False,Negative,True
+7048,2020-12-17,65,Female,Shepherdbury,Lose Weight,31,50,4,2,3,0.7,Android,Referral,Web,Premium,2020-04-20,2025-01-18,True,True,0.2,Meal Logging,4,False,Neutral,True
+4849,2025-02-13,43,Female,Lake Paul,Lose Weight,6,32,5,5,2,0.6,iOS,Google Ads,Web,Premium,2023-07-02,2025-02-17,True,True,0.9,Meal Logging,87,True,Negative,False
+1080,2023-03-26,60,Other,Bettybury,Lose Weight,94,74,2,1,2,0.9,Android,Referral,Mobile,Standard,2023-08-10,2025-02-15,True,False,0.1,Support,68,False,Positive,True
+8235,2024-10-22,41,Male,South Stevenfurt,Lose Weight,24,77,5,4,3,0.4,Web,Referral,Web,Premium,2025-04-21,2025-02-16,False,True,0.8,Meal Logging,61,True,Positive,False
+7269,2021-07-02,52,Female,Elizabethbury,Gain Muscle,45,0,2,3,3,0.8,Android,Google Ads,Mobile,Standard,2023-11-03,2025-04-12,True,False,0.6,Support,63,True,Neutral,True
+2918,2022-06-15,40,Female,South Lisachester,Gain Muscle,24,95,7,4,4,0.6,iOS,Google Ads,Web,Standard,2021-05-05,2025-01-21,False,False,0.3,Workout,58,False,Positive,False
+3185,2024-08-02,33,Other,New Ariel,Lose Weight,11,62,1,3,5,0.9,Web,Referral,Mobile,Premium,2024-06-23,2025-01-10,False,False,0.8,Workout,75,False,Positive,True
+9853,2020-08-12,64,Other,Kellyshire,Gain Muscle,50,39,6,4,5,0.6,Android,Referral,Web,Premium,2020-12-22,2025-04-16,False,False,0.5,Workout,95,True,Negative,True
+635,2020-10-28,28,Male,Paigeborough,Gain Muscle,95,70,7,3,3,0.4,Android,Google Ads,Web,Premium,2025-02-24,2025-01-07,True,True,0.0,Meal Logging,30,False,Neutral,True
+4928,2024-07-06,28,Male,Lake Williamhaven,Lose Weight,86,63,6,3,1,0.4,iOS,Google Ads,Mobile,Premium,2022-11-23,2025-02-19,True,True,0.1,Workout,23,True,Neutral,False
+3358,2022-11-11,75,Other,West Bradleyport,Gain Muscle,19,35,4,7,4,0.0,Android,Google Ads,Web,Premium,2020-11-18,2025-02-04,True,False,0.3,Workout,63,True,Negative,True
+4179,2022-10-30,46,Female,Lake Corey,Lose Weight,19,44,4,4,4,0.1,Web,Google Ads,Mobile,Standard,2022-10-24,2025-04-16,False,True,0.5,Support,54,False,Negative,False
+6481,2020-06-08,77,Other,Yvetteberg,Lose Weight,73,37,5,7,3,0.9,iOS,Referral,Mobile,Premium,2025-04-09,2025-01-26,True,False,0.4,Support,16,True,Positive,False
+6263,2024-03-25,26,Male,Lake Charles,Gain Muscle,4,73,4,7,6,0.9,Android,Google Ads,Mobile,Premium,2021-09-22,2025-03-08,False,True,0.4,Support,58,True,Negative,False
+8637,2021-12-21,57,Female,North Victoria,Gain Muscle,23,43,5,1,4,0.7,iOS,Referral,Mobile,Standard,2025-01-07,2025-02-20,False,True,0.5,Meal Logging,1,False,Negative,False
+7060,2025-04-04,67,Male,Henryberg,Gain Muscle,98,58,2,2,2,0.5,Android,Referral,Web,Standard,2021-07-12,2025-03-06,False,True,0.1,Meal Logging,76,True,Neutral,False
+6889,2020-07-29,65,Female,Lake Johnny,Lose Weight,23,17,2,4,2,0.2,Web,Referral,Mobile,Premium,2022-07-26,2025-03-14,False,True,0.8,Support,36,False,Neutral,False
+7956,2020-07-22,74,Other,Port Bethanychester,Lose Weight,74,61,1,5,3,0.6,Android,Google Ads,Web,Premium,2023-06-22,2025-03-26,True,True,0.7,Workout,30,False,Positive,True
+3122,2023-09-03,23,Female,Mitchellport,Gain Muscle,23,75,4,5,7,0.7,iOS,Google Ads,Web,Standard,2023-07-06,2025-02-16,True,False,0.2,Support,67,False,Positive,False
+1279,2021-03-02,72,Female,North Jayview,Gain Muscle,23,42,4,2,6,0.4,Android,Google Ads,Web,Standard,2022-06-04,2025-02-16,False,False,0.9,Meal Logging,47,True,Positive,False
+3478,2025-01-14,48,Male,Omarland,Lose Weight,49,37,1,4,1,0.3,Android,Google Ads,Mobile,Standard,2020-08-19,2025-05-06,True,False,0.8,Workout,3,False,Negative,True
+5917,2021-08-09,61,Male,Santiagoton,Lose Weight,21,82,4,7,1,0.8,Android,Google Ads,Web,Premium,2020-11-04,2025-03-01,True,False,0.9,Support,74,False,Neutral,True
+5965,2025-05-08,40,Female,Simonmouth,Lose Weight,55,32,4,7,4,0.2,iOS,Referral,Web,Premium,2021-12-10,2025-04-15,False,True,0.2,Meal Logging,1,False,Negative,True
+2854,2021-06-21,26,Other,New Johnny,Lose Weight,48,20,1,1,7,0.3,iOS,Google Ads,Web,Standard,2024-09-29,2025-02-22,False,False,0.7,Support,17,True,Positive,True
+4290,2023-09-29,70,Male,Huberville,Gain Muscle,64,59,3,6,7,0.9,Web,Referral,Mobile,Premium,2022-12-06,2025-03-28,False,False,0.8,Meal Logging,25,False,Negative,True
+8096,2022-12-26,40,Male,Lake Michaelbury,Gain Muscle,91,81,2,3,5,0.1,Web,Google Ads,Web,Premium,2020-03-11,2025-02-09,False,False,0.8,Meal Logging,39,True,Positive,True
+8022,2023-04-11,58,Female,Tracychester,Gain Muscle,55,46,4,6,2,0.4,Android,Google Ads,Mobile,Standard,2021-08-28,2025-03-03,True,False,0.3,Workout,90,False,Positive,False
+3861,2022-11-15,57,Male,North Brad,Lose Weight,84,48,7,7,2,0.1,Android,Google Ads,Mobile,Premium,2024-10-22,2025-02-05,False,True,0.5,Support,27,True,Neutral,True
+1033,2023-05-28,39,Female,Zunigaside,Gain Muscle,73,51,3,5,7,0.7,Web,Referral,Mobile,Premium,2020-03-19,2025-04-16,True,False,0.5,Workout,68,True,Negative,False
+6044,2023-06-01,22,Other,South Thomas,Lose Weight,36,61,7,2,4,0.6,iOS,Google Ads,Web,Premium,2023-04-10,2025-02-17,False,True,0.5,Meal Logging,7,True,Negative,True
+479,2025-01-08,29,Female,Port Tammy,Lose Weight,84,2,7,5,5,0.9,iOS,Referral,Mobile,Premium,2022-06-26,2025-03-17,True,True,0.2,Meal Logging,76,True,Negative,False
+7403,2023-06-26,41,Other,South Teresafort,Gain Muscle,25,13,1,1,3,0.5,Web,Google Ads,Mobile,Premium,2020-11-20,2025-04-29,True,True,0.6,Support,39,True,Positive,True
+5620,2024-04-15,59,Male,Hoodborough,Gain Muscle,18,94,1,1,6,0.8,iOS,Referral,Mobile,Premium,2024-06-30,2025-03-24,True,False,0.5,Support,37,False,Neutral,False
+8349,2024-07-20,38,Other,New Nathaniel,Lose Weight,0,15,1,4,3,0.2,Web,Referral,Mobile,Premium,2025-02-13,2025-05-09,True,False,0.5,Support,15,False,Positive,False
+5405,2022-03-06,61,Other,Lake Brianfort,Lose Weight,33,94,7,6,5,0.1,Android,Google Ads,Mobile,Premium,2020-10-01,2025-01-25,False,True,0.0,Support,90,False,Negative,True
+7373,2020-07-24,79,Female,East Daniellefurt,Gain Muscle,64,63,2,4,4,0.0,Android,Google Ads,Mobile,Standard,2023-05-21,2025-02-09,False,True,0.5,Meal Logging,81,False,Negative,False
+2922,2020-08-29,50,Other,West Monicaton,Gain Muscle,18,91,4,6,1,0.3,iOS,Referral,Mobile,Standard,2023-08-23,2025-03-06,False,False,0.4,Support,57,True,Negative,True
+6967,2025-01-25,49,Other,Lake Ashley,Lose Weight,47,81,3,5,2,0.4,iOS,Google Ads,Web,Standard,2022-10-08,2025-01-26,False,False,0.2,Support,76,False,Negative,False
+1324,2020-09-20,73,Male,Hallchester,Lose Weight,9,84,4,1,7,0.0,Web,Referral,Web,Premium,2021-12-19,2025-03-24,False,True,0.7,Meal Logging,81,False,Negative,False
+5875,2024-05-16,30,Female,New Michael,Lose Weight,70,70,2,7,1,0.6,Android,Google Ads,Mobile,Premium,2024-04-15,2025-03-01,False,True,0.3,Meal Logging,59,True,Neutral,False
+4857,2022-09-06,77,Male,Stanleyberg,Gain Muscle,77,22,4,4,2,0.9,iOS,Google Ads,Web,Premium,2022-08-30,2025-04-26,False,False,0.9,Workout,10,True,Neutral,True
+2937,2021-12-22,19,Other,Eddiestad,Lose Weight,10,22,6,5,7,0.4,Web,Google Ads,Web,Standard,2023-09-21,2025-01-11,False,True,0.5,Meal Logging,40,True,Neutral,False
+4893,2020-02-29,61,Female,New Brandon,Gain Muscle,57,50,2,4,4,0.2,iOS,Google Ads,Mobile,Standard,2023-02-26,2025-04-14,False,True,0.6,Support,56,True,Positive,False
+208,2024-11-10,33,Male,Port Gregorystad,Gain Muscle,75,21,7,1,3,0.4,Web,Google Ads,Web,Premium,2021-04-20,2025-04-26,True,False,0.5,Meal Logging,54,True,Neutral,False
+8946,2023-05-29,39,Male,South Zachary,Lose Weight,54,71,3,5,4,0.6,iOS,Google Ads,Mobile,Premium,2021-07-08,2025-01-13,False,True,0.7,Meal Logging,71,True,Negative,False
+8071,2022-07-30,20,Female,South Melissastad,Gain Muscle,72,48,5,6,6,0.7,Web,Google Ads,Web,Premium,2024-12-18,2025-02-11,False,True,0.9,Support,99,True,Neutral,True
+7759,2024-08-15,18,Male,Woodsborough,Gain Muscle,48,45,1,1,2,0.9,Android,Google Ads,Web,Premium,2022-05-25,2025-01-26,True,True,0.0,Workout,65,True,Positive,True
+8618,2024-12-22,44,Other,Port Juliaborough,Gain Muscle,4,22,1,7,6,0.4,Android,Referral,Mobile,Standard,2024-08-03,2025-04-20,True,True,0.1,Meal Logging,56,True,Positive,True
+9756,2020-12-14,49,Female,New Natashafurt,Lose Weight,6,25,6,1,6,0.8,Android,Referral,Mobile,Standard,2023-12-17,2025-01-23,True,False,0.5,Workout,5,True,Positive,True
+5980,2022-04-01,49,Female,Acostachester,Gain Muscle,35,90,4,6,6,0.2,iOS,Referral,Web,Premium,2020-11-18,2025-01-16,True,True,0.4,Support,44,False,Positive,True
+4,2022-07-13,29,Female,South Lauren,Lose Weight,96,13,4,4,7,0.0,Android,Referral,Web,Standard,2024-05-21,2025-01-14,True,True,0.2,Support,87,False,Neutral,True
+2163,2020-05-16,64,Male,Dustinstad,Gain Muscle,52,91,6,1,6,0.8,Web,Referral,Mobile,Standard,2020-02-05,2025-03-11,True,True,0.9,Workout,11,False,Negative,True
+1633,2022-08-16,66,Other,Port Jay,Gain Muscle,86,72,7,3,7,0.9,iOS,Google Ads,Mobile,Premium,2022-12-26,2025-02-20,False,True,0.2,Workout,42,True,Negative,True
+2074,2023-03-12,58,Female,South Nathantown,Gain Muscle,69,95,5,1,4,0.8,Web,Google Ads,Web,Standard,2020-10-27,2025-04-06,True,True,0.0,Meal Logging,90,False,Negative,True
+5313,2024-05-23,50,Male,Lake Josephstad,Gain Muscle,96,7,2,2,3,0.1,iOS,Referral,Mobile,Premium,2023-08-31,2025-02-05,True,True,0.5,Support,19,False,Neutral,True
+2537,2021-09-21,42,Male,Manuelborough,Lose Weight,34,47,6,2,2,0.7,iOS,Google Ads,Web,Standard,2020-10-12,2025-02-25,True,True,0.8,Workout,71,False,Positive,False
+2992,2021-09-12,42,Female,South Michaelberg,Gain Muscle,52,69,1,1,5,0.1,Web,Google Ads,Web,Standard,2023-02-24,2025-04-17,True,True,0.7,Meal Logging,5,True,Neutral,True
+5358,2025-02-18,58,Female,South Nicholechester,Lose Weight,78,22,2,3,7,0.7,Android,Referral,Mobile,Premium,2025-01-11,2025-01-26,False,False,0.2,Support,53,True,Negative,False
+2642,2022-12-20,75,Other,Robinsonmouth,Lose Weight,35,94,6,7,4,0.2,Web,Google Ads,Web,Standard,2020-06-17,2025-01-18,True,True,0.0,Meal Logging,47,False,Neutral,True
+6657,2021-08-08,77,Female,East Kimberlyside,Lose Weight,51,33,2,4,3,0.0,Web,Google Ads,Web,Standard,2024-01-03,2025-01-08,False,True,0.2,Meal Logging,86,False,Positive,False
+4861,2021-02-10,45,Male,Matthewtown,Lose Weight,73,55,4,7,5,0.5,Android,Referral,Mobile,Premium,2024-11-01,2025-03-31,False,True,0.3,Support,21,True,Negative,True
+4344,2023-04-19,55,Male,Matthewstad,Lose Weight,43,62,4,5,3,0.9,iOS,Referral,Web,Premium,2024-05-28,2025-01-08,True,False,0.8,Workout,27,True,Negative,True
+3118,2021-04-29,80,Female,West Cynthia,Gain Muscle,49,95,1,1,2,0.8,Android,Google Ads,Web,Standard,2024-04-21,2025-05-09,False,True,0.9,Meal Logging,14,True,Neutral,False
+3089,2024-05-09,58,Other,South Kirk,Gain Muscle,60,80,7,6,3,0.4,Web,Referral,Web,Standard,2023-10-19,2025-02-16,False,True,0.6,Support,11,True,Negative,True
+3069,2024-07-09,56,Male,Smithstad,Gain Muscle,39,57,1,7,1,0.0,iOS,Referral,Mobile,Standard,2023-11-05,2025-03-29,False,False,0.1,Meal Logging,48,False,Neutral,False
+3453,2020-02-18,40,Male,Williamsborough,Gain Muscle,11,16,1,2,2,0.7,iOS,Google Ads,Web,Premium,2024-10-02,2025-03-02,True,False,0.2,Workout,35,False,Negative,False
+4605,2024-11-16,31,Other,Davidtown,Gain Muscle,85,19,6,7,6,0.1,Web,Google Ads,Mobile,Standard,2023-06-12,2025-01-09,False,False,0.4,Workout,31,True,Negative,False
+8311,2024-04-20,66,Male,North Karenmouth,Lose Weight,15,94,5,5,2,0.7,iOS,Google Ads,Web,Standard,2020-07-01,2025-02-21,True,True,0.1,Workout,68,True,Neutral,True
+7261,2023-09-17,32,Female,New John,Lose Weight,10,46,6,7,5,0.8,iOS,Google Ads,Web,Premium,2022-07-17,2025-03-11,False,False,0.7,Meal Logging,55,False,Neutral,False
+8208,2024-12-20,49,Other,West Danielburgh,Gain Muscle,70,55,2,4,2,0.3,Web,Referral,Mobile,Standard,2024-09-18,2025-01-09,True,False,0.1,Meal Logging,81,True,Positive,True
+8383,2024-11-12,54,Other,Mcgeeborough,Lose Weight,48,18,7,5,3,0.2,Android,Google Ads,Web,Premium,2020-04-02,2025-03-29,True,True,0.2,Support,78,False,Positive,False
+9140,2024-06-27,23,Female,Leblancborough,Gain Muscle,29,9,5,3,5,0.7,iOS,Referral,Mobile,Premium,2025-01-07,2025-02-12,False,True,0.3,Meal Logging,87,True,Positive,False
+848,2022-07-21,65,Female,Jacksonshire,Gain Muscle,20,84,6,6,2,0.7,Android,Google Ads,Mobile,Premium,2023-01-06,2025-04-19,True,False,0.5,Support,0,False,Negative,True
+6006,2024-05-10,26,Other,Ramosport,Lose Weight,35,19,7,6,4,0.3,iOS,Google Ads,Web,Standard,2023-05-06,2025-01-02,False,True,0.7,Support,18,True,Neutral,True
+3700,2024-02-06,75,Male,Anthonyland,Lose Weight,70,56,3,5,6,0.0,iOS,Google Ads,Web,Standard,2023-12-27,2025-03-27,True,True,0.2,Support,20,True,Neutral,False
+4372,2020-06-18,49,Female,Wrighttown,Gain Muscle,75,11,4,4,2,0.8,Web,Referral,Web,Standard,2021-11-21,2025-03-25,False,True,0.6,Meal Logging,22,False,Negative,True
+6406,2021-10-14,32,Other,Kevinfort,Gain Muscle,71,12,4,4,6,0.3,iOS,Referral,Web,Premium,2023-04-30,2025-04-26,True,False,0.2,Workout,4,True,Negative,True
+5787,2023-06-10,19,Female,Davisland,Lose Weight,89,77,7,3,1,0.8,iOS,Referral,Mobile,Premium,2020-02-21,2025-02-14,True,False,0.9,Support,55,True,Neutral,False
+2864,2021-08-22,37,Female,Anthonymouth,Gain Muscle,89,94,2,1,7,0.7,Android,Google Ads,Mobile,Standard,2021-11-14,2025-01-06,False,True,0.5,Meal Logging,7,True,Negative,False
+4819,2022-11-07,42,Female,West Christina,Gain Muscle,28,65,4,7,6,0.7,Android,Google Ads,Web,Premium,2020-06-22,2025-05-06,True,True,0.3,Workout,9,True,Positive,True
+1297,2021-01-27,21,Male,Johnsonborough,Lose Weight,82,56,4,6,4,0.1,Web,Google Ads,Mobile,Standard,2024-06-03,2025-04-10,True,False,0.8,Support,12,True,Neutral,True
+4229,2021-02-16,66,Other,Rebeccaland,Gain Muscle,90,13,3,5,1,0.9,Android,Google Ads,Mobile,Premium,2021-09-06,2025-01-02,False,True,0.3,Workout,28,True,Positive,False
+8205,2021-01-11,52,Male,Meyermouth,Lose Weight,57,62,7,5,6,0.2,iOS,Google Ads,Mobile,Premium,2021-07-01,2025-01-26,False,True,0.8,Meal Logging,16,True,Neutral,True
+1345,2020-12-02,79,Female,Fryport,Gain Muscle,29,40,2,1,4,0.1,Web,Referral,Mobile,Standard,2022-01-15,2025-02-11,False,False,0.7,Workout,66,False,Negative,True
+7900,2021-09-06,66,Other,Morenoborough,Lose Weight,71,95,2,3,4,0.0,iOS,Referral,Web,Standard,2020-01-09,2025-03-01,False,True,0.0,Meal Logging,55,True,Negative,False
+8189,2020-12-31,40,Other,Kylemouth,Gain Muscle,91,16,3,5,1,0.3,Android,Google Ads,Web,Standard,2023-01-17,2025-02-28,False,True,0.5,Workout,51,False,Positive,False
+2903,2022-10-24,69,Female,Lake Leahberg,Lose Weight,34,97,4,6,2,0.3,Web,Google Ads,Mobile,Premium,2024-02-01,2025-01-14,False,False,0.3,Support,13,False,Neutral,True
+4828,2022-12-25,72,Female,Hollyfurt,Lose Weight,54,62,7,7,4,0.0,Web,Google Ads,Web,Premium,2023-03-31,2025-03-24,False,False,0.1,Support,19,True,Neutral,False
+3801,2023-06-06,40,Other,Woodfort,Gain Muscle,63,79,2,2,2,0.1,Android,Referral,Web,Premium,2024-09-09,2025-03-14,False,True,0.6,Meal Logging,75,False,Neutral,True
+3160,2021-05-20,23,Male,Julieberg,Lose Weight,90,36,3,5,5,0.5,Android,Referral,Mobile,Standard,2024-11-29,2025-04-14,False,True,0.8,Meal Logging,69,False,Positive,True
+5101,2021-04-18,27,Female,New Brittany,Gain Muscle,92,97,5,3,6,0.8,Web,Google Ads,Web,Premium,2020-02-29,2025-02-12,False,True,0.1,Support,97,False,Positive,True
+3109,2023-07-27,71,Male,New Maureen,Gain Muscle,20,67,4,1,6,0.2,iOS,Referral,Mobile,Standard,2020-11-14,2025-04-17,False,True,0.4,Support,46,True,Positive,False
+2587,2020-12-27,30,Other,West Davidland,Gain Muscle,38,65,6,3,1,0.8,Android,Google Ads,Mobile,Standard,2023-07-20,2025-04-20,True,True,0.0,Meal Logging,7,False,Positive,True
+582,2020-04-21,61,Male,Christopherbury,Gain Muscle,17,94,1,6,6,0.3,Web,Referral,Mobile,Standard,2023-12-04,2025-03-04,False,False,0.6,Meal Logging,26,True,Negative,True
+2172,2021-07-30,56,Female,Port Paulton,Lose Weight,24,82,1,6,2,0.1,Android,Referral,Web,Standard,2022-05-17,2025-01-19,False,False,0.2,Meal Logging,52,True,Negative,False
+9075,2021-09-24,32,Male,New Natashaland,Lose Weight,79,35,3,2,7,0.5,Android,Referral,Web,Premium,2021-07-10,2025-03-03,True,False,0.6,Workout,67,True,Positive,True
+8508,2022-12-12,61,Female,West Shawn,Lose Weight,18,9,4,1,7,0.0,iOS,Referral,Mobile,Standard,2022-06-02,2025-02-24,True,False,0.7,Meal Logging,11,False,Neutral,False
+190,2024-10-25,73,Male,Port Christianchester,Lose Weight,59,31,4,1,7,0.8,Web,Referral,Mobile,Premium,2024-06-09,2025-02-09,False,False,0.4,Support,69,False,Positive,False
+8360,2024-01-17,57,Female,Boyleview,Lose Weight,98,21,3,1,1,0.0,iOS,Referral,Web,Premium,2024-12-06,2025-03-06,False,True,0.9,Meal Logging,38,False,Positive,True
+1063,2020-02-10,77,Other,New Jenna,Gain Muscle,83,97,3,2,4,0.8,Android,Referral,Web,Premium,2024-03-01,2025-03-03,False,True,0.3,Workout,81,True,Neutral,False
+725,2022-08-21,41,Female,Andersonmouth,Lose Weight,89,3,3,2,3,0.5,Android,Google Ads,Mobile,Premium,2022-02-02,2025-01-14,True,False,0.6,Meal Logging,68,False,Neutral,True
+3553,2022-01-30,48,Male,Leonardfurt,Lose Weight,99,67,6,1,2,0.9,Web,Referral,Web,Premium,2024-07-07,2025-05-02,False,False,0.7,Workout,31,False,Negative,True
+5448,2024-05-07,34,Other,East Vanessaborough,Lose Weight,86,10,5,7,4,0.1,iOS,Referral,Web,Premium,2021-05-27,2025-04-25,False,False,0.4,Workout,29,False,Negative,True
+3678,2024-06-16,28,Female,South Jillian,Gain Muscle,62,90,1,7,5,0.5,Web,Referral,Mobile,Standard,2021-01-15,2025-01-27,True,False,0.0,Meal Logging,87,True,Neutral,False
+9328,2022-11-04,58,Other,Walkermouth,Gain Muscle,75,70,2,3,3,0.1,Web,Google Ads,Web,Standard,2022-04-18,2025-03-06,False,False,0.7,Meal Logging,59,False,Positive,True
+6500,2021-02-12,54,Other,Lake Randyhaven,Lose Weight,32,8,7,1,1,0.6,Android,Referral,Web,Standard,2023-10-10,2025-01-16,False,False,0.2,Meal Logging,38,True,Neutral,True
+1574,2022-03-23,36,Female,West Feliciahaven,Lose Weight,23,84,4,4,1,0.7,iOS,Google Ads,Web,Premium,2022-12-17,2025-03-21,True,False,0.4,Meal Logging,37,True,Positive,False
+2432,2023-12-28,40,Male,Robinsonborough,Lose Weight,31,67,5,1,5,0.5,iOS,Google Ads,Mobile,Premium,2021-06-13,2025-02-21,True,False,0.0,Meal Logging,35,True,Negative,True
+1691,2021-02-27,41,Female,Trevinomouth,Gain Muscle,12,31,3,1,1,0.6,iOS,Google Ads,Mobile,Premium,2022-12-15,2025-03-15,True,False,0.4,Meal Logging,88,False,Neutral,False
+1210,2020-01-20,30,Other,Port Joseph,Lose Weight,3,13,4,3,4,0.6,iOS,Google Ads,Web,Standard,2022-10-26,2025-01-16,True,False,0.9,Workout,42,False,Neutral,True
+4672,2020-07-22,19,Other,East Sophiatown,Gain Muscle,40,48,3,6,4,0.6,iOS,Referral,Mobile,Premium,2021-10-19,2025-03-07,True,False,0.7,Meal Logging,10,True,Neutral,False
+3182,2023-11-28,39,Female,Christophermouth,Lose Weight,23,30,4,5,7,0.0,iOS,Referral,Web,Standard,2020-01-07,2025-01-22,False,True,0.1,Support,93,False,Neutral,False
+9826,2024-01-18,29,Female,Lake Brandonmouth,Gain Muscle,79,8,2,3,6,0.8,Android,Referral,Mobile,Premium,2021-04-09,2025-03-21,False,False,0.2,Workout,13,False,Negative,True
+8348,2025-03-12,63,Other,East Brittanyfurt,Gain Muscle,99,9,7,7,5,0.6,Web,Google Ads,Mobile,Standard,2022-12-04,2025-02-22,True,True,0.8,Meal Logging,41,False,Positive,False
+2676,2021-03-29,56,Other,West Jacobborough,Gain Muscle,39,36,4,4,3,0.4,Android,Referral,Web,Premium,2023-06-30,2025-03-22,False,True,0.7,Support,41,True,Neutral,False
+2260,2020-06-05,42,Other,Lake Katherineville,Lose Weight,89,17,5,4,5,0.0,Web,Referral,Mobile,Premium,2024-08-18,2025-02-17,False,True,0.4,Workout,27,False,Neutral,True
+2686,2024-09-09,71,Male,Nicolemouth,Gain Muscle,8,32,6,1,6,0.7,Android,Referral,Web,Standard,2024-02-25,2025-04-26,False,False,0.7,Workout,30,True,Negative,True
+5920,2024-03-01,56,Female,East Johnnyport,Gain Muscle,79,0,1,2,4,0.2,iOS,Google Ads,Mobile,Premium,2024-03-14,2025-04-10,True,True,0.8,Workout,21,True,Negative,False
+2177,2022-05-15,68,Female,Schroederstad,Lose Weight,92,6,2,4,1,0.6,Android,Referral,Mobile,Standard,2024-03-30,2025-03-11,False,True,0.8,Workout,44,False,Negative,False
+841,2024-09-24,31,Female,Ianfort,Lose Weight,49,11,5,1,2,0.2,iOS,Google Ads,Mobile,Premium,2021-06-30,2025-03-31,True,False,0.6,Meal Logging,75,True,Positive,False
+6954,2020-01-19,69,Other,West Brendafurt,Gain Muscle,47,55,7,1,6,0.0,Android,Referral,Mobile,Standard,2020-11-04,2025-03-25,False,False,0.7,Support,86,False,Positive,True
+6865,2021-02-03,29,Male,New Daniel,Gain Muscle,32,29,6,1,6,0.5,iOS,Google Ads,Mobile,Standard,2023-05-26,2025-01-31,False,True,0.5,Workout,28,False,Negative,True
+7149,2022-03-25,78,Other,Shieldstown,Lose Weight,53,83,4,4,5,0.2,iOS,Referral,Web,Premium,2022-08-19,2025-04-27,True,False,0.0,Meal Logging,31,False,Neutral,True
+865,2020-10-18,66,Female,New Patriciaton,Lose Weight,50,86,6,3,7,0.7,iOS,Google Ads,Mobile,Standard,2021-10-23,2025-01-06,False,True,0.4,Support,91,True,Positive,True
+1457,2022-06-11,60,Female,South Monica,Gain Muscle,8,82,1,5,4,0.3,iOS,Referral,Web,Standard,2021-05-03,2025-04-02,True,True,0.4,Workout,80,True,Negative,False
+4372,2020-06-28,80,Male,East Nicholasville,Gain Muscle,97,38,3,3,7,0.3,Android,Google Ads,Web,Premium,2021-05-24,2025-01-14,False,False,0.0,Workout,67,False,Negative,True
+5484,2021-09-02,18,Male,Port Diana,Gain Muscle,36,95,3,6,5,0.4,iOS,Google Ads,Mobile,Premium,2024-07-08,2025-04-06,True,False,0.7,Meal Logging,74,False,Negative,True
+9157,2020-08-22,33,Male,Lake Raymond,Gain Muscle,15,61,1,3,2,0.7,iOS,Referral,Mobile,Standard,2021-05-07,2025-01-17,False,False,0.7,Support,9,False,Positive,False
+7799,2020-05-27,28,Male,Dayhaven,Gain Muscle,94,0,1,4,7,0.2,Android,Google Ads,Mobile,Standard,2023-12-17,2025-02-11,True,False,0.8,Support,52,False,Negative,False
+6856,2021-10-29,38,Male,Port Sara,Gain Muscle,12,54,2,6,2,0.8,iOS,Referral,Mobile,Premium,2023-06-17,2025-01-08,False,True,0.3,Meal Logging,85,True,Positive,True
+7119,2023-08-07,46,Male,Gutierrezstad,Gain Muscle,96,10,3,7,3,0.7,Android,Google Ads,Mobile,Premium,2025-03-25,2025-04-09,False,True,0.4,Workout,70,False,Negative,True
+2669,2020-08-23,23,Female,Ashleyport,Gain Muscle,62,58,4,2,2,0.8,Web,Google Ads,Mobile,Standard,2023-03-04,2025-01-18,False,True,0.1,Meal Logging,50,False,Negative,True
+3992,2020-04-17,48,Other,South Anthonyfurt,Gain Muscle,68,55,3,1,4,0.1,Android,Google Ads,Mobile,Standard,2025-03-08,2025-03-12,False,False,0.3,Meal Logging,63,False,Positive,True
+8927,2021-05-20,35,Male,Rebeccaland,Lose Weight,21,16,3,5,5,0.4,Android,Referral,Web,Standard,2022-09-20,2025-01-12,True,False,0.8,Workout,38,True,Positive,False
+1746,2023-09-03,24,Other,North Angelatown,Lose Weight,15,73,4,2,3,0.6,Web,Google Ads,Mobile,Standard,2025-03-06,2025-01-18,True,True,0.5,Workout,71,True,Positive,True
+5937,2020-10-03,40,Female,East Davidville,Lose Weight,5,29,5,7,7,0.0,Android,Referral,Mobile,Premium,2020-08-27,2025-02-13,False,True,0.6,Support,53,True,Negative,False
+5895,2024-04-01,30,Other,West Nichole,Gain Muscle,44,1,4,5,6,0.2,iOS,Referral,Mobile,Standard,2021-12-19,2025-03-13,True,False,0.7,Meal Logging,73,True,Negative,False
+700,2020-08-28,34,Other,East Kevinberg,Lose Weight,20,95,2,5,6,0.2,iOS,Referral,Mobile,Standard,2022-09-06,2025-01-30,False,False,0.5,Meal Logging,86,True,Negative,True
+922,2024-08-17,51,Female,Lake Danielport,Gain Muscle,97,44,1,1,2,0.0,Android,Referral,Web,Standard,2021-09-25,2025-01-21,True,True,0.2,Workout,20,False,Negative,False
+6618,2020-05-23,55,Female,Port Michelle,Lose Weight,28,99,5,5,7,0.1,Web,Referral,Web,Premium,2020-03-15,2025-04-21,False,False,0.1,Meal Logging,77,False,Positive,True
+3983,2024-01-23,40,Other,South Steven,Lose Weight,81,23,7,2,6,0.0,Android,Referral,Web,Premium,2022-03-30,2025-04-09,False,False,0.8,Meal Logging,76,False,Neutral,True
+3977,2023-05-05,72,Other,Lake Katie,Lose Weight,99,72,7,5,7,0.8,iOS,Referral,Web,Premium,2024-10-24,2025-02-10,True,True,0.1,Workout,91,False,Negative,True
+6303,2024-10-11,80,Male,East Curtis,Gain Muscle,62,61,5,6,1,0.0,Web,Referral,Mobile,Standard,2020-03-26,2025-02-20,False,False,0.3,Support,13,True,Neutral,False
+8486,2023-04-08,33,Female,Mayoburgh,Gain Muscle,3,97,7,7,2,0.7,Android,Google Ads,Mobile,Standard,2025-02-22,2025-01-02,False,False,0.1,Meal Logging,68,True,Negative,False
+94,2020-06-08,58,Other,West Hollyfurt,Lose Weight,78,25,6,4,7,0.9,Web,Referral,Mobile,Standard,2024-05-09,2025-04-06,True,True,0.2,Support,99,True,Positive,False
+7125,2024-12-15,25,Female,West Suzanneborough,Lose Weight,48,4,6,1,7,0.8,Web,Google Ads,Web,Standard,2024-03-02,2025-02-04,False,True,0.9,Meal Logging,21,False,Neutral,True
+8104,2020-03-26,55,Other,Eddiebury,Lose Weight,47,67,2,5,4,0.6,Android,Google Ads,Mobile,Standard,2020-09-12,2025-01-09,True,True,0.0,Workout,49,False,Positive,False
+1437,2022-11-19,51,Male,East Wendytown,Lose Weight,64,38,7,1,6,0.5,iOS,Google Ads,Mobile,Standard,2020-12-03,2025-03-12,False,False,0.0,Support,84,False,Positive,True
+1670,2021-01-31,70,Other,Lake Michaelfort,Gain Muscle,72,35,5,7,1,0.0,Android,Referral,Web,Premium,2022-11-04,2025-03-29,True,True,0.1,Workout,81,False,Positive,True
+8620,2022-04-10,45,Male,New Janetchester,Gain Muscle,93,31,4,1,3,0.1,Android,Referral,Web,Premium,2025-03-04,2025-04-24,False,True,0.1,Meal Logging,20,True,Negative,True
+5829,2021-07-01,25,Female,Haydenville,Gain Muscle,56,87,2,7,6,0.7,Web,Referral,Web,Premium,2024-01-07,2025-04-02,True,True,0.5,Workout,49,False,Negative,True
+6584,2022-04-28,60,Female,Seanborough,Lose Weight,32,10,7,4,4,0.4,Web,Referral,Mobile,Premium,2024-10-01,2025-03-31,True,False,0.6,Meal Logging,82,True,Positive,False
+5082,2023-11-05,49,Female,New Donald,Gain Muscle,46,29,3,5,3,0.4,Web,Referral,Mobile,Premium,2023-11-21,2025-03-15,True,False,0.7,Meal Logging,57,False,Neutral,True
+9865,2022-12-03,27,Male,Megantown,Lose Weight,39,70,2,4,5,0.6,iOS,Google Ads,Web,Premium,2023-01-11,2025-01-17,False,True,0.9,Meal Logging,63,False,Positive,True
+4719,2021-10-16,52,Male,New Emilychester,Gain Muscle,94,25,1,7,3,0.1,iOS,Referral,Mobile,Premium,2023-10-02,2025-05-03,True,False,0.4,Meal Logging,11,True,Neutral,True
+4572,2022-07-07,59,Female,Port Raymondside,Lose Weight,77,78,5,1,1,0.8,iOS,Google Ads,Web,Standard,2025-05-03,2025-01-27,True,False,0.0,Support,3,True,Positive,True
+9895,2022-04-22,64,Male,New Haroldmouth,Lose Weight,21,46,3,6,3,0.1,Android,Referral,Mobile,Standard,2023-10-15,2025-02-16,True,True,0.1,Meal Logging,15,False,Negative,True
+7671,2024-03-26,19,Male,South Brent,Gain Muscle,38,26,7,4,3,0.6,iOS,Referral,Web,Premium,2023-12-08,2025-01-06,False,True,0.2,Support,84,False,Positive,True
+224,2023-11-14,68,Male,North Erikafort,Lose Weight,92,30,2,1,5,0.2,iOS,Referral,Web,Standard,2021-07-19,2025-02-13,False,False,0.3,Workout,63,False,Positive,True
+576,2023-02-08,43,Other,Rebeccaside,Lose Weight,90,3,4,6,1,0.4,Android,Google Ads,Web,Standard,2025-01-12,2025-03-28,False,False,0.5,Workout,72,True,Negative,False
+8207,2022-12-29,78,Female,West Alexton,Lose Weight,79,37,6,1,6,0.4,iOS,Google Ads,Web,Premium,2022-11-02,2025-01-16,False,False,0.3,Meal Logging,63,True,Neutral,False
+7328,2020-08-23,43,Female,Boothberg,Lose Weight,93,6,5,2,4,0.1,Web,Google Ads,Mobile,Premium,2023-03-07,2025-02-20,False,False,0.5,Workout,69,True,Neutral,False
+6410,2022-12-23,39,Male,Port Derekburgh,Gain Muscle,2,65,6,7,2,0.5,Android,Google Ads,Mobile,Standard,2021-12-24,2025-02-06,False,True,0.6,Meal Logging,37,True,Neutral,True
+2356,2022-02-15,18,Female,Perezfurt,Gain Muscle,14,12,7,5,2,0.4,Android,Google Ads,Web,Premium,2023-11-22,2025-04-10,False,True,0.4,Support,69,True,Positive,True
+3496,2023-12-26,42,Female,Erikaberg,Gain Muscle,83,78,1,1,5,0.4,Web,Google Ads,Web,Standard,2022-05-31,2025-01-17,False,False,0.5,Meal Logging,31,False,Negative,True
+9772,2024-10-08,21,Female,South Melinda,Gain Muscle,64,26,7,6,3,0.4,Web,Referral,Mobile,Standard,2021-10-27,2025-03-04,True,False,0.1,Support,50,False,Negative,False
+7270,2020-10-22,18,Male,Port Sarahberg,Lose Weight,92,11,6,4,4,0.9,Web,Referral,Mobile,Premium,2024-05-08,2025-05-04,False,False,0.0,Support,95,False,Positive,True
+5835,2023-02-04,41,Other,Robinsonfort,Lose Weight,59,61,2,3,7,0.3,Android,Google Ads,Web,Standard,2022-08-24,2025-03-06,False,True,0.1,Meal Logging,82,True,Positive,True
+2563,2022-06-05,58,Other,New Zachary,Gain Muscle,28,98,1,2,4,0.5,Android,Google Ads,Mobile,Standard,2023-07-24,2025-01-16,True,True,0.6,Workout,60,True,Negative,True
+7220,2024-03-01,20,Male,Martinezchester,Lose Weight,17,68,7,4,4,0.5,Web,Referral,Mobile,Premium,2021-02-18,2025-03-08,True,True,0.1,Support,61,True,Negative,True
+4878,2023-10-02,72,Female,Dawsonstad,Lose Weight,18,42,7,6,7,0.5,Android,Referral,Mobile,Premium,2024-09-02,2025-05-06,False,True,0.7,Workout,92,False,Neutral,True
+8473,2024-06-04,74,Male,Riceside,Lose Weight,39,53,1,7,4,0.8,Web,Google Ads,Mobile,Premium,2025-02-28,2025-03-16,False,False,0.9,Meal Logging,49,False,Positive,True
+1393,2024-07-06,21,Other,Ellisonton,Gain Muscle,4,20,7,1,1,0.7,Web,Google Ads,Mobile,Standard,2022-09-24,2025-01-25,True,True,0.1,Meal Logging,54,False,Neutral,False
+3481,2024-06-13,40,Female,Port Michael,Gain Muscle,95,6,5,4,2,0.9,Android,Google Ads,Mobile,Premium,2022-11-19,2025-04-10,True,False,0.0,Workout,19,True,Negative,True
+5497,2020-09-01,73,Female,Jesseland,Lose Weight,32,84,5,7,6,0.3,Web,Referral,Web,Standard,2024-01-05,2025-02-15,True,True,0.6,Meal Logging,96,True,Negative,True
+5135,2024-04-15,34,Other,Ashleyborough,Lose Weight,62,56,1,6,3,0.2,iOS,Referral,Mobile,Premium,2023-07-10,2025-05-06,True,True,0.9,Meal Logging,22,False,Positive,True
+8806,2022-06-16,25,Female,Klinechester,Lose Weight,18,89,7,6,4,0.7,Android,Referral,Web,Premium,2024-03-20,2025-01-06,True,True,0.1,Workout,76,True,Negative,False
+2822,2023-05-25,43,Male,Myersstad,Lose Weight,82,62,1,3,3,0.8,Web,Referral,Web,Premium,2021-08-05,2025-04-05,False,True,0.2,Meal Logging,79,True,Negative,False
+9871,2023-04-21,46,Male,New Frankshire,Gain Muscle,39,33,1,1,1,0.9,iOS,Google Ads,Web,Standard,2021-04-18,2025-02-15,True,True,0.6,Support,16,False,Neutral,True
+7601,2021-08-09,53,Male,Zoemouth,Gain Muscle,69,38,7,2,7,0.9,Web,Referral,Mobile,Premium,2025-01-05,2025-01-25,False,True,0.3,Meal Logging,89,True,Neutral,True
+2604,2022-05-28,62,Other,Laratown,Lose Weight,33,12,2,2,4,0.3,Web,Google Ads,Web,Premium,2020-07-18,2025-03-15,False,True,0.3,Workout,69,False,Negative,False
+8158,2024-06-13,56,Male,New Victoriashire,Gain Muscle,91,57,5,1,6,0.8,Android,Google Ads,Mobile,Standard,2020-11-08,2025-02-14,False,False,0.2,Workout,26,True,Neutral,False
+9385,2020-10-21,66,Female,New Spencer,Gain Muscle,66,9,4,1,4,0.7,Web,Referral,Web,Premium,2022-03-22,2025-04-23,False,False,0.3,Support,17,True,Neutral,True
+2415,2022-10-25,41,Other,Port Christopher,Gain Muscle,94,42,7,7,1,0.0,iOS,Google Ads,Web,Premium,2020-10-05,2025-03-05,True,False,0.6,Meal Logging,34,False,Neutral,False
+4183,2025-02-18,47,Male,Lake Keithstad,Lose Weight,29,52,3,3,6,0.8,iOS,Referral,Web,Premium,2024-11-09,2025-05-06,False,False,0.1,Support,51,True,Positive,False
+201,2023-12-03,33,Other,New Reginabury,Lose Weight,14,93,6,1,6,0.3,Web,Google Ads,Mobile,Premium,2022-07-25,2025-05-07,False,True,0.0,Support,86,False,Negative,True
+3087,2020-09-08,67,Male,Erikbury,Gain Muscle,15,81,2,3,3,0.3,Web,Referral,Web,Premium,2021-06-18,2025-01-12,True,False,0.2,Support,63,True,Neutral,False
+4592,2021-02-28,80,Male,Port Matthewborough,Gain Muscle,2,3,7,1,2,0.2,Android,Referral,Mobile,Standard,2024-03-22,2025-03-15,True,False,0.8,Meal Logging,69,True,Neutral,False
+1660,2025-02-05,58,Male,Port Kristichester,Gain Muscle,17,54,2,6,7,0.2,iOS,Google Ads,Mobile,Premium,2021-01-02,2025-01-27,True,False,0.0,Meal Logging,48,True,Negative,True
+5983,2020-11-15,79,Other,North Matthewchester,Lose Weight,28,64,2,4,5,0.8,Web,Google Ads,Web,Premium,2021-10-14,2025-02-26,True,True,0.5,Meal Logging,6,True,Negative,True
+53,2022-09-06,28,Other,Davidton,Lose Weight,30,82,5,6,2,0.9,iOS,Google Ads,Mobile,Standard,2022-03-31,2025-01-26,False,False,0.8,Support,81,False,Positive,False
+2622,2022-02-22,35,Male,East Laurieville,Gain Muscle,21,89,1,3,7,0.6,Android,Google Ads,Web,Premium,2025-01-14,2025-01-26,False,True,0.5,Support,52,False,Positive,False
+2258,2021-11-18,28,Male,Saraville,Gain Muscle,61,22,3,5,4,0.5,Web,Referral,Mobile,Standard,2025-05-04,2025-01-18,False,True,0.9,Workout,37,True,Negative,True
+2194,2022-07-02,78,Other,West Angela,Lose Weight,35,57,4,5,4,0.0,Android,Google Ads,Mobile,Standard,2020-09-09,2025-04-21,False,True,0.3,Support,3,True,Neutral,True
+6791,2022-08-13,24,Female,Hensonport,Lose Weight,24,96,3,3,4,0.5,Android,Google Ads,Mobile,Standard,2024-11-29,2025-01-03,False,False,0.3,Workout,90,True,Positive,True
+2901,2024-03-31,32,Other,South Geraldberg,Lose Weight,96,39,1,5,3,0.1,Web,Google Ads,Mobile,Premium,2023-10-02,2025-05-07,False,True,0.1,Support,26,False,Positive,False
+7139,2021-04-30,52,Other,Port Ianmouth,Gain Muscle,17,59,1,6,7,0.2,iOS,Google Ads,Mobile,Standard,2024-10-07,2025-03-16,False,True,0.2,Support,18,False,Neutral,True
+53,2020-04-29,50,Other,Sextonhaven,Gain Muscle,21,91,6,7,6,0.7,Web,Referral,Mobile,Premium,2020-03-25,2025-04-27,True,True,0.3,Workout,18,True,Positive,True
+6972,2022-05-15,27,Male,East Matthew,Gain Muscle,59,1,7,6,5,0.7,Android,Referral,Web,Standard,2021-10-10,2025-04-10,False,True,0.1,Support,57,True,Neutral,True
+3759,2021-02-11,63,Male,Michaelberg,Gain Muscle,64,5,5,2,3,0.5,Android,Google Ads,Web,Standard,2025-03-22,2025-01-08,False,True,0.8,Workout,10,True,Neutral,False
+5998,2020-11-23,51,Other,Port Catherineberg,Gain Muscle,51,59,5,7,1,0.0,Android,Referral,Web,Standard,2021-01-29,2025-01-28,False,True,0.2,Workout,62,False,Positive,True
+4917,2020-07-16,35,Female,Lisabury,Gain Muscle,76,36,5,2,3,0.3,Android,Google Ads,Web,Premium,2024-05-26,2025-01-30,True,False,0.0,Meal Logging,94,False,Neutral,True
+1571,2024-10-12,56,Male,Sharonmouth,Gain Muscle,38,45,4,1,7,0.0,Android,Referral,Web,Premium,2025-03-21,2025-05-02,False,True,0.7,Support,69,True,Positive,False
+425,2020-12-28,58,Female,New Amyside,Gain Muscle,29,83,7,5,4,0.0,Android,Google Ads,Mobile,Standard,2023-11-08,2025-03-14,True,True,0.7,Meal Logging,61,False,Neutral,True
+9967,2021-12-04,31,Male,South Amberbury,Lose Weight,79,67,7,4,3,0.0,Web,Google Ads,Mobile,Standard,2023-06-10,2025-02-19,False,False,0.1,Meal Logging,26,True,Neutral,False
+1331,2023-10-17,21,Female,Port Laura,Gain Muscle,49,58,3,7,4,0.5,iOS,Google Ads,Web,Standard,2020-08-22,2025-02-10,True,True,0.7,Support,6,True,Negative,False
+9352,2020-03-10,67,Other,Hunterhaven,Gain Muscle,91,32,3,2,6,0.7,Web,Referral,Web,Premium,2022-05-20,2025-03-23,True,True,0.0,Meal Logging,35,True,Positive,True
+9371,2023-07-09,32,Other,Tonymouth,Gain Muscle,87,71,2,6,2,0.9,Android,Google Ads,Mobile,Premium,2022-11-07,2025-02-15,False,False,0.1,Workout,94,False,Neutral,False
+5528,2024-05-20,63,Male,West Matthew,Lose Weight,58,22,3,4,2,0.3,Android,Referral,Mobile,Standard,2024-06-04,2025-03-04,True,True,0.6,Support,30,False,Positive,False
+8004,2021-08-04,36,Other,Lisaville,Gain Muscle,44,93,4,4,5,0.8,Android,Referral,Web,Premium,2020-05-25,2025-01-10,False,True,0.9,Meal Logging,11,True,Neutral,False
+87,2020-03-22,77,Female,West Jacquelinefurt,Gain Muscle,52,22,1,5,7,0.0,Android,Referral,Mobile,Standard,2022-12-04,2025-03-23,True,True,0.6,Meal Logging,76,False,Positive,True
+1395,2022-12-01,30,Male,South Ruthton,Lose Weight,24,97,4,6,2,0.4,iOS,Referral,Mobile,Standard,2023-09-25,2025-04-17,True,True,0.1,Meal Logging,64,False,Neutral,True
+7667,2022-07-17,73,Male,South Kyle,Lose Weight,17,62,1,5,3,0.7,Android,Google Ads,Mobile,Standard,2025-02-23,2025-03-05,False,True,0.2,Workout,74,True,Positive,True
+2615,2020-04-28,73,Male,Robinsonshire,Lose Weight,12,2,2,3,1,0.5,iOS,Google Ads,Mobile,Standard,2021-09-08,2025-04-18,False,True,0.2,Workout,10,False,Neutral,False
+8523,2025-03-09,58,Female,Travisfort,Lose Weight,80,49,5,1,3,0.9,Web,Referral,Web,Premium,2025-05-01,2025-01-28,True,False,0.3,Meal Logging,56,True,Positive,True
+9586,2025-02-18,25,Male,Michaeltown,Lose Weight,60,73,4,4,6,0.6,Web,Google Ads,Mobile,Standard,2023-10-16,2025-04-06,False,True,0.2,Support,73,True,Neutral,False
+3386,2023-10-21,55,Male,New Jillian,Gain Muscle,9,67,5,6,5,0.2,Android,Google Ads,Web,Standard,2024-08-23,2025-02-17,False,False,0.8,Meal Logging,99,True,Negative,True
+8244,2021-08-12,57,Male,Barbarastad,Lose Weight,13,98,6,2,5,0.5,iOS,Google Ads,Web,Premium,2020-11-23,2025-04-12,False,False,0.0,Support,9,False,Negative,False
+6452,2022-07-06,29,Female,New Shannonview,Gain Muscle,21,91,4,3,5,0.4,Android,Google Ads,Mobile,Standard,2021-09-13,2025-04-15,True,False,0.6,Workout,85,False,Positive,False
+4932,2024-09-26,79,Female,Wayneport,Gain Muscle,72,19,6,7,2,0.3,Web,Google Ads,Mobile,Standard,2025-03-10,2025-04-01,False,False,0.3,Workout,58,False,Positive,True
+5012,2024-12-24,55,Female,Sandersberg,Lose Weight,20,7,1,3,1,0.9,Web,Google Ads,Web,Standard,2022-04-14,2025-01-25,True,False,0.1,Workout,74,False,Positive,False
+8539,2021-10-31,72,Female,East Kevinborough,Gain Muscle,54,80,6,5,6,0.0,iOS,Google Ads,Mobile,Premium,2022-09-16,2025-05-04,True,False,0.1,Meal Logging,88,True,Negative,False
+1192,2023-08-18,80,Other,East Randy,Gain Muscle,42,91,7,1,5,0.3,Android,Referral,Web,Standard,2022-11-16,2025-05-08,False,False,0.1,Meal Logging,68,True,Positive,True
+5601,2022-02-10,39,Other,Jessicaborough,Gain Muscle,94,58,2,5,2,0.4,Web,Referral,Web,Premium,2022-02-13,2025-03-31,False,True,0.7,Workout,22,True,Negative,True
+9317,2022-01-10,75,Other,South Brenda,Gain Muscle,21,12,7,5,7,0.1,Android,Referral,Mobile,Standard,2021-09-04,2025-02-23,False,True,0.3,Workout,22,False,Neutral,False
+9395,2022-04-06,25,Other,Cameronfurt,Gain Muscle,69,51,1,3,6,0.8,Android,Referral,Mobile,Standard,2022-09-25,2025-01-19,False,False,0.7,Workout,98,True,Positive,False
+8699,2021-05-11,38,Other,East Ashleymouth,Gain Muscle,75,82,6,3,1,0.5,Web,Referral,Mobile,Premium,2020-10-23,2025-03-21,True,False,0.9,Workout,96,True,Neutral,True
+8333,2025-04-16,63,Other,South Kara,Lose Weight,94,86,4,7,6,0.6,iOS,Referral,Mobile,Standard,2022-03-15,2025-01-28,False,True,0.5,Meal Logging,15,False,Negative,False
+5323,2022-09-12,78,Female,Barbarahaven,Gain Muscle,4,28,4,5,4,0.1,Web,Google Ads,Mobile,Premium,2020-11-23,2025-03-07,True,False,0.7,Workout,76,True,Positive,True
+6675,2024-03-27,68,Other,Erinhaven,Lose Weight,70,99,2,3,4,0.6,iOS,Referral,Web,Premium,2024-04-10,2025-01-29,False,True,0.5,Workout,86,False,Positive,True
+7135,2023-09-22,75,Other,Brownland,Gain Muscle,12,24,4,1,5,0.4,Android,Google Ads,Web,Premium,2021-11-28,2025-04-18,True,False,0.5,Meal Logging,56,False,Positive,False
+9560,2024-12-03,42,Male,Lake Sherrymouth,Gain Muscle,0,19,4,3,1,0.0,iOS,Google Ads,Web,Standard,2022-06-01,2025-03-10,False,True,0.3,Support,82,True,Negative,True
+6596,2021-06-03,56,Male,Sandersfort,Gain Muscle,78,31,4,1,4,0.4,iOS,Google Ads,Mobile,Premium,2023-03-03,2025-01-27,True,True,0.3,Meal Logging,98,True,Positive,False
+8519,2023-01-13,75,Male,West Laura,Lose Weight,23,57,1,1,5,0.1,iOS,Google Ads,Web,Standard,2025-01-18,2025-03-20,False,True,0.3,Meal Logging,87,False,Positive,True
+8261,2023-02-24,18,Other,West Jenniferton,Lose Weight,27,44,5,5,2,0.1,iOS,Referral,Mobile,Standard,2021-11-23,2025-01-26,True,False,0.3,Workout,15,False,Neutral,False
+4222,2022-04-23,47,Other,Bondbury,Lose Weight,97,58,5,1,1,0.3,Android,Referral,Mobile,Standard,2023-09-09,2025-05-04,True,False,0.5,Workout,69,True,Positive,True
+9153,2024-06-08,19,Female,Jeanettebury,Lose Weight,52,19,7,3,5,0.4,iOS,Google Ads,Mobile,Premium,2022-08-22,2025-02-03,True,True,0.1,Meal Logging,21,False,Neutral,True
+4142,2021-02-09,72,Male,East Michelleville,Gain Muscle,5,23,1,5,5,0.7,Web,Referral,Mobile,Standard,2022-04-24,2025-02-15,False,False,0.3,Meal Logging,58,True,Negative,True
+3503,2023-05-22,76,Male,Lake Russelltown,Lose Weight,98,26,7,3,6,0.8,Web,Referral,Mobile,Premium,2020-09-02,2025-04-28,False,False,0.2,Meal Logging,17,True,Negative,True
+9830,2020-07-05,65,Other,East Mary,Lose Weight,16,44,2,5,6,0.5,Android,Referral,Mobile,Standard,2024-06-05,2025-03-03,True,True,0.8,Support,25,False,Positive,True
+1764,2024-06-22,79,Other,North Ashleyville,Gain Muscle,58,30,1,4,6,0.7,Web,Google Ads,Web,Standard,2023-12-17,2025-04-12,False,False,0.8,Meal Logging,37,True,Negative,True
+3042,2020-08-03,79,Male,Lake Angela,Gain Muscle,77,13,1,5,6,0.1,Android,Referral,Web,Premium,2023-07-16,2025-02-06,True,True,0.1,Workout,17,False,Positive,True
+9923,2021-03-22,63,Female,Penaton,Gain Muscle,51,89,3,1,7,0.8,Android,Referral,Mobile,Standard,2024-12-26,2025-05-07,True,True,0.7,Meal Logging,42,True,Positive,True
+9651,2024-07-08,72,Male,New Johnmouth,Lose Weight,78,15,2,7,3,0.8,Android,Referral,Web,Standard,2021-07-23,2025-01-10,False,True,0.5,Workout,72,False,Positive,False
+3643,2020-01-10,73,Other,East Kelliton,Gain Muscle,49,44,2,5,7,0.8,iOS,Google Ads,Mobile,Premium,2021-12-08,2025-04-13,True,False,0.6,Meal Logging,86,True,Positive,False
+4558,2024-05-10,28,Male,Joshuafurt,Lose Weight,5,0,2,3,7,0.0,Web,Referral,Mobile,Standard,2023-03-12,2025-05-07,True,False,0.3,Workout,83,True,Neutral,False
+4622,2021-05-17,49,Other,Michaelfurt,Gain Muscle,62,33,2,1,3,0.0,Web,Referral,Web,Premium,2021-03-24,2025-02-10,False,True,0.2,Meal Logging,26,False,Negative,True
+9160,2021-03-20,47,Other,New Joshuaton,Gain Muscle,90,4,5,2,2,0.1,iOS,Referral,Mobile,Premium,2020-07-22,2025-03-09,True,True,0.5,Workout,42,True,Positive,False
+5984,2021-08-06,35,Other,South Mark,Gain Muscle,54,13,1,1,3,0.8,iOS,Google Ads,Mobile,Premium,2020-02-08,2025-03-01,True,False,0.5,Support,71,True,Negative,False
+2691,2023-03-23,60,Other,West Tanyaland,Lose Weight,42,62,6,5,7,0.8,Android,Google Ads,Mobile,Premium,2024-12-30,2025-01-01,False,True,0.1,Support,97,False,Negative,False
+244,2023-10-09,24,Other,North Jameschester,Lose Weight,64,57,2,7,5,0.7,iOS,Google Ads,Mobile,Standard,2022-12-17,2025-02-15,True,True,0.1,Support,11,False,Negative,True
+3758,2024-12-15,73,Other,Allenland,Lose Weight,61,28,7,6,5,0.2,Web,Referral,Web,Premium,2022-03-30,2025-05-01,True,False,0.4,Meal Logging,73,False,Neutral,False
+2982,2020-12-12,23,Other,Leeberg,Gain Muscle,29,44,4,7,1,0.3,Web,Google Ads,Mobile,Standard,2021-05-10,2025-02-21,True,True,0.9,Support,86,False,Positive,True
+1197,2021-11-26,70,Female,North Stephenport,Gain Muscle,84,37,4,6,3,0.1,Android,Google Ads,Mobile,Standard,2021-06-29,2025-02-07,True,False,0.0,Support,83,False,Positive,False
+5560,2024-09-01,30,Male,West Janemouth,Gain Muscle,79,18,5,6,7,0.2,iOS,Google Ads,Mobile,Standard,2020-03-01,2025-01-05,True,False,0.0,Workout,48,False,Negative,True
+3962,2020-12-15,51,Other,East Michaelland,Gain Muscle,78,90,1,2,3,0.6,iOS,Referral,Mobile,Standard,2023-04-03,2025-02-08,False,False,0.3,Meal Logging,59,True,Neutral,True
+5971,2024-09-23,61,Male,New Mercedes,Gain Muscle,53,38,5,3,2,0.0,iOS,Google Ads,Web,Standard,2022-09-13,2025-02-18,False,False,0.7,Support,70,False,Neutral,True
+5745,2021-05-03,59,Male,West Gregory,Gain Muscle,82,18,7,1,1,0.3,Web,Referral,Web,Premium,2024-06-07,2025-01-30,False,True,0.7,Workout,5,True,Positive,True
+8315,2020-10-25,68,Female,Swansonfurt,Gain Muscle,81,47,1,2,5,0.5,Android,Referral,Web,Standard,2021-09-27,2025-01-01,False,True,0.8,Meal Logging,89,False,Negative,True
+2813,2023-02-05,58,Female,Port Amy,Gain Muscle,32,66,5,1,2,0.6,Android,Google Ads,Mobile,Premium,2021-08-27,2025-03-24,True,False,0.3,Meal Logging,39,False,Negative,False
+3471,2020-10-01,44,Male,West Christian,Gain Muscle,99,53,3,3,1,0.2,Android,Google Ads,Web,Standard,2024-07-12,2025-04-10,True,True,0.0,Support,17,True,Neutral,True
+747,2024-03-24,77,Male,Clarkport,Lose Weight,92,41,4,3,4,0.0,Android,Referral,Mobile,Premium,2020-09-17,2025-01-10,True,True,0.0,Meal Logging,69,False,Negative,False
+5295,2021-01-01,51,Other,Hughesfurt,Gain Muscle,70,86,7,3,3,0.9,Android,Google Ads,Web,Standard,2024-06-25,2025-04-04,False,False,0.1,Workout,86,True,Neutral,False
+1675,2020-05-07,36,Male,Walshshire,Gain Muscle,23,23,5,1,1,0.8,Android,Referral,Web,Standard,2024-06-11,2025-02-25,True,True,0.6,Meal Logging,67,False,Neutral,False
+6554,2024-12-30,48,Male,North Susanhaven,Lose Weight,82,18,4,2,6,0.4,Web,Google Ads,Mobile,Premium,2024-08-29,2025-03-30,True,True,0.3,Workout,23,True,Neutral,False
+4994,2022-03-14,69,Male,Scottchester,Gain Muscle,92,20,7,2,7,0.7,iOS,Google Ads,Mobile,Standard,2022-09-18,2025-01-28,False,False,0.7,Workout,54,True,Negative,False
+7736,2022-12-16,77,Other,Angelamouth,Lose Weight,45,12,5,7,4,0.0,iOS,Referral,Mobile,Standard,2022-03-21,2025-03-25,True,True,0.9,Workout,68,False,Negative,True
+8704,2022-04-07,22,Male,West Stevenmouth,Lose Weight,60,91,3,6,1,0.4,Android,Referral,Mobile,Standard,2021-03-20,2025-04-12,True,True,0.2,Support,11,True,Positive,False
+8650,2020-10-30,46,Other,Noahport,Gain Muscle,24,36,2,5,2,0.0,Web,Google Ads,Web,Standard,2022-12-03,2025-03-18,True,True,0.4,Support,10,True,Negative,False
+5660,2021-10-21,46,Male,Stewartside,Lose Weight,4,75,7,2,6,0.7,Web,Referral,Web,Premium,2025-01-07,2025-01-10,False,False,0.4,Meal Logging,60,True,Positive,True
+8598,2021-08-07,31,Female,Marctown,Gain Muscle,82,11,5,7,4,0.3,iOS,Google Ads,Mobile,Premium,2021-06-23,2025-04-28,False,False,0.0,Meal Logging,96,False,Positive,False
+1214,2023-06-13,33,Other,Port Lisastad,Lose Weight,93,44,4,4,4,0.8,Web,Referral,Mobile,Standard,2024-10-03,2025-04-18,True,True,0.0,Workout,22,True,Neutral,True
+8843,2021-04-05,64,Female,Madisonfurt,Lose Weight,69,15,3,2,5,0.2,Android,Google Ads,Mobile,Standard,2024-02-19,2025-04-02,False,False,0.2,Meal Logging,1,True,Positive,False
+5443,2021-03-06,28,Female,Thomashaven,Lose Weight,4,24,6,3,5,0.5,Android,Google Ads,Web,Standard,2020-02-26,2025-03-21,True,True,0.9,Workout,44,False,Neutral,False
+3015,2022-02-27,28,Male,Taylormouth,Gain Muscle,71,50,4,3,7,0.9,iOS,Google Ads,Web,Premium,2023-04-14,2025-02-26,False,False,0.6,Workout,31,False,Negative,False
+1858,2023-08-07,47,Other,New Timothyberg,Gain Muscle,98,45,4,2,1,0.4,iOS,Google Ads,Mobile,Premium,2023-10-10,2025-01-23,True,True,0.1,Support,31,True,Neutral,True
+7145,2020-09-01,64,Male,North Marystad,Lose Weight,82,57,6,1,5,0.9,iOS,Referral,Mobile,Premium,2023-12-08,2025-04-28,False,False,0.4,Support,44,False,Neutral,False
+6347,2024-04-11,26,Female,Lake Brianville,Gain Muscle,22,25,5,2,5,0.1,Web,Referral,Mobile,Premium,2024-06-01,2025-02-04,False,True,0.4,Meal Logging,48,True,Neutral,False
+1296,2022-07-07,46,Other,Watsonfort,Lose Weight,32,87,6,2,6,0.8,iOS,Referral,Mobile,Premium,2023-09-09,2025-03-20,False,False,0.9,Meal Logging,17,True,Neutral,False
+3302,2022-04-13,18,Male,Lake Juan,Gain Muscle,58,87,6,3,5,0.1,Web,Referral,Web,Premium,2021-07-30,2025-03-19,True,True,0.3,Support,20,False,Negative,True
+7759,2024-08-30,60,Female,Thomasville,Gain Muscle,44,8,4,2,4,0.7,Android,Google Ads,Web,Standard,2020-08-17,2025-04-18,False,True,0.4,Support,70,True,Neutral,True
+336,2021-04-11,61,Female,South Albert,Lose Weight,17,82,6,3,2,0.6,iOS,Google Ads,Web,Standard,2024-08-20,2025-03-12,False,False,0.1,Support,60,False,Neutral,True
+9649,2020-06-18,30,Female,East Gregoryburgh,Gain Muscle,33,11,3,6,1,0.4,iOS,Referral,Mobile,Standard,2020-03-31,2025-02-15,False,False,0.2,Workout,16,False,Negative,False
+2848,2020-03-28,29,Other,East Shelleyville,Lose Weight,19,15,7,7,3,0.8,Android,Referral,Web,Standard,2024-02-26,2025-03-16,True,False,0.2,Workout,1,True,Positive,False
+92,2023-07-21,27,Other,Port Michael,Gain Muscle,56,13,2,3,1,0.9,Android,Referral,Web,Premium,2020-06-12,2025-04-10,True,True,0.4,Meal Logging,77,False,Positive,False
+216,2024-06-14,68,Other,East David,Lose Weight,24,49,4,5,4,0.3,iOS,Google Ads,Mobile,Standard,2023-10-24,2025-03-28,False,False,0.4,Meal Logging,5,False,Positive,True
+7165,2023-12-24,47,Male,Lake Audreyview,Gain Muscle,99,59,1,2,6,0.8,Web,Google Ads,Web,Premium,2023-03-26,2025-03-14,True,False,0.0,Meal Logging,26,True,Neutral,False
+3937,2021-06-17,29,Male,North Sarahton,Gain Muscle,51,37,5,2,5,0.0,iOS,Referral,Web,Premium,2022-07-14,2025-01-12,True,False,0.9,Support,53,False,Neutral,False
+8174,2020-01-21,57,Other,Sheilaborough,Gain Muscle,68,87,1,5,1,0.1,Android,Referral,Mobile,Premium,2021-12-26,2025-01-22,False,True,0.4,Support,11,True,Neutral,False
+3051,2020-03-04,78,Female,South Tiffanyfurt,Gain Muscle,69,82,7,2,6,0.5,iOS,Google Ads,Web,Premium,2020-04-24,2025-01-12,False,False,0.2,Meal Logging,87,False,Positive,False
+5903,2022-04-21,23,Female,West Diana,Gain Muscle,16,67,7,1,6,0.4,Android,Referral,Mobile,Standard,2021-05-20,2025-03-23,True,False,0.0,Meal Logging,57,False,Positive,False
+2531,2024-11-27,28,Female,Gibsonview,Lose Weight,63,76,1,4,2,0.4,Android,Referral,Mobile,Standard,2021-07-16,2025-01-12,False,False,0.2,Meal Logging,16,False,Negative,False
+5787,2023-02-26,64,Female,New Clintonstad,Gain Muscle,28,69,4,4,2,0.7,Android,Referral,Mobile,Premium,2024-07-02,2025-03-27,True,True,0.3,Workout,62,True,Positive,False
+2173,2021-07-03,54,Other,South Graceland,Gain Muscle,13,49,7,5,4,0.0,Android,Referral,Mobile,Standard,2024-02-11,2025-01-06,False,True,0.8,Meal Logging,48,False,Positive,True
+4784,2022-03-08,39,Male,Robinstad,Gain Muscle,54,61,2,6,2,0.9,Android,Referral,Web,Standard,2020-02-21,2025-01-11,True,True,0.0,Meal Logging,89,False,Negative,True
+4046,2021-04-10,48,Female,Port Laurashire,Gain Muscle,61,90,1,6,6,0.2,Web,Referral,Web,Premium,2020-02-15,2025-03-31,True,True,0.7,Meal Logging,13,False,Negative,False
+230,2021-03-26,39,Female,West Sarah,Gain Muscle,52,95,6,4,2,0.2,Android,Google Ads,Web,Premium,2023-04-16,2025-01-03,True,True,0.7,Support,69,False,Positive,False
+7368,2024-06-25,34,Other,Lake Matthewfurt,Gain Muscle,50,43,4,7,5,0.3,Android,Referral,Web,Standard,2024-01-04,2025-01-30,False,False,0.0,Meal Logging,78,True,Neutral,False
+3637,2024-01-19,32,Other,Patrickborough,Gain Muscle,48,10,5,1,2,0.5,Android,Google Ads,Mobile,Premium,2024-01-11,2025-02-02,False,True,0.7,Support,22,True,Positive,True
+2177,2022-05-22,67,Other,Michaelbury,Lose Weight,70,54,4,2,5,0.2,Web,Google Ads,Mobile,Standard,2022-07-31,2025-01-19,False,True,0.6,Workout,15,False,Negative,False
+3130,2022-12-06,69,Other,Mccarthyfurt,Lose Weight,66,46,2,5,6,0.3,iOS,Google Ads,Web,Premium,2024-11-29,2025-04-09,False,True,0.9,Support,61,True,Neutral,False
+6057,2021-08-17,64,Other,West Sandra,Lose Weight,57,84,3,4,7,0.3,iOS,Referral,Web,Premium,2022-03-23,2025-01-29,False,False,0.1,Support,79,False,Negative,True
+4025,2023-04-13,79,Female,Greenside,Lose Weight,22,92,2,2,7,0.4,Web,Google Ads,Mobile,Premium,2024-12-25,2025-04-22,True,True,0.7,Meal Logging,24,True,Neutral,False
+1012,2021-08-20,70,Male,New William,Lose Weight,49,79,4,1,7,0.9,iOS,Referral,Mobile,Premium,2022-12-14,2025-05-02,True,False,0.5,Meal Logging,65,True,Negative,True
+6222,2024-01-22,29,Female,South Aaron,Gain Muscle,90,50,1,4,3,0.6,iOS,Referral,Web,Premium,2024-05-14,2025-03-06,False,False,0.4,Meal Logging,5,True,Neutral,True
+8249,2023-08-22,45,Female,Port Patricia,Lose Weight,66,80,1,1,5,0.5,iOS,Referral,Mobile,Standard,2022-11-09,2025-03-02,False,False,0.1,Workout,68,False,Negative,True
+4046,2024-01-31,66,Male,West Bobby,Lose Weight,36,72,3,6,4,0.4,Android,Referral,Mobile,Standard,2020-10-11,2025-02-01,True,False,0.0,Workout,73,True,Neutral,True
+8247,2020-08-31,31,Male,Obrientown,Lose Weight,98,54,2,7,5,0.2,Web,Google Ads,Web,Standard,2021-02-04,2025-02-08,False,False,0.1,Workout,0,False,Positive,False
+1451,2023-12-13,36,Female,Dianaton,Lose Weight,57,76,4,4,1,0.0,iOS,Referral,Mobile,Premium,2021-07-01,2025-03-15,False,True,0.8,Support,26,True,Negative,False
+5034,2020-07-11,75,Male,West Stevenview,Lose Weight,33,47,3,1,3,0.7,iOS,Google Ads,Mobile,Premium,2020-08-11,2025-01-12,True,False,0.2,Meal Logging,85,True,Neutral,False
+8789,2022-08-09,45,Other,New Kimberly,Gain Muscle,58,80,5,1,6,0.5,Android,Google Ads,Web,Standard,2021-12-18,2025-04-02,True,True,0.5,Support,97,True,Negative,False
+3137,2024-02-07,36,Other,Lake Jameshaven,Gain Muscle,44,59,6,2,5,0.0,Web,Referral,Mobile,Premium,2020-08-12,2025-02-22,False,True,0.8,Support,48,False,Negative,False
+9954,2023-08-02,50,Other,New Thomas,Gain Muscle,92,38,1,6,6,0.9,iOS,Google Ads,Web,Premium,2024-08-15,2025-01-25,False,True,0.1,Support,32,True,Negative,True
+5562,2022-04-29,57,Other,Tylerland,Lose Weight,15,67,1,3,3,0.0,iOS,Google Ads,Web,Premium,2023-09-28,2025-04-02,True,True,0.3,Workout,37,False,Positive,False
+3774,2024-11-21,71,Other,Heathermouth,Gain Muscle,83,82,6,3,4,0.3,Web,Referral,Mobile,Premium,2023-04-05,2025-01-17,True,False,0.1,Support,77,True,Neutral,False
+7627,2024-04-04,75,Male,East Robertview,Lose Weight,59,79,3,5,6,0.0,iOS,Google Ads,Web,Standard,2022-09-28,2025-01-26,True,False,0.1,Support,62,False,Neutral,False
+6295,2024-03-04,34,Other,Kristinaburgh,Lose Weight,43,80,2,2,5,0.3,iOS,Google Ads,Mobile,Premium,2021-05-11,2025-01-24,False,False,0.5,Meal Logging,5,False,Positive,True
+9841,2025-05-06,37,Male,Morganton,Gain Muscle,67,28,1,6,6,0.5,Web,Referral,Mobile,Standard,2024-05-31,2025-04-02,False,False,0.0,Workout,16,False,Neutral,True
+90,2024-02-18,80,Female,South Joseph,Lose Weight,90,93,2,7,2,0.5,iOS,Google Ads,Mobile,Standard,2024-09-10,2025-01-20,True,True,0.4,Meal Logging,80,False,Negative,False
+6101,2021-05-21,21,Female,Victorville,Lose Weight,17,95,4,7,7,0.3,Android,Google Ads,Mobile,Premium,2025-01-27,2025-02-08,True,False,0.9,Workout,73,False,Negative,False
+2194,2022-05-14,78,Other,Lake Tanya,Lose Weight,54,15,1,1,1,0.8,Android,Referral,Web,Premium,2020-10-04,2025-03-23,False,True,0.3,Workout,43,False,Neutral,True
+5784,2024-09-22,66,Other,Rachelville,Lose Weight,41,45,3,2,7,0.9,iOS,Referral,Mobile,Standard,2022-03-15,2025-03-20,False,False,0.2,Support,50,False,Neutral,False
+8831,2022-04-16,64,Male,Ryanport,Lose Weight,49,86,5,6,2,0.9,Web,Referral,Web,Standard,2020-01-18,2025-02-18,False,False,0.4,Support,81,False,Positive,True
+208,2024-11-04,38,Other,Suzannefurt,Lose Weight,57,76,6,6,1,0.5,Android,Referral,Mobile,Premium,2023-09-16,2025-02-06,False,True,0.6,Meal Logging,41,True,Negative,False
+8401,2023-07-29,56,Male,New Karenbury,Gain Muscle,24,50,3,7,3,0.8,Android,Google Ads,Web,Standard,2020-08-28,2025-04-22,False,False,0.5,Workout,53,True,Positive,False
+232,2020-03-23,19,Other,Jonesside,Lose Weight,8,55,4,1,2,0.4,Web,Google Ads,Mobile,Premium,2023-05-23,2025-01-28,False,False,0.1,Workout,54,False,Positive,False
+9918,2023-09-27,61,Male,North Amanda,Lose Weight,94,27,2,6,5,0.5,Web,Referral,Web,Premium,2022-02-02,2025-01-09,True,False,0.1,Workout,9,False,Negative,False
+6986,2021-08-04,69,Female,New Sarah,Lose Weight,40,29,2,5,4,0.2,Web,Google Ads,Web,Premium,2025-03-29,2025-03-25,True,False,0.8,Meal Logging,81,False,Neutral,False
+6858,2023-12-22,32,Female,South James,Gain Muscle,44,37,5,5,2,0.9,iOS,Google Ads,Web,Premium,2020-06-18,2025-04-27,False,True,0.0,Workout,62,False,Positive,False
+5676,2021-03-23,61,Female,Bakerville,Gain Muscle,32,87,7,5,7,0.5,Android,Referral,Web,Premium,2021-03-17,2025-04-06,True,False,0.0,Support,85,True,Negative,True
+2111,2023-11-03,62,Male,Kristinburgh,Lose Weight,33,11,5,6,7,0.9,iOS,Referral,Mobile,Premium,2022-11-10,2025-02-28,True,True,0.8,Meal Logging,40,False,Positive,True
+6401,2021-10-24,76,Other,Richardtown,Lose Weight,86,39,5,4,5,0.7,Android,Referral,Web,Premium,2021-02-13,2025-03-05,True,False,0.9,Workout,82,True,Neutral,True
+5441,2024-01-22,77,Female,New Pamela,Lose Weight,77,61,5,5,5,0.7,Web,Google Ads,Mobile,Premium,2023-11-09,2025-02-10,True,True,0.1,Support,72,False,Negative,True
+4624,2023-03-16,43,Male,New Jamesside,Lose Weight,86,85,2,4,2,0.0,Android,Google Ads,Mobile,Standard,2021-08-23,2025-04-28,False,True,0.0,Meal Logging,6,True,Neutral,True
+8561,2021-06-23,31,Other,Tammyfort,Lose Weight,46,49,2,3,6,0.1,Android,Referral,Web,Standard,2023-03-13,2025-02-20,False,True,0.3,Meal Logging,50,True,Positive,True
+3897,2021-09-13,47,Other,Thompsonmouth,Lose Weight,49,93,3,3,7,0.8,Web,Google Ads,Mobile,Premium,2025-04-17,2025-03-10,True,False,0.4,Workout,87,False,Positive,False
+9377,2022-07-27,54,Male,South Heidi,Lose Weight,62,61,5,2,6,0.8,iOS,Google Ads,Web,Premium,2022-05-28,2025-04-19,True,False,0.0,Support,36,False,Negative,True
+5639,2020-06-08,77,Other,New Matthewberg,Lose Weight,52,14,6,7,7,0.5,iOS,Referral,Mobile,Premium,2022-05-31,2025-03-06,False,False,0.4,Workout,81,False,Neutral,False
+2374,2022-04-09,29,Other,Williamschester,Lose Weight,34,57,2,4,4,0.4,Web,Referral,Mobile,Premium,2024-07-26,2025-04-17,False,False,0.2,Support,76,True,Positive,True
+3253,2024-05-11,59,Other,South Lisafort,Gain Muscle,51,67,4,6,4,0.8,Web,Google Ads,Web,Premium,2020-03-28,2025-01-15,True,False,0.0,Support,28,False,Positive,True
+6064,2022-03-20,50,Other,North Andrewfurt,Lose Weight,99,93,4,6,7,0.7,iOS,Google Ads,Web,Premium,2024-06-05,2025-05-06,False,True,0.9,Workout,85,True,Neutral,True
+7281,2023-12-21,75,Other,South Johnton,Gain Muscle,79,94,2,7,4,0.1,Web,Google Ads,Web,Standard,2024-09-14,2025-02-22,False,True,0.1,Workout,63,False,Negative,False
+7661,2024-06-30,74,Other,West Lindabury,Gain Muscle,49,44,1,2,6,0.8,Web,Referral,Mobile,Standard,2020-11-15,2025-01-25,False,False,0.1,Workout,65,False,Negative,False
+7949,2023-02-12,67,Male,Perezshire,Gain Muscle,81,45,2,7,2,0.0,iOS,Referral,Mobile,Premium,2024-08-01,2025-03-27,True,True,0.0,Meal Logging,59,True,Positive,True
+7539,2022-10-11,26,Male,Ronaldville,Lose Weight,54,11,6,2,5,0.5,iOS,Google Ads,Mobile,Premium,2023-02-08,2025-03-17,True,False,0.4,Workout,19,True,Neutral,True
+8241,2022-10-23,60,Female,Victorstad,Lose Weight,62,30,4,5,3,0.0,iOS,Google Ads,Web,Standard,2023-11-29,2025-04-20,True,True,0.7,Meal Logging,70,True,Neutral,False
+7379,2025-04-05,23,Male,Maddoxville,Gain Muscle,94,58,3,2,7,0.2,Android,Referral,Mobile,Premium,2021-11-27,2025-02-03,True,True,0.1,Support,19,False,Neutral,True
+7774,2020-06-05,62,Male,North Calvin,Lose Weight,11,27,1,6,4,0.3,Android,Referral,Web,Standard,2023-09-26,2025-03-08,True,True,0.2,Support,35,False,Negative,False
+7099,2025-03-25,37,Female,Jacobsonfurt,Lose Weight,83,85,3,4,1,0.0,Web,Referral,Web,Standard,2022-07-22,2025-05-06,False,True,0.1,Workout,14,False,Neutral,False
+8260,2022-04-25,46,Other,Stacyberg,Gain Muscle,43,46,2,5,5,0.9,Android,Google Ads,Web,Premium,2021-03-29,2025-02-05,True,False,0.7,Workout,86,True,Neutral,False
+9383,2025-04-27,59,Other,Ruthburgh,Gain Muscle,1,78,7,1,3,0.4,iOS,Google Ads,Web,Standard,2023-12-05,2025-03-29,False,True,0.2,Meal Logging,76,True,Positive,True
+7744,2020-10-05,50,Female,Millermouth,Lose Weight,1,62,4,7,7,0.2,iOS,Referral,Mobile,Standard,2024-07-07,2025-02-08,True,True,0.5,Meal Logging,85,True,Negative,True
+3599,2020-07-19,52,Other,Jonesside,Gain Muscle,86,4,3,5,6,0.1,iOS,Referral,Mobile,Standard,2021-01-16,2025-03-10,False,False,0.0,Meal Logging,15,True,Neutral,True
+5387,2025-01-05,66,Male,Port Chelsea,Gain Muscle,52,61,4,6,3,0.6,Android,Google Ads,Web,Standard,2021-11-25,2025-04-13,False,False,0.9,Workout,54,True,Neutral,True
+8252,2025-01-09,43,Female,New Daniellechester,Lose Weight,97,98,4,6,2,0.2,iOS,Referral,Web,Standard,2021-01-06,2025-02-13,True,False,0.9,Workout,89,True,Neutral,False
+5690,2023-10-23,30,Female,Gregoryport,Lose Weight,5,19,3,6,2,0.2,iOS,Google Ads,Mobile,Standard,2021-07-27,2025-02-21,False,True,0.4,Workout,35,True,Neutral,True
+743,2022-08-21,20,Male,Lake April,Gain Muscle,7,29,2,7,3,0.3,Web,Referral,Web,Standard,2021-03-27,2025-02-15,True,False,0.9,Workout,0,False,Positive,False
+4751,2023-02-24,26,Female,Williammouth,Gain Muscle,5,75,4,5,1,0.4,Web,Referral,Web,Standard,2021-12-26,2025-01-21,False,True,0.9,Support,36,False,Neutral,False
+7136,2022-01-07,49,Female,Owensfort,Gain Muscle,40,76,4,4,7,0.7,Web,Referral,Web,Standard,2022-01-31,2025-01-22,True,False,0.5,Support,99,False,Positive,False
+5066,2020-03-11,32,Other,South Alicia,Gain Muscle,57,51,7,5,3,0.2,iOS,Referral,Web,Standard,2022-11-10,2025-03-15,True,False,0.3,Meal Logging,36,True,Negative,True
+8466,2025-01-30,38,Female,Lake Robert,Lose Weight,25,63,3,5,3,0.6,Android,Google Ads,Mobile,Standard,2022-05-03,2025-03-03,False,True,0.6,Support,68,False,Positive,False
+4707,2020-07-30,35,Female,Kimberlyview,Gain Muscle,73,51,4,1,5,0.4,Android,Referral,Mobile,Premium,2020-04-27,2025-01-05,False,False,0.8,Workout,35,True,Positive,False
+1047,2025-02-22,30,Female,Port Phillip,Gain Muscle,44,68,4,2,5,0.9,iOS,Google Ads,Web,Standard,2025-03-01,2025-04-25,False,True,0.2,Workout,35,True,Neutral,True
+6701,2024-06-25,76,Female,West Reginald,Lose Weight,89,90,5,1,5,0.2,Web,Google Ads,Mobile,Premium,2020-09-16,2025-01-06,False,False,0.5,Support,89,False,Neutral,True
+5384,2022-12-16,47,Female,Port Kathleenfort,Gain Muscle,29,66,6,2,7,0.2,Android,Google Ads,Mobile,Premium,2024-03-05,2025-03-29,False,False,0.9,Support,82,True,Positive,False
+5044,2025-03-17,31,Female,South Jamie,Lose Weight,39,87,2,1,5,0.9,Android,Referral,Mobile,Standard,2022-07-07,2025-04-02,True,False,0.0,Meal Logging,58,False,Positive,True
+9631,2020-05-02,35,Other,Fletcherland,Lose Weight,21,42,7,1,1,0.5,iOS,Referral,Mobile,Premium,2020-07-17,2025-01-31,False,True,0.6,Support,63,True,Neutral,False
+4844,2024-02-16,33,Female,East Jeff,Gain Muscle,99,52,5,7,7,0.9,Android,Google Ads,Mobile,Premium,2023-12-24,2025-03-18,False,True,0.7,Support,8,False,Positive,True
+7295,2022-09-18,59,Other,East Morganfurt,Lose Weight,88,55,1,7,1,0.0,Android,Referral,Mobile,Premium,2022-11-18,2025-03-03,True,True,0.9,Meal Logging,53,True,Negative,False
+7116,2020-10-14,22,Female,Marciashire,Gain Muscle,18,59,6,3,5,0.5,Web,Referral,Web,Standard,2020-09-19,2025-05-05,False,False,0.5,Workout,60,True,Negative,True
+6657,2024-11-27,22,Other,Annshire,Lose Weight,37,28,2,4,3,0.7,Web,Referral,Mobile,Premium,2022-01-21,2025-01-22,False,False,0.2,Support,22,True,Positive,True
+6893,2020-02-25,36,Male,South Mark,Lose Weight,60,15,4,3,3,0.6,iOS,Referral,Web,Premium,2021-09-03,2025-04-04,True,False,0.5,Support,64,False,Neutral,False
+4034,2025-04-14,66,Female,North Melinda,Gain Muscle,92,40,3,1,4,0.4,iOS,Google Ads,Mobile,Standard,2022-03-02,2025-01-10,True,True,0.2,Workout,30,False,Neutral,True
+7918,2023-10-16,27,Male,South Matthew,Lose Weight,89,79,5,3,6,0.9,Web,Google Ads,Web,Standard,2023-11-10,2025-03-09,False,False,0.9,Workout,4,True,Neutral,True
+8885,2021-01-24,67,Other,East Leslieport,Lose Weight,39,50,6,6,6,0.7,iOS,Referral,Mobile,Premium,2021-08-18,2025-01-09,False,False,0.5,Meal Logging,96,True,Negative,False
+9993,2021-09-03,19,Female,West Toniberg,Lose Weight,7,18,5,2,5,0.5,iOS,Google Ads,Web,Standard,2023-01-23,2025-02-07,True,True,0.0,Support,32,True,Neutral,True
+9654,2023-12-05,63,Male,Jonfort,Lose Weight,33,34,6,3,2,0.1,Android,Referral,Mobile,Standard,2024-09-21,2025-03-30,True,True,0.3,Support,10,False,Negative,True
+9715,2025-01-05,72,Male,Jordanshire,Gain Muscle,0,23,5,5,1,0.1,iOS,Google Ads,Web,Premium,2022-01-02,2025-02-02,False,False,0.4,Meal Logging,74,True,Neutral,False
+8571,2023-05-27,70,Other,North Stacey,Lose Weight,85,24,7,2,1,0.7,iOS,Referral,Web,Premium,2023-11-17,2025-04-16,True,True,0.9,Support,72,False,Neutral,False
+9043,2023-08-22,41,Female,Lake Andrewburgh,Gain Muscle,8,63,3,7,1,0.7,iOS,Google Ads,Web,Standard,2020-08-05,2025-01-27,True,False,0.0,Workout,53,False,Positive,True
+822,2024-10-20,30,Other,Moralesburgh,Lose Weight,55,79,2,1,1,0.1,Web,Referral,Mobile,Premium,2025-01-04,2025-04-09,False,False,0.6,Meal Logging,31,False,Negative,True
+6671,2020-05-08,32,Male,Lake Jasonfurt,Lose Weight,13,66,2,4,4,0.8,iOS,Google Ads,Mobile,Standard,2023-03-22,2025-03-29,True,True,0.5,Workout,71,True,Neutral,True
+3137,2023-10-30,73,Other,North Joann,Gain Muscle,9,54,4,7,3,0.9,Web,Referral,Mobile,Premium,2021-08-09,2025-03-26,True,False,0.5,Meal Logging,75,False,Positive,True
+510,2020-07-13,52,Male,Lake Kylefort,Gain Muscle,86,67,4,5,3,0.4,Android,Google Ads,Web,Premium,2021-07-14,2025-04-02,True,True,0.8,Support,56,False,Positive,False
+6872,2021-02-07,40,Other,Martinezview,Gain Muscle,6,24,7,5,1,0.9,Android,Referral,Mobile,Standard,2022-02-12,2025-03-31,False,False,0.6,Meal Logging,96,False,Negative,False
+8476,2024-02-29,53,Female,Jenniferview,Lose Weight,3,23,4,6,2,0.3,iOS,Google Ads,Web,Standard,2025-04-11,2025-01-22,False,False,0.3,Workout,63,True,Positive,True
+771,2020-11-17,68,Other,Port David,Gain Muscle,25,60,5,6,3,0.3,Android,Referral,Web,Standard,2024-05-08,2025-02-09,False,True,0.6,Workout,74,False,Positive,True
+7768,2024-07-10,20,Other,New Samantha,Gain Muscle,70,68,6,5,3,0.1,iOS,Google Ads,Mobile,Premium,2022-09-06,2025-02-04,True,True,0.1,Meal Logging,84,True,Neutral,True
+2249,2024-06-16,75,Female,East Danland,Lose Weight,19,78,7,4,6,0.5,Android,Google Ads,Mobile,Standard,2020-06-12,2025-03-28,True,False,0.3,Meal Logging,99,False,Negative,True
+412,2022-06-22,54,Other,Jacksonchester,Lose Weight,80,19,3,6,4,0.1,Web,Referral,Mobile,Premium,2021-09-13,2025-01-18,True,False,0.4,Support,95,True,Neutral,False
+4388,2022-11-20,43,Male,West Victoriaburgh,Lose Weight,42,10,5,4,5,0.6,iOS,Google Ads,Mobile,Premium,2023-07-21,2025-01-18,False,False,0.4,Meal Logging,68,False,Negative,True
+3575,2020-02-08,69,Other,Lake Aprilchester,Lose Weight,23,75,3,7,5,0.3,iOS,Referral,Web,Premium,2023-05-04,2025-03-26,True,False,0.7,Support,88,False,Neutral,True
+5089,2023-03-09,71,Other,Erinburgh,Lose Weight,22,66,3,7,1,0.9,iOS,Referral,Web,Premium,2021-01-31,2025-01-22,False,False,0.3,Workout,79,False,Positive,False
+2976,2021-10-11,50,Other,South Laura,Gain Muscle,42,70,5,7,2,0.1,Web,Google Ads,Mobile,Premium,2021-08-28,2025-01-20,True,True,0.4,Workout,11,True,Neutral,False
+3375,2021-04-19,49,Female,Robertmouth,Lose Weight,48,79,6,2,4,0.9,iOS,Google Ads,Web,Premium,2024-09-28,2025-01-06,False,True,0.9,Meal Logging,98,True,Neutral,True
+3570,2020-12-05,21,Male,Perryborough,Lose Weight,17,32,6,7,4,0.9,iOS,Referral,Mobile,Standard,2022-10-30,2025-03-22,False,False,0.7,Meal Logging,43,True,Neutral,True
+3718,2021-04-14,41,Male,Shawnside,Gain Muscle,63,89,6,7,5,0.7,Web,Referral,Mobile,Standard,2022-12-25,2025-05-04,True,True,0.2,Workout,64,False,Negative,True
+3677,2020-10-13,38,Other,New Timothyside,Gain Muscle,92,1,4,1,2,0.0,iOS,Referral,Mobile,Standard,2022-09-14,2025-03-06,True,False,0.5,Workout,63,True,Positive,False
+8455,2022-12-12,65,Male,Randallport,Lose Weight,62,15,3,5,6,0.7,Web,Google Ads,Mobile,Standard,2020-09-21,2025-02-09,False,False,0.4,Workout,97,True,Neutral,False
+1678,2023-05-24,54,Male,Caseybury,Gain Muscle,69,77,5,2,1,0.2,Android,Referral,Web,Standard,2024-07-02,2025-03-09,True,False,0.2,Meal Logging,21,False,Positive,False
+7246,2023-06-14,41,Male,New Dianeburgh,Gain Muscle,54,75,1,3,7,0.0,Web,Referral,Mobile,Standard,2022-08-23,2025-03-12,False,False,0.4,Workout,76,True,Neutral,True
+1635,2023-09-26,19,Female,North Michaelland,Lose Weight,52,76,3,5,6,0.7,Android,Referral,Web,Standard,2023-08-17,2025-04-19,False,False,0.4,Workout,82,True,Negative,False
+395,2022-01-26,48,Male,Solomonside,Lose Weight,81,68,1,7,5,0.4,iOS,Google Ads,Mobile,Premium,2020-07-22,2025-03-21,True,True,0.3,Support,1,False,Negative,False
+2492,2024-04-15,79,Other,Amandachester,Gain Muscle,18,15,6,2,3,0.2,iOS,Referral,Mobile,Standard,2023-10-20,2025-01-20,True,True,0.0,Meal Logging,5,True,Positive,False
+7912,2020-06-08,21,Male,Jasonshire,Gain Muscle,51,75,4,2,3,0.3,iOS,Referral,Mobile,Standard,2020-01-12,2025-04-21,False,True,0.5,Support,62,False,Neutral,True
+2899,2020-03-20,32,Male,Nicolemouth,Lose Weight,73,4,3,4,5,0.5,iOS,Google Ads,Web,Standard,2025-03-04,2025-03-27,True,False,0.7,Support,58,True,Positive,True
+5270,2024-07-06,22,Male,Rogershaven,Lose Weight,42,89,1,5,3,0.5,Web,Referral,Mobile,Premium,2022-12-09,2025-02-21,True,True,0.1,Workout,25,False,Neutral,False
+4881,2023-01-23,62,Other,Thomashaven,Gain Muscle,55,4,3,7,1,0.4,iOS,Google Ads,Web,Standard,2020-01-23,2025-03-26,False,True,0.6,Support,67,True,Negative,True
+3486,2021-10-04,53,Male,South Taylor,Lose Weight,13,99,2,5,5,0.3,Android,Referral,Mobile,Standard,2024-01-07,2025-01-21,True,False,0.4,Workout,17,False,Negative,True
+2118,2020-02-19,21,Other,Codyhaven,Gain Muscle,44,62,7,5,1,0.6,Android,Referral,Web,Standard,2022-05-01,2025-02-26,False,False,0.7,Support,70,True,Negative,True
+5819,2024-08-08,63,Female,Port Guy,Lose Weight,82,53,2,3,2,0.8,iOS,Google Ads,Mobile,Standard,2021-12-02,2025-04-19,False,True,0.2,Meal Logging,76,True,Neutral,True
+7630,2023-03-01,42,Other,North Georgebury,Lose Weight,69,31,6,7,5,0.7,Web,Referral,Mobile,Premium,2021-04-29,2025-05-08,False,False,0.1,Meal Logging,60,True,Positive,False
+1948,2021-10-17,41,Male,Hardyburgh,Lose Weight,53,86,7,2,2,0.5,iOS,Google Ads,Web,Premium,2024-05-24,2025-03-30,True,False,0.1,Meal Logging,34,False,Negative,False
+6321,2023-04-26,42,Male,Lake Larryshire,Lose Weight,31,6,6,3,7,0.8,Android,Google Ads,Web,Standard,2023-02-06,2025-02-21,True,False,0.5,Support,21,False,Negative,False
+764,2020-11-15,66,Female,New Paul,Lose Weight,2,18,2,7,3,0.5,iOS,Referral,Web,Premium,2023-05-06,2025-01-12,False,True,0.2,Support,21,False,Positive,False
+3184,2023-12-23,37,Female,Patrickville,Gain Muscle,72,83,2,1,2,0.6,iOS,Referral,Mobile,Premium,2022-10-08,2025-04-18,False,True,0.2,Workout,83,True,Positive,False
+558,2021-05-21,30,Other,Port Jasonchester,Lose Weight,1,80,5,5,1,0.4,iOS,Referral,Web,Premium,2021-01-11,2025-04-09,True,True,0.1,Meal Logging,64,False,Positive,False
+7535,2024-10-20,29,Female,Wileyburgh,Gain Muscle,23,1,6,4,5,0.2,iOS,Referral,Mobile,Premium,2021-11-29,2025-04-13,True,False,0.1,Workout,20,False,Positive,True
+4980,2023-12-01,33,Male,West Sarah,Lose Weight,74,70,4,1,1,0.3,Web,Google Ads,Web,Premium,2023-11-02,2025-04-05,True,False,0.8,Meal Logging,14,True,Neutral,False
+5405,2023-10-16,18,Male,Lake Markfort,Lose Weight,82,22,4,5,1,0.0,Android,Google Ads,Web,Premium,2024-06-02,2025-01-02,False,True,0.4,Meal Logging,30,True,Neutral,False
+484,2022-03-03,67,Other,South Matthewhaven,Gain Muscle,74,3,3,7,6,0.9,Web,Referral,Mobile,Standard,2023-01-08,2025-04-01,False,False,0.2,Workout,31,False,Positive,True
+5578,2022-08-19,49,Male,West Nicolemouth,Lose Weight,70,84,6,2,2,0.9,Web,Google Ads,Web,Premium,2024-03-01,2025-04-05,True,True,0.9,Meal Logging,75,True,Neutral,False
+6225,2024-03-14,33,Male,South Thomas,Lose Weight,68,57,5,1,6,0.4,Android,Google Ads,Mobile,Standard,2023-02-16,2025-04-12,False,False,0.2,Workout,26,False,Negative,True
+780,2024-11-12,54,Male,Kaufmanland,Gain Muscle,84,83,6,7,3,0.3,Android,Google Ads,Web,Standard,2021-11-28,2025-01-21,False,False,0.6,Support,64,False,Positive,False
+6880,2023-07-11,31,Male,East Reginaldfort,Lose Weight,84,68,3,2,7,0.0,Android,Google Ads,Web,Premium,2024-07-11,2025-02-04,False,False,0.1,Meal Logging,30,False,Negative,True
+7346,2022-03-10,43,Male,New Jeremy,Lose Weight,92,11,4,1,4,0.0,Android,Google Ads,Web,Standard,2020-11-22,2025-01-27,True,False,0.6,Meal Logging,97,False,Positive,False
+8741,2022-09-01,55,Male,Kelseyview,Gain Muscle,14,17,7,1,5,0.1,Android,Google Ads,Web,Premium,2020-05-15,2025-03-13,True,False,0.5,Meal Logging,59,True,Neutral,False
+5418,2025-04-07,53,Other,Petersenchester,Gain Muscle,40,59,3,1,2,0.7,iOS,Referral,Mobile,Premium,2023-11-30,2025-02-02,True,False,0.5,Meal Logging,9,True,Positive,False
+4882,2021-05-29,24,Female,West Dianaburgh,Lose Weight,37,57,4,1,1,0.9,Web,Google Ads,Mobile,Standard,2023-04-18,2025-01-07,False,False,0.1,Meal Logging,31,True,Negative,True
+7985,2020-01-16,29,Female,West Shannonshire,Gain Muscle,8,60,6,5,4,0.8,Android,Referral,Web,Standard,2021-09-05,2025-02-10,True,True,0.8,Support,91,True,Negative,False
+7568,2020-07-10,41,Male,New Branditon,Lose Weight,60,53,5,4,6,0.4,iOS,Referral,Mobile,Premium,2024-08-01,2025-03-03,False,False,0.5,Meal Logging,85,True,Neutral,False
+4416,2025-01-20,18,Other,Robinside,Lose Weight,69,54,1,2,6,0.6,Android,Google Ads,Web,Standard,2022-12-21,2025-04-19,True,True,0.5,Workout,60,False,Positive,False
+362,2020-09-03,26,Male,Annland,Gain Muscle,12,71,2,1,4,0.9,Web,Google Ads,Web,Standard,2025-03-10,2025-04-28,False,False,0.7,Meal Logging,35,True,Negative,True
+7899,2021-03-08,43,Male,Nortonshire,Lose Weight,4,29,6,2,6,0.6,Web,Referral,Web,Premium,2020-10-27,2025-02-18,False,True,0.4,Workout,60,True,Negative,True
+5279,2021-12-23,51,Female,West Gloria,Lose Weight,58,54,6,4,1,0.4,Android,Referral,Web,Standard,2021-12-20,2025-04-21,False,True,0.0,Meal Logging,58,False,Neutral,True
+1039,2021-05-22,61,Other,Marystad,Gain Muscle,49,48,5,3,3,0.2,iOS,Google Ads,Mobile,Standard,2024-11-21,2025-02-28,True,True,0.6,Meal Logging,99,False,Negative,False
+893,2022-12-21,42,Female,Rochafort,Gain Muscle,5,61,5,7,3,0.6,Web,Google Ads,Mobile,Standard,2021-05-26,2025-04-26,False,True,0.6,Support,53,False,Neutral,True
+9924,2020-11-01,21,Other,Josephbury,Gain Muscle,79,34,5,1,1,0.9,Android,Google Ads,Web,Premium,2021-07-05,2025-02-28,False,True,0.4,Support,93,False,Neutral,False
+7229,2023-05-23,70,Female,Sarahmouth,Lose Weight,38,46,6,7,1,0.0,Android,Google Ads,Web,Premium,2023-11-04,2025-01-31,False,True,0.0,Meal Logging,93,False,Negative,True
+1640,2024-07-10,77,Other,New Maria,Lose Weight,14,11,1,6,2,0.6,Web,Referral,Web,Standard,2021-07-04,2025-03-10,True,False,0.8,Meal Logging,34,False,Neutral,True
+7841,2024-11-05,38,Female,Dawnville,Lose Weight,42,78,1,7,4,0.0,Web,Google Ads,Mobile,Premium,2021-05-17,2025-02-10,False,False,0.5,Support,83,False,Negative,True
+8763,2024-10-25,80,Other,South David,Gain Muscle,78,56,2,3,7,0.8,Android,Referral,Mobile,Premium,2024-04-25,2025-05-07,False,True,0.4,Support,75,True,Positive,True
+8101,2021-02-19,68,Other,Wilsonborough,Lose Weight,93,30,5,1,7,0.1,Android,Referral,Web,Standard,2021-10-16,2025-03-23,False,False,0.2,Meal Logging,12,True,Neutral,False
+9189,2024-11-07,52,Male,Lake Charles,Lose Weight,90,15,3,1,1,0.3,Android,Google Ads,Mobile,Standard,2024-08-09,2025-05-03,False,False,0.8,Meal Logging,77,True,Positive,False
+9880,2020-01-15,76,Other,New William,Gain Muscle,37,53,5,4,1,0.3,iOS,Google Ads,Web,Standard,2022-06-14,2025-01-24,True,False,0.0,Support,1,True,Negative,False
+9405,2022-11-23,29,Other,Port Brianbury,Gain Muscle,90,35,3,1,7,0.9,Android,Google Ads,Mobile,Premium,2021-07-16,2025-03-11,True,False,0.8,Meal Logging,55,True,Positive,False
+574,2020-10-26,59,Female,Port Lisamouth,Gain Muscle,34,95,6,6,4,0.5,Web,Google Ads,Mobile,Standard,2021-02-05,2025-01-18,True,False,0.3,Meal Logging,54,True,Negative,True
+8315,2022-10-09,25,Male,West Daniel,Gain Muscle,83,46,5,1,3,0.5,Web,Referral,Mobile,Standard,2020-03-24,2025-01-28,False,False,0.9,Meal Logging,76,False,Positive,False
+6324,2023-09-24,61,Other,North Belindaville,Gain Muscle,77,18,1,1,5,0.7,Android,Referral,Web,Premium,2021-01-08,2025-04-26,False,False,0.8,Workout,50,True,Negative,True
+3144,2023-09-06,79,Male,Michaelshire,Lose Weight,38,71,5,3,2,0.6,Web,Google Ads,Web,Standard,2020-11-27,2025-02-01,True,False,0.7,Support,81,True,Positive,True
+501,2021-07-22,41,Other,East Juliebury,Lose Weight,55,63,6,4,1,0.9,Web,Referral,Mobile,Standard,2023-02-12,2025-01-30,False,True,0.1,Workout,98,True,Negative,True
+4000,2020-06-24,40,Male,Port Tarastad,Gain Muscle,94,45,2,7,7,0.0,iOS,Referral,Mobile,Premium,2021-10-14,2025-03-18,False,False,0.1,Meal Logging,60,True,Positive,False
+4000,2021-02-03,41,Male,Sarahhaven,Lose Weight,94,42,6,2,4,0.3,Web,Referral,Mobile,Premium,2020-01-30,2025-02-03,False,True,0.5,Support,15,False,Negative,True
+9693,2025-04-24,72,Female,North Gina,Lose Weight,17,15,2,7,3,0.8,Web,Referral,Mobile,Standard,2020-09-14,2025-02-08,False,True,0.4,Workout,76,False,Positive,True
+9313,2024-04-25,58,Male,Port Ruthfurt,Lose Weight,15,94,7,6,2,0.2,Web,Google Ads,Web,Standard,2024-12-04,2025-04-16,False,False,0.1,Meal Logging,68,False,Negative,True
+1591,2020-04-12,67,Other,Michaelshire,Lose Weight,47,50,1,1,1,0.7,Android,Google Ads,Mobile,Standard,2022-08-11,2025-02-02,True,False,0.1,Meal Logging,49,False,Neutral,False
+5958,2023-01-29,31,Male,East Larryshire,Gain Muscle,33,98,3,3,4,0.3,iOS,Google Ads,Mobile,Standard,2021-08-21,2025-03-14,True,True,0.5,Meal Logging,4,True,Negative,False
+5501,2024-05-28,54,Female,West Anna,Gain Muscle,60,23,3,6,6,0.0,iOS,Referral,Web,Standard,2022-05-07,2025-05-06,True,True,0.9,Support,20,True,Neutral,False
+3223,2022-08-12,39,Female,Lynnland,Gain Muscle,87,83,1,4,5,0.3,iOS,Google Ads,Web,Standard,2023-08-14,2025-01-24,False,True,0.0,Workout,94,False,Negative,True
+9415,2020-01-19,48,Other,Wilsonhaven,Lose Weight,5,6,6,1,4,0.4,Web,Referral,Mobile,Standard,2022-01-13,2025-01-17,True,True,0.4,Meal Logging,43,False,Negative,True
+5961,2024-09-26,63,Male,Gutierrezfurt,Gain Muscle,22,38,3,3,2,0.3,Web,Referral,Web,Premium,2021-02-05,2025-01-29,True,False,0.1,Meal Logging,51,False,Neutral,False
+3041,2022-12-19,61,Male,New Jo,Gain Muscle,96,25,3,3,4,0.3,iOS,Google Ads,Web,Standard,2021-04-12,2025-02-14,True,True,0.4,Support,69,False,Negative,False
+4202,2022-08-11,77,Male,South Amanda,Lose Weight,72,3,4,2,4,0.4,iOS,Referral,Mobile,Premium,2021-01-23,2025-02-01,False,False,0.3,Meal Logging,45,True,Positive,False
+6415,2024-04-11,50,Female,South Andrea,Gain Muscle,82,98,2,1,7,0.3,iOS,Referral,Mobile,Standard,2020-10-19,2025-01-06,False,False,0.4,Meal Logging,88,True,Negative,True
+3382,2020-06-26,37,Male,East Abigail,Gain Muscle,80,73,4,2,5,0.9,Android,Google Ads,Mobile,Standard,2021-03-03,2025-03-10,False,False,0.3,Meal Logging,89,True,Neutral,False
+7334,2020-06-01,52,Female,Stevensmouth,Gain Muscle,56,4,6,7,6,0.6,iOS,Google Ads,Web,Premium,2021-08-22,2025-04-18,True,False,0.4,Support,8,False,Neutral,True
+4429,2023-12-08,52,Other,Jacksonton,Gain Muscle,53,34,1,7,2,0.5,Web,Referral,Mobile,Premium,2024-03-19,2025-02-19,False,True,0.0,Support,97,False,Negative,True
+4981,2020-10-21,19,Female,Timchester,Lose Weight,66,80,6,7,7,0.8,iOS,Google Ads,Mobile,Premium,2021-08-29,2025-02-17,False,True,0.8,Support,77,False,Negative,False
+7199,2024-04-12,57,Male,Stevenside,Gain Muscle,77,71,1,7,6,0.0,iOS,Google Ads,Web,Standard,2023-02-01,2025-03-02,True,False,0.2,Meal Logging,98,False,Neutral,True
+1138,2021-07-23,29,Male,Michaelbury,Gain Muscle,27,73,3,5,3,0.5,Android,Referral,Mobile,Premium,2023-07-03,2025-05-07,False,False,0.6,Workout,92,True,Positive,True
+7957,2024-06-20,78,Female,Douglasmouth,Lose Weight,9,16,4,5,7,0.8,iOS,Google Ads,Web,Premium,2022-04-27,2025-03-13,True,True,0.8,Meal Logging,6,False,Positive,True
+3155,2021-05-15,50,Female,East Devin,Gain Muscle,38,94,7,5,6,0.6,iOS,Google Ads,Web,Standard,2025-05-06,2025-01-25,False,True,0.9,Support,74,False,Negative,True
+9270,2021-09-04,55,Male,North Taylor,Lose Weight,42,16,1,6,2,0.5,Web,Google Ads,Web,Standard,2023-02-02,2025-01-28,True,False,0.2,Workout,72,False,Neutral,True
+3228,2024-03-23,74,Other,South Timothyside,Gain Muscle,89,90,2,6,5,0.2,Android,Google Ads,Web,Premium,2022-05-30,2025-01-20,False,True,0.1,Meal Logging,39,False,Positive,True
+9529,2021-10-31,80,Male,Elizabethport,Gain Muscle,67,45,6,5,2,0.4,iOS,Google Ads,Mobile,Premium,2025-02-01,2025-04-16,True,True,0.4,Meal Logging,96,True,Positive,False
+4336,2021-08-15,24,Other,Jamesstad,Lose Weight,46,90,3,5,4,0.1,Android,Referral,Web,Premium,2022-11-10,2025-01-28,True,True,0.4,Support,50,True,Negative,False
+3834,2022-09-03,58,Female,Smithmouth,Gain Muscle,97,27,6,2,5,0.3,Android,Referral,Mobile,Standard,2022-08-06,2025-03-25,False,False,0.7,Meal Logging,19,False,Negative,True
+9991,2020-04-13,63,Female,South Aaronmouth,Gain Muscle,68,0,4,7,7,0.1,iOS,Google Ads,Mobile,Standard,2021-01-20,2025-04-08,False,False,0.1,Meal Logging,73,False,Positive,True
+8000,2024-09-16,24,Female,Desireebury,Lose Weight,49,49,6,6,5,0.6,iOS,Google Ads,Web,Premium,2020-03-03,2025-02-17,True,False,0.0,Support,30,False,Negative,True
+4322,2024-06-06,30,Male,New Patriciastad,Gain Muscle,42,37,6,6,4,0.3,Web,Google Ads,Web,Premium,2024-01-13,2025-04-08,False,True,0.0,Meal Logging,21,False,Negative,False
+6455,2021-05-31,23,Male,Rileybury,Gain Muscle,43,19,2,3,3,0.7,iOS,Google Ads,Mobile,Premium,2022-10-29,2025-04-11,False,True,0.9,Support,58,False,Neutral,True
+1222,2021-12-08,29,Other,Mcbridemouth,Gain Muscle,68,29,1,7,1,0.3,Web,Referral,Mobile,Premium,2023-07-10,2025-01-15,True,False,0.8,Support,53,False,Neutral,False
+3277,2022-03-19,21,Other,Smithview,Gain Muscle,2,24,4,2,7,0.5,iOS,Google Ads,Mobile,Standard,2024-12-29,2025-02-24,True,True,0.8,Support,69,True,Negative,False
+9410,2021-07-07,30,Male,Aguirremouth,Gain Muscle,74,39,6,7,4,0.1,Android,Referral,Mobile,Premium,2024-11-13,2025-02-14,False,False,0.3,Meal Logging,28,True,Negative,False
+6117,2023-04-15,60,Female,Armstrongburgh,Lose Weight,43,67,7,3,2,0.2,Android,Referral,Mobile,Standard,2021-02-22,2025-02-02,False,False,0.6,Meal Logging,6,True,Positive,False
+3961,2021-10-05,77,Other,West Joshua,Gain Muscle,41,6,6,3,5,0.8,Web,Google Ads,Web,Premium,2022-09-19,2025-04-10,True,False,0.8,Workout,23,True,Neutral,False
+8589,2023-01-21,33,Female,Port Judy,Gain Muscle,16,70,2,4,4,0.3,iOS,Referral,Web,Standard,2024-09-29,2025-03-20,False,True,0.5,Workout,95,True,Negative,True
+6456,2025-03-10,57,Male,Hendrixland,Lose Weight,56,8,2,3,7,0.4,iOS,Google Ads,Mobile,Premium,2021-06-12,2025-04-17,False,True,0.7,Meal Logging,71,True,Positive,True
+4695,2024-08-20,50,Other,Vangberg,Gain Muscle,92,5,7,1,5,0.3,Android,Google Ads,Web,Premium,2022-05-24,2025-03-31,False,True,0.1,Support,22,True,Positive,True
+7072,2024-12-19,61,Female,Kingmouth,Gain Muscle,27,69,1,2,7,0.6,Android,Google Ads,Mobile,Standard,2020-05-11,2025-04-17,True,False,0.2,Meal Logging,24,True,Negative,True
+9611,2020-10-15,72,Other,Port Michaelmouth,Gain Muscle,40,70,3,4,2,0.3,iOS,Referral,Mobile,Premium,2025-04-03,2025-02-01,False,False,0.0,Support,26,False,Neutral,True
+5182,2022-07-14,72,Female,Ortegaland,Lose Weight,61,72,3,5,1,0.6,Web,Referral,Web,Standard,2021-09-16,2025-04-09,True,True,0.7,Meal Logging,89,False,Positive,True
+6148,2023-10-06,60,Female,Wattsstad,Lose Weight,47,73,5,7,6,0.3,Android,Google Ads,Web,Premium,2023-12-17,2025-03-21,False,False,0.9,Workout,58,True,Positive,True
+8489,2023-01-09,61,Female,Anthonyton,Gain Muscle,14,19,6,2,5,0.3,Web,Referral,Web,Premium,2020-06-07,2025-04-15,False,False,0.2,Meal Logging,99,False,Negative,False
+225,2022-11-23,49,Male,Amandachester,Lose Weight,83,10,6,3,5,0.8,Web,Referral,Web,Standard,2024-06-10,2025-02-24,True,False,0.0,Meal Logging,82,True,Neutral,False
+4743,2020-07-24,53,Female,South Karenland,Gain Muscle,78,97,4,1,3,0.4,iOS,Referral,Mobile,Premium,2021-08-16,2025-02-11,True,False,0.3,Support,2,False,Neutral,False
+1104,2020-02-05,74,Male,Sanchezmouth,Lose Weight,64,23,7,3,3,0.4,iOS,Google Ads,Mobile,Standard,2021-04-17,2025-04-15,True,True,0.9,Support,22,True,Negative,False
+5406,2024-12-03,60,Female,East Aaron,Lose Weight,15,62,5,6,4,0.7,iOS,Google Ads,Web,Premium,2021-08-16,2025-02-08,True,True,0.7,Workout,56,True,Negative,False
+737,2022-09-04,53,Female,North Taylorport,Gain Muscle,17,79,1,7,1,0.5,iOS,Referral,Mobile,Standard,2020-10-05,2025-04-12,True,False,0.9,Support,20,False,Neutral,False
+6773,2024-08-08,58,Female,Adamsport,Lose Weight,27,12,1,5,4,0.4,Android,Google Ads,Mobile,Standard,2021-08-18,2025-04-17,False,False,0.4,Meal Logging,20,False,Positive,False
+7948,2022-08-19,66,Female,North Tiffanymouth,Gain Muscle,31,68,7,1,6,0.6,iOS,Referral,Mobile,Standard,2021-06-24,2025-03-14,False,False,0.8,Support,76,True,Positive,True
+4264,2021-11-25,53,Other,West Heatherberg,Lose Weight,23,41,5,5,1,0.0,Web,Google Ads,Mobile,Premium,2025-01-14,2025-03-14,False,True,0.7,Meal Logging,9,True,Neutral,False
+7705,2024-04-09,27,Male,West Jenniferport,Gain Muscle,15,90,3,5,2,0.4,Android,Referral,Mobile,Standard,2024-06-30,2025-01-01,False,True,0.8,Meal Logging,26,False,Neutral,False
+6158,2024-05-27,48,Other,West Amandamouth,Lose Weight,20,81,4,5,1,0.9,iOS,Google Ads,Mobile,Standard,2024-12-19,2025-01-17,False,True,0.5,Support,15,False,Positive,False
+4763,2021-07-25,72,Male,East Kennethchester,Lose Weight,90,77,6,5,5,0.8,Android,Google Ads,Mobile,Premium,2023-07-08,2025-01-10,False,False,0.2,Workout,43,True,Positive,False
+9072,2024-02-24,65,Female,North Justinstad,Gain Muscle,95,90,4,4,2,0.6,iOS,Referral,Mobile,Standard,2021-08-17,2025-02-02,True,True,0.7,Meal Logging,43,False,Negative,False
+4664,2025-01-15,74,Other,Kramerton,Lose Weight,36,23,7,4,4,0.5,iOS,Google Ads,Web,Standard,2024-08-03,2025-01-08,False,False,0.9,Workout,11,False,Neutral,False
+1778,2023-06-13,36,Other,Edwardtown,Lose Weight,79,20,5,3,1,0.5,iOS,Referral,Mobile,Premium,2022-05-20,2025-04-16,True,False,0.2,Support,40,False,Negative,False
+1797,2021-09-09,51,Male,Russellhaven,Gain Muscle,92,55,7,7,7,0.2,Web,Google Ads,Web,Premium,2022-02-22,2025-04-06,False,True,0.1,Workout,74,True,Positive,False
+4399,2021-01-03,20,Male,Port Patricia,Gain Muscle,25,42,2,4,4,0.8,Android,Referral,Mobile,Premium,2025-04-03,2025-02-20,False,False,0.2,Support,53,False,Positive,False
+7400,2021-03-26,45,Male,Langfurt,Gain Muscle,63,38,1,5,1,0.5,Web,Google Ads,Web,Premium,2022-09-23,2025-02-19,True,False,0.5,Support,37,True,Positive,False
+3058,2020-11-07,69,Other,Anthonyshire,Gain Muscle,4,19,3,2,4,0.8,Android,Referral,Web,Standard,2020-04-30,2025-03-25,False,False,0.1,Workout,36,True,Negative,True
+8596,2020-01-15,74,Other,West Caitlinport,Lose Weight,50,83,4,3,5,0.3,Web,Referral,Web,Standard,2022-09-14,2025-03-09,False,False,0.0,Meal Logging,60,True,Negative,False
+1283,2021-04-05,67,Female,New Matthewshire,Lose Weight,8,10,6,5,7,0.4,Web,Google Ads,Web,Premium,2023-02-27,2025-02-24,True,True,0.8,Meal Logging,15,False,Neutral,False
+3892,2020-06-03,67,Other,Tinaton,Gain Muscle,79,0,6,3,4,0.1,Web,Google Ads,Mobile,Standard,2020-04-29,2025-01-06,False,False,0.9,Meal Logging,38,True,Positive,False
+3170,2025-01-04,34,Female,North Christian,Gain Muscle,52,31,6,1,4,0.2,Android,Referral,Mobile,Standard,2024-08-24,2025-02-25,True,False,0.5,Workout,82,True,Positive,False
+3637,2021-12-16,68,Female,South Ronald,Gain Muscle,29,25,3,2,6,0.4,Web,Referral,Mobile,Premium,2021-12-08,2025-03-02,False,False,0.7,Workout,61,True,Neutral,True
+8115,2022-07-24,55,Female,Stewartberg,Lose Weight,50,44,4,6,1,0.8,iOS,Google Ads,Mobile,Standard,2020-08-25,2025-03-17,True,False,0.3,Support,99,False,Neutral,False
+9196,2022-07-03,27,Male,Steeleside,Lose Weight,31,58,7,7,5,0.3,Web,Referral,Mobile,Standard,2023-08-29,2025-04-28,False,True,0.8,Meal Logging,6,False,Neutral,False
+7726,2021-04-10,24,Other,Grahamberg,Gain Muscle,7,15,6,4,3,0.9,Web,Google Ads,Web,Standard,2023-09-14,2025-04-26,False,False,0.4,Support,51,False,Neutral,False
+6093,2024-06-04,74,Other,Andrewstad,Gain Muscle,42,78,3,5,7,0.2,iOS,Referral,Web,Standard,2021-06-12,2025-01-08,True,True,0.6,Meal Logging,49,True,Negative,False
+3433,2025-04-18,27,Other,Lake Jessica,Lose Weight,65,87,1,2,1,0.6,Web,Google Ads,Web,Standard,2024-06-17,2025-02-09,False,False,0.0,Support,56,True,Positive,True
+2691,2024-12-17,65,Other,East Lisamouth,Gain Muscle,30,70,3,6,7,0.6,iOS,Referral,Web,Standard,2022-06-10,2025-01-27,False,False,0.1,Meal Logging,66,False,Positive,False
+9153,2022-01-26,71,Male,Estradaville,Lose Weight,27,16,6,4,4,0.2,iOS,Google Ads,Web,Standard,2024-07-07,2025-04-17,False,False,0.3,Workout,57,False,Negative,True
+8503,2023-05-23,66,Female,North Peter,Gain Muscle,98,80,3,7,2,0.3,Android,Google Ads,Web,Standard,2020-12-15,2025-04-13,False,False,0.5,Meal Logging,70,True,Neutral,True
+4436,2020-05-06,64,Male,Ryanstad,Gain Muscle,92,21,5,4,1,0.3,iOS,Google Ads,Web,Standard,2020-08-26,2025-01-21,True,True,0.4,Support,9,False,Positive,False
+6101,2022-02-15,76,Other,Navarroland,Gain Muscle,83,69,1,7,5,0.8,Android,Referral,Web,Standard,2024-02-16,2025-01-25,True,False,0.0,Workout,99,False,Neutral,True
+8171,2022-02-11,55,Male,New Toddborough,Gain Muscle,92,26,6,1,4,0.2,Web,Referral,Web,Premium,2023-03-26,2025-01-14,True,False,0.1,Meal Logging,37,True,Positive,True
+1223,2022-10-24,52,Female,Bruceberg,Lose Weight,60,60,6,3,6,0.0,iOS,Google Ads,Mobile,Standard,2023-07-22,2025-04-06,True,True,0.6,Support,40,False,Neutral,True
+1430,2020-07-01,68,Male,East Thomas,Lose Weight,30,59,2,5,7,0.5,Web,Google Ads,Mobile,Standard,2021-12-26,2025-01-26,True,False,0.5,Meal Logging,29,False,Positive,True
+6482,2022-05-11,67,Other,Merrittmouth,Gain Muscle,19,28,2,6,1,0.3,Android,Google Ads,Web,Premium,2021-09-27,2025-01-20,False,True,0.6,Support,24,True,Neutral,True
+3632,2024-08-28,76,Other,North Jared,Gain Muscle,30,14,5,7,3,0.7,iOS,Google Ads,Web,Premium,2022-06-05,2025-03-15,False,False,0.4,Workout,6,False,Neutral,False
+8197,2020-05-22,53,Other,Lopezbury,Gain Muscle,31,7,7,2,2,0.8,iOS,Google Ads,Web,Standard,2022-09-05,2025-01-21,True,False,0.1,Meal Logging,74,False,Positive,True
+7795,2020-06-15,49,Male,Jonesmouth,Lose Weight,16,41,4,1,2,0.3,Android,Google Ads,Web,Standard,2021-02-06,2025-03-11,True,False,0.1,Meal Logging,64,False,Negative,False
+5473,2023-03-04,53,Male,North Tiffany,Gain Muscle,6,1,3,4,5,0.7,Web,Google Ads,Web,Premium,2023-11-10,2025-03-31,True,True,0.8,Support,30,False,Positive,False
+2203,2020-08-07,68,Male,Morrisbury,Gain Muscle,56,83,1,1,3,0.5,iOS,Referral,Web,Standard,2024-05-17,2025-04-10,True,True,0.0,Support,89,True,Negative,False
+7435,2020-03-18,65,Female,Riverafurt,Lose Weight,23,71,3,1,7,0.9,Web,Referral,Mobile,Standard,2025-05-04,2025-05-08,False,False,0.8,Workout,59,False,Neutral,True
+2233,2023-11-04,31,Other,Robinton,Lose Weight,52,46,7,1,3,0.4,Web,Google Ads,Web,Premium,2020-04-18,2025-02-14,False,True,0.6,Workout,27,True,Positive,False
+5492,2023-11-14,68,Other,North Neilberg,Lose Weight,78,44,1,4,5,0.4,Web,Referral,Mobile,Standard,2024-12-03,2025-03-04,False,False,0.5,Workout,70,False,Negative,False
+5008,2024-12-08,48,Female,Port Heatherbury,Lose Weight,10,32,5,3,7,0.5,iOS,Google Ads,Web,Standard,2022-12-12,2025-04-30,False,False,0.8,Workout,75,False,Neutral,True
+8177,2024-04-04,69,Other,Port Cynthia,Lose Weight,41,58,5,6,5,0.4,iOS,Google Ads,Mobile,Standard,2022-12-02,2025-03-11,True,False,0.2,Workout,26,True,Positive,True
+2208,2023-10-13,70,Female,Hillmouth,Lose Weight,10,99,6,4,3,0.7,Android,Referral,Web,Standard,2023-11-30,2025-03-23,True,True,0.3,Workout,9,True,Positive,False
+8158,2020-02-27,47,Male,North Susan,Lose Weight,59,68,4,6,2,0.9,Web,Google Ads,Web,Premium,2023-01-10,2025-02-25,True,False,0.3,Workout,57,True,Negative,True
+2629,2025-03-20,73,Male,Stephanieland,Lose Weight,87,27,6,2,6,0.7,Web,Google Ads,Mobile,Standard,2020-02-17,2025-01-24,True,True,0.2,Meal Logging,71,True,Negative,True
+2816,2023-02-24,23,Female,West Richardtown,Gain Muscle,70,18,3,2,5,0.5,Android,Google Ads,Mobile,Standard,2021-10-26,2025-03-06,False,True,0.6,Support,45,False,Positive,False
+3690,2020-08-15,61,Male,East Crystalmouth,Gain Muscle,74,8,4,2,4,0.8,iOS,Referral,Mobile,Standard,2024-08-18,2025-01-19,False,False,0.6,Meal Logging,87,True,Negative,True
+6262,2022-10-31,33,Other,West Matthew,Lose Weight,61,79,2,4,6,0.0,Web,Referral,Mobile,Standard,2021-08-11,2025-02-11,False,True,0.2,Support,75,True,Negative,True
+825,2021-07-24,66,Male,Julieland,Gain Muscle,93,31,5,4,4,0.5,Android,Referral,Mobile,Standard,2021-09-21,2025-01-16,True,False,0.0,Support,26,False,Neutral,False
+954,2023-04-06,45,Male,New Mark,Lose Weight,16,2,7,1,3,0.7,Web,Referral,Web,Standard,2025-04-04,2025-02-09,True,True,0.9,Workout,15,False,Neutral,True
+3265,2023-02-07,74,Male,Pattonborough,Gain Muscle,17,20,3,5,1,0.3,Web,Referral,Mobile,Standard,2024-03-17,2025-02-14,False,True,0.7,Support,97,False,Neutral,False
+38,2021-07-24,52,Female,Adamsport,Gain Muscle,22,87,4,4,5,0.5,Web,Google Ads,Mobile,Standard,2024-08-21,2025-03-25,True,False,0.3,Support,60,True,Negative,False
+800,2020-05-12,23,Female,Fryburgh,Gain Muscle,58,7,3,6,4,0.6,iOS,Google Ads,Mobile,Standard,2023-05-25,2025-01-26,True,False,0.8,Workout,28,True,Negative,True
+9885,2023-12-15,76,Female,Kellyburgh,Gain Muscle,74,58,4,3,6,0.2,iOS,Referral,Mobile,Standard,2022-10-26,2025-02-04,True,False,0.8,Meal Logging,56,False,Neutral,False
+296,2025-04-20,62,Other,Joshuaberg,Gain Muscle,80,16,3,6,2,0.6,Android,Referral,Web,Standard,2024-06-02,2025-01-16,False,True,0.0,Workout,49,False,Neutral,True
+8733,2021-12-21,39,Other,Donaldshire,Gain Muscle,36,43,2,6,1,0.2,Android,Google Ads,Web,Standard,2024-11-10,2025-03-19,False,True,0.6,Support,48,True,Positive,False
+6943,2023-09-20,78,Male,Longburgh,Lose Weight,60,83,7,4,2,0.9,Web,Google Ads,Mobile,Premium,2022-05-23,2025-02-21,False,False,0.2,Workout,63,False,Neutral,False
+2205,2025-03-25,77,Female,North Melissa,Lose Weight,30,24,2,3,3,0.6,iOS,Google Ads,Mobile,Premium,2022-05-19,2025-02-02,False,True,0.6,Support,78,True,Negative,True
+4121,2020-07-08,35,Other,Kristiview,Gain Muscle,51,31,7,4,3,0.1,Web,Referral,Mobile,Standard,2021-04-18,2025-04-08,False,True,0.8,Workout,41,False,Negative,False
+4202,2021-09-21,62,Male,Hansenberg,Lose Weight,34,26,3,7,5,0.4,Web,Google Ads,Web,Standard,2023-05-09,2025-02-08,True,False,0.5,Support,94,False,Positive,False
+8604,2021-02-18,70,Female,Caitlinbury,Lose Weight,45,4,5,2,6,0.1,iOS,Referral,Mobile,Standard,2024-01-09,2025-02-12,False,False,0.0,Workout,96,False,Positive,False
+5867,2022-12-13,33,Other,East Tiffany,Lose Weight,99,56,2,3,3,0.4,Android,Google Ads,Mobile,Standard,2021-04-02,2025-04-15,False,True,0.7,Meal Logging,73,True,Negative,True
+572,2020-02-04,52,Other,Adamtown,Gain Muscle,16,62,6,5,3,0.3,Web,Referral,Web,Premium,2022-07-27,2025-03-03,False,True,0.1,Workout,22,True,Negative,True
+9388,2023-06-03,77,Male,New Samantha,Gain Muscle,71,54,3,4,4,0.5,Android,Google Ads,Web,Premium,2021-05-30,2025-02-19,False,True,0.2,Meal Logging,71,True,Neutral,True
+3117,2022-02-20,45,Female,Emmahaven,Gain Muscle,67,96,3,3,5,0.9,iOS,Google Ads,Mobile,Standard,2020-08-05,2025-04-15,False,False,0.7,Support,59,True,Positive,False
+8965,2024-12-10,48,Female,West Joseph,Gain Muscle,57,30,3,2,3,0.7,Android,Referral,Mobile,Premium,2024-11-30,2025-05-09,False,True,0.9,Support,71,True,Negative,True
+9834,2021-02-18,34,Female,New Kevin,Lose Weight,36,22,1,7,1,0.4,Android,Referral,Mobile,Premium,2020-04-12,2025-02-14,True,False,0.9,Meal Logging,2,False,Positive,False
+1023,2022-10-19,40,Male,Johnfurt,Lose Weight,91,81,4,5,2,0.6,Web,Referral,Web,Premium,2021-04-15,2025-02-19,False,True,0.0,Support,75,False,Negative,True
+1479,2023-05-22,23,Female,Kellyview,Lose Weight,97,64,6,1,1,0.4,Web,Google Ads,Web,Premium,2025-01-02,2025-05-09,True,True,0.8,Meal Logging,67,True,Negative,False
+835,2021-08-16,78,Other,Port Amyton,Gain Muscle,93,87,5,2,3,0.0,Web,Google Ads,Web,Standard,2024-08-27,2025-01-13,True,False,0.4,Support,28,True,Negative,False
+7702,2024-09-09,68,Other,Garciafort,Gain Muscle,86,59,6,3,6,0.0,Android,Google Ads,Web,Standard,2024-01-02,2025-04-21,False,False,0.4,Support,95,False,Neutral,True
+5977,2024-08-22,44,Male,Adrianshire,Lose Weight,20,79,7,2,2,0.5,iOS,Referral,Mobile,Standard,2024-04-19,2025-03-11,False,True,0.7,Support,94,False,Positive,True
+8287,2023-09-23,62,Male,South Alison,Lose Weight,65,46,6,6,5,0.7,iOS,Referral,Mobile,Premium,2021-11-26,2025-03-16,False,False,0.8,Support,8,True,Negative,False
+9302,2023-01-01,66,Male,Pageshire,Lose Weight,47,49,4,7,2,0.1,Web,Referral,Web,Premium,2022-06-11,2025-02-24,True,True,0.5,Workout,41,False,Negative,False
+6565,2024-06-13,60,Male,East Nathantown,Lose Weight,7,83,4,6,3,0.2,Web,Referral,Mobile,Standard,2023-09-17,2025-03-21,True,True,0.6,Support,5,False,Negative,False
+1534,2024-06-19,24,Other,Port Josephhaven,Gain Muscle,97,52,2,1,1,0.8,iOS,Referral,Mobile,Premium,2022-03-23,2025-03-06,False,False,0.4,Support,72,False,Neutral,True
+612,2025-02-08,80,Other,East Rodneymouth,Gain Muscle,5,78,5,5,2,0.4,Web,Google Ads,Web,Premium,2022-06-04,2025-03-29,True,True,0.8,Meal Logging,43,False,Positive,True
+3845,2025-01-02,38,Other,Hartfurt,Lose Weight,55,62,5,4,1,0.5,Android,Referral,Web,Standard,2023-11-05,2025-03-19,True,False,0.6,Support,58,True,Negative,False
+1881,2021-10-21,42,Male,Kennethbury,Lose Weight,71,38,7,7,7,0.0,iOS,Referral,Web,Standard,2024-05-29,2025-02-04,True,False,0.8,Support,60,True,Neutral,True
+7706,2022-04-13,42,Male,Michaelbury,Lose Weight,86,90,5,3,5,0.9,iOS,Referral,Mobile,Premium,2022-08-16,2025-03-18,False,True,0.6,Meal Logging,6,False,Positive,False
+8064,2020-06-12,24,Female,Port Jennifer,Lose Weight,36,53,3,5,5,0.9,iOS,Referral,Web,Standard,2024-09-17,2025-02-24,False,False,0.8,Support,96,True,Negative,True
+6815,2024-06-25,75,Female,Port Keith,Gain Muscle,24,4,1,5,1,0.4,Android,Referral,Mobile,Standard,2021-04-30,2025-02-01,False,True,0.3,Workout,20,False,Negative,True
+1802,2024-08-08,37,Male,Sandrashire,Lose Weight,76,77,1,1,2,0.4,Android,Google Ads,Web,Premium,2021-09-27,2025-01-28,False,False,0.6,Workout,93,False,Negative,True
+2506,2024-03-14,56,Male,Williamton,Gain Muscle,19,24,5,5,5,0.3,Android,Referral,Web,Premium,2022-07-11,2025-03-26,False,False,0.4,Support,87,True,Positive,False
+4459,2020-07-07,63,Female,Lake Javier,Gain Muscle,66,55,4,7,5,0.0,Android,Referral,Web,Standard,2024-12-21,2025-03-02,True,False,0.0,Meal Logging,99,True,Neutral,True
+5558,2020-07-12,57,Other,West Johnmouth,Gain Muscle,31,66,5,3,1,0.7,Android,Google Ads,Web,Premium,2023-09-25,2025-03-15,True,False,0.9,Support,5,False,Neutral,False
+1432,2024-10-22,38,Male,East Scott,Lose Weight,72,52,2,4,7,0.4,Web,Referral,Mobile,Premium,2020-07-02,2025-01-14,False,False,0.1,Workout,21,True,Negative,False
+6028,2021-09-11,65,Other,North Sharon,Lose Weight,33,37,7,6,1,0.5,Web,Google Ads,Web,Standard,2024-05-10,2025-03-16,True,True,0.3,Meal Logging,27,True,Negative,True
+5354,2025-03-14,62,Female,South Courtney,Lose Weight,87,56,4,1,3,0.2,iOS,Google Ads,Web,Standard,2022-09-20,2025-04-15,True,True,0.1,Workout,74,True,Positive,False
+5362,2023-12-30,46,Other,East Diane,Gain Muscle,39,99,6,5,3,0.6,iOS,Referral,Mobile,Premium,2022-10-30,2025-04-08,True,True,0.3,Workout,71,False,Positive,False
+1359,2023-09-14,58,Other,East Herbertfort,Gain Muscle,60,57,5,2,3,0.3,Android,Google Ads,Web,Standard,2023-02-10,2025-01-27,False,True,0.2,Support,10,True,Positive,False
+426,2024-04-02,24,Male,New Tinaview,Gain Muscle,68,35,7,3,5,0.8,Android,Google Ads,Mobile,Premium,2025-01-10,2025-03-16,True,True,0.6,Workout,78,False,Neutral,True
+676,2021-11-05,74,Female,Andrewsburgh,Gain Muscle,1,64,7,6,3,0.9,Android,Google Ads,Web,Standard,2020-01-26,2025-01-07,True,True,0.2,Meal Logging,64,True,Negative,True
+4619,2024-06-15,43,Other,Joanchester,Gain Muscle,68,4,2,3,5,0.2,iOS,Referral,Web,Standard,2022-06-18,2025-01-27,True,True,0.8,Workout,6,True,Positive,False
+9818,2023-04-29,62,Female,North Patrickshire,Gain Muscle,96,62,7,2,3,0.8,Android,Referral,Web,Standard,2023-01-15,2025-03-29,False,True,0.0,Workout,44,True,Positive,True
+3991,2024-05-13,49,Other,Lake Ambershire,Gain Muscle,90,30,7,6,7,0.8,iOS,Google Ads,Mobile,Premium,2025-02-12,2025-02-25,True,False,0.9,Support,7,True,Neutral,False
+4853,2023-11-22,42,Male,Natalieville,Gain Muscle,16,68,1,1,3,0.5,Android,Google Ads,Web,Standard,2021-06-16,2025-04-26,False,False,0.1,Meal Logging,6,False,Positive,True
+9371,2021-02-12,53,Other,West Robertborough,Lose Weight,97,43,6,6,2,0.1,Android,Referral,Mobile,Premium,2020-11-14,2025-03-11,True,False,0.9,Workout,0,False,Neutral,True
+2617,2024-07-01,58,Male,Donovanfurt,Gain Muscle,17,11,5,5,3,0.5,Web,Referral,Mobile,Premium,2024-11-15,2025-03-04,False,False,0.1,Workout,91,True,Positive,True
+5764,2023-10-20,76,Male,Davidtown,Lose Weight,81,79,4,3,1,0.5,iOS,Google Ads,Mobile,Standard,2024-07-12,2025-04-21,False,False,0.6,Support,24,True,Positive,False
+9996,2020-11-16,63,Other,Hartview,Gain Muscle,37,12,6,7,3,0.8,Web,Google Ads,Web,Premium,2022-07-17,2025-03-18,True,False,0.2,Support,88,False,Neutral,False
+3822,2021-05-15,59,Female,South Robin,Lose Weight,94,8,6,1,2,0.6,Web,Referral,Web,Premium,2020-06-14,2025-02-05,False,False,0.2,Support,96,False,Neutral,True
+5155,2023-01-16,71,Male,South Darleneshire,Lose Weight,61,71,4,2,5,0.2,Android,Google Ads,Mobile,Standard,2025-03-07,2025-03-10,False,False,0.9,Meal Logging,46,False,Positive,True
+2534,2021-04-14,39,Other,Patrickland,Lose Weight,5,58,5,4,5,0.3,iOS,Referral,Mobile,Premium,2022-10-27,2025-02-02,True,True,0.2,Meal Logging,57,True,Positive,True
+1379,2025-03-12,62,Male,Abigailburgh,Gain Muscle,8,94,2,6,2,0.3,iOS,Referral,Web,Standard,2023-11-16,2025-01-29,False,False,0.9,Meal Logging,89,True,Negative,False
+1893,2022-10-18,33,Female,Richardburgh,Gain Muscle,28,75,3,4,1,0.8,iOS,Referral,Mobile,Standard,2021-08-13,2025-05-09,False,False,0.7,Workout,79,True,Negative,False
+5166,2020-08-29,20,Female,Brittanyburgh,Lose Weight,23,29,7,6,1,0.3,iOS,Google Ads,Web,Standard,2023-08-28,2025-01-09,True,True,0.0,Workout,52,True,Positive,True
+2975,2022-03-24,20,Female,Lake Donna,Gain Muscle,69,82,4,3,1,0.4,Web,Referral,Web,Standard,2024-11-23,2025-01-15,False,True,0.4,Meal Logging,52,True,Positive,False
+5472,2025-03-28,33,Other,Michaelview,Gain Muscle,98,52,6,4,6,0.9,iOS,Referral,Web,Premium,2023-01-27,2025-01-17,False,True,0.7,Support,77,True,Positive,True
+7902,2024-04-14,73,Male,New Martha,Gain Muscle,98,78,3,3,7,0.7,Android,Referral,Mobile,Premium,2021-03-20,2025-03-30,False,False,0.3,Support,57,False,Neutral,True
+2573,2021-03-28,42,Female,South Madelinetown,Gain Muscle,63,95,7,3,3,0.3,Android,Google Ads,Web,Premium,2021-12-27,2025-03-14,False,True,0.6,Meal Logging,58,False,Positive,True
+5531,2025-02-20,61,Female,Priscillaberg,Gain Muscle,56,55,2,3,6,0.2,Web,Google Ads,Mobile,Premium,2020-01-23,2025-02-27,True,True,0.9,Workout,70,True,Positive,False
+6842,2023-01-07,43,Female,South Bryan,Gain Muscle,61,57,7,6,1,0.8,iOS,Referral,Mobile,Standard,2020-08-13,2025-01-29,False,False,0.1,Support,76,False,Positive,True
+4011,2024-03-30,40,Female,Nathanborough,Lose Weight,58,31,4,5,2,0.9,iOS,Referral,Web,Standard,2025-04-05,2025-03-09,True,False,0.3,Workout,36,False,Negative,True
+5003,2022-04-27,76,Male,East Amy,Lose Weight,32,96,7,7,5,0.1,Android,Referral,Web,Standard,2021-11-23,2025-04-10,False,False,0.3,Support,41,True,Negative,False
+8031,2020-06-18,60,Male,Brownhaven,Gain Muscle,23,41,2,7,3,0.9,Android,Referral,Web,Standard,2023-06-03,2025-04-11,True,True,0.6,Support,60,False,Neutral,True
+7084,2023-05-20,45,Other,Kimstad,Lose Weight,82,13,5,6,7,0.6,iOS,Referral,Web,Standard,2022-09-20,2025-04-26,True,False,0.1,Workout,33,False,Neutral,False
+1960,2022-07-11,45,Other,South Jorge,Lose Weight,55,26,3,7,7,0.4,Web,Google Ads,Web,Premium,2020-01-11,2025-04-04,True,False,0.2,Support,68,False,Positive,True
+8273,2021-08-06,18,Female,Tuckerport,Gain Muscle,81,15,7,1,7,0.4,Web,Google Ads,Mobile,Standard,2022-04-05,2025-02-16,False,True,0.1,Support,9,True,Negative,False
+845,2023-06-03,47,Female,Riversstad,Lose Weight,62,75,3,6,6,0.8,Web,Google Ads,Mobile,Standard,2022-07-28,2025-04-13,True,False,0.5,Meal Logging,7,False,Negative,False
+9148,2021-04-28,63,Male,Kellytown,Gain Muscle,40,51,2,3,2,0.6,Android,Referral,Web,Standard,2021-04-23,2025-05-01,False,True,0.6,Workout,30,False,Negative,True
+7865,2020-01-06,49,Male,Port Courtneytown,Lose Weight,65,16,2,1,1,0.1,Android,Google Ads,Mobile,Standard,2025-02-08,2025-04-19,False,False,0.7,Support,84,True,Negative,True
+905,2023-11-23,36,Other,Rogerston,Lose Weight,55,27,2,3,1,0.0,Android,Google Ads,Web,Premium,2021-07-25,2025-01-05,False,False,0.4,Support,63,True,Neutral,False
+6453,2025-02-20,36,Female,North Deborahborough,Lose Weight,32,94,4,3,7,0.5,Web,Google Ads,Mobile,Premium,2020-05-18,2025-04-25,False,True,0.0,Workout,82,False,Negative,False
+2979,2022-03-05,20,Male,Rodriguezbury,Lose Weight,36,32,4,7,1,0.0,Web,Google Ads,Mobile,Premium,2021-12-17,2025-05-08,False,False,0.4,Support,79,True,Positive,True
+7656,2023-09-29,23,Male,Hardinchester,Lose Weight,42,74,1,7,1,0.1,iOS,Google Ads,Web,Premium,2021-12-26,2025-04-15,False,True,0.7,Meal Logging,97,True,Positive,True
+1888,2021-07-04,55,Other,Changview,Lose Weight,30,58,3,7,7,0.9,Web,Google Ads,Web,Standard,2022-09-09,2025-04-23,False,False,0.6,Meal Logging,23,False,Negative,True
+2013,2024-05-25,29,Other,Wilkinsonberg,Gain Muscle,43,12,2,3,1,0.1,Web,Referral,Mobile,Premium,2020-04-16,2025-03-27,False,False,0.5,Meal Logging,79,False,Positive,False
+4926,2020-10-04,56,Other,East Clayton,Lose Weight,79,22,2,7,7,0.0,Web,Google Ads,Web,Standard,2025-01-27,2025-01-12,True,True,0.5,Meal Logging,55,False,Negative,True
+2486,2024-10-06,34,Male,Alyssaton,Gain Muscle,88,60,6,1,2,0.3,iOS,Google Ads,Web,Standard,2020-02-21,2025-04-24,False,False,0.8,Support,13,False,Positive,True
+6988,2022-12-15,23,Other,Adammouth,Gain Muscle,2,95,7,4,6,0.2,Android,Google Ads,Web,Standard,2021-07-15,2025-01-22,False,True,0.7,Workout,3,True,Neutral,True
+2596,2021-03-08,75,Male,North Dawn,Lose Weight,90,30,6,5,1,0.9,iOS,Google Ads,Mobile,Premium,2021-05-21,2025-03-09,True,True,0.6,Meal Logging,91,False,Positive,True
+9401,2024-08-09,30,Female,Lake Tara,Lose Weight,90,92,6,5,7,0.3,Web,Google Ads,Mobile,Standard,2020-01-19,2025-03-04,True,True,0.7,Meal Logging,67,False,Neutral,False
+5660,2024-08-17,80,Female,Curtisburgh,Gain Muscle,17,17,2,3,2,0.1,Android,Referral,Web,Standard,2024-09-18,2025-01-16,False,False,0.2,Meal Logging,30,True,Positive,False
+6498,2021-12-01,59,Other,Lake Jon,Gain Muscle,63,50,5,1,6,0.5,Web,Referral,Mobile,Standard,2024-10-27,2025-03-15,False,True,0.3,Workout,75,True,Neutral,True
+3379,2020-01-27,65,Female,Brittanyborough,Gain Muscle,8,90,7,5,5,0.2,Web,Referral,Web,Standard,2022-09-06,2025-01-04,False,False,0.0,Meal Logging,85,False,Neutral,True
+3838,2024-11-04,64,Female,Christopherview,Gain Muscle,69,16,4,4,5,0.1,Web,Google Ads,Mobile,Standard,2023-12-21,2025-02-24,True,False,0.8,Workout,34,True,Negative,True
+472,2020-04-01,66,Other,South Douglasbury,Lose Weight,50,44,4,3,4,0.5,Web,Referral,Mobile,Standard,2023-03-11,2025-01-14,False,False,0.9,Support,72,False,Neutral,False
+1275,2021-03-13,63,Female,West Marybury,Lose Weight,62,91,2,5,6,0.9,iOS,Google Ads,Web,Standard,2021-05-19,2025-04-21,False,False,0.6,Support,49,True,Negative,False
+1313,2021-10-24,29,Female,East George,Lose Weight,37,99,7,5,1,0.2,iOS,Referral,Mobile,Premium,2023-05-17,2025-02-23,True,False,0.9,Meal Logging,4,True,Positive,True
+1411,2024-08-26,27,Female,Nelsonstad,Lose Weight,5,30,2,5,5,0.2,Android,Google Ads,Web,Standard,2022-12-13,2025-03-11,False,True,0.0,Workout,98,True,Negative,False
+3622,2025-03-23,76,Other,Hillview,Gain Muscle,21,21,4,4,5,0.1,Web,Referral,Mobile,Standard,2023-12-09,2025-04-14,True,True,0.9,Meal Logging,78,True,Positive,False
+1552,2022-03-15,21,Male,Riveraport,Lose Weight,93,2,7,1,6,0.7,iOS,Referral,Mobile,Premium,2023-09-01,2025-03-16,True,True,0.0,Workout,88,False,Negative,True
+5308,2022-05-09,51,Female,Ericaside,Gain Muscle,17,30,2,2,1,0.1,iOS,Referral,Mobile,Standard,2023-08-20,2025-03-15,False,True,0.0,Meal Logging,79,False,Positive,True
+4727,2022-06-26,25,Female,Markstad,Lose Weight,63,76,1,5,5,0.3,Web,Referral,Web,Premium,2020-03-09,2025-02-18,True,True,0.4,Meal Logging,68,True,Positive,False
+2281,2022-11-27,69,Other,Martinstad,Lose Weight,77,51,1,6,7,0.9,iOS,Referral,Web,Premium,2021-04-10,2025-03-28,True,True,0.6,Support,15,False,Negative,False
+1694,2020-12-22,33,Other,North Shawnborough,Gain Muscle,71,56,2,1,5,0.4,iOS,Referral,Web,Premium,2020-03-12,2025-02-23,True,False,0.0,Support,90,False,Positive,True
+8524,2023-05-17,75,Other,Seanview,Gain Muscle,60,35,6,3,1,0.0,Web,Referral,Mobile,Premium,2024-02-11,2025-05-04,False,False,0.2,Support,59,True,Negative,True
+6185,2024-06-09,46,Other,West Leslie,Lose Weight,3,79,2,6,5,0.1,Web,Referral,Mobile,Standard,2024-09-15,2025-03-07,True,True,0.2,Meal Logging,11,True,Negative,False
+5725,2022-01-31,70,Male,Lake Ethan,Gain Muscle,74,21,7,6,6,0.4,iOS,Referral,Mobile,Standard,2020-01-20,2025-02-16,False,False,0.3,Workout,55,True,Positive,True
+2318,2025-05-08,23,Male,Port Rodneymouth,Lose Weight,48,61,7,6,2,0.0,Android,Google Ads,Web,Standard,2020-09-10,2025-03-27,True,True,0.7,Workout,70,False,Negative,False
+3534,2021-05-15,23,Male,Barkershire,Gain Muscle,51,40,5,7,7,0.7,iOS,Google Ads,Mobile,Premium,2020-02-16,2025-05-01,True,True,0.1,Workout,47,False,Negative,False
+1163,2024-09-28,31,Female,Brittanytown,Lose Weight,76,2,3,5,7,0.2,Web,Referral,Web,Premium,2023-06-07,2025-04-18,True,True,0.8,Workout,7,False,Negative,True
+2511,2020-03-08,72,Other,South Monicafort,Lose Weight,61,96,7,7,2,0.5,Android,Referral,Mobile,Standard,2021-08-14,2025-02-03,True,False,0.8,Support,53,True,Positive,True
+8064,2022-03-01,70,Other,Port Sarah,Gain Muscle,33,61,6,2,6,0.4,Android,Referral,Web,Standard,2023-04-20,2025-04-26,False,True,0.9,Workout,38,False,Positive,True
+8564,2021-01-05,70,Male,South Aaronburgh,Lose Weight,78,58,5,4,4,0.7,Android,Referral,Web,Premium,2022-11-09,2025-02-13,False,True,0.3,Support,91,False,Negative,False
+2075,2023-02-25,37,Male,East Michael,Lose Weight,72,11,6,7,1,0.7,Web,Referral,Web,Premium,2022-01-17,2025-02-12,True,False,0.8,Meal Logging,5,True,Neutral,False
+5637,2022-04-13,27,Other,East Dana,Gain Muscle,92,85,7,5,6,0.1,Android,Google Ads,Mobile,Standard,2022-09-09,2025-02-23,True,True,0.6,Meal Logging,12,True,Positive,True
+5447,2023-01-14,73,Other,West Bryan,Gain Muscle,41,65,3,3,5,0.6,Web,Google Ads,Web,Premium,2021-01-02,2025-04-12,False,False,0.9,Support,30,False,Negative,False
+7718,2023-07-27,61,Male,Port Paul,Gain Muscle,62,22,2,3,7,0.9,Web,Google Ads,Web,Premium,2024-09-24,2025-02-16,True,False,0.3,Workout,1,False,Negative,True
+5999,2020-12-06,80,Female,New Amy,Lose Weight,65,20,7,7,3,0.7,Web,Referral,Mobile,Premium,2022-12-25,2025-01-14,False,False,0.1,Support,61,True,Neutral,False
+9825,2023-01-28,56,Male,Kiddmouth,Gain Muscle,83,85,4,1,2,0.3,Android,Referral,Web,Standard,2022-12-15,2025-04-29,True,True,0.2,Workout,55,False,Positive,True
+8791,2021-12-23,22,Male,South Sally,Lose Weight,36,1,7,2,3,0.6,Android,Referral,Web,Premium,2023-07-18,2025-02-08,True,False,0.4,Support,75,True,Positive,True
+7256,2024-03-05,79,Female,East Jamie,Lose Weight,47,19,2,6,3,0.4,Android,Google Ads,Web,Standard,2022-06-27,2025-02-06,True,True,0.5,Workout,86,True,Positive,False
+2902,2023-05-19,19,Other,Whitneyport,Gain Muscle,38,12,2,6,3,0.1,iOS,Google Ads,Web,Premium,2021-04-20,2025-02-27,False,False,0.0,Workout,79,False,Neutral,True
+933,2020-04-01,73,Female,Seanbury,Gain Muscle,67,39,2,6,2,0.5,iOS,Google Ads,Mobile,Standard,2020-04-23,2025-04-21,False,True,0.6,Support,57,False,Positive,False
+6047,2020-11-05,36,Other,East Kathrynhaven,Lose Weight,34,29,1,6,4,0.0,Android,Google Ads,Mobile,Standard,2020-10-11,2025-05-02,False,False,0.2,Workout,6,True,Positive,True
+106,2024-08-17,23,Male,Port Kathyport,Gain Muscle,48,9,4,3,3,0.9,Web,Referral,Web,Standard,2022-12-17,2025-04-24,True,True,0.2,Workout,13,True,Positive,False
+6083,2022-11-29,28,Male,Port Edwin,Lose Weight,29,39,1,7,6,0.1,Web,Referral,Web,Standard,2023-05-27,2025-03-07,True,False,0.5,Workout,98,True,Positive,False
+5799,2021-02-10,32,Other,Lisachester,Gain Muscle,70,84,4,6,5,0.8,Web,Referral,Mobile,Premium,2020-11-06,2025-05-06,True,True,0.8,Meal Logging,35,False,Negative,False
+8155,2021-06-27,75,Female,Mckeechester,Lose Weight,35,71,2,3,5,0.4,iOS,Referral,Mobile,Premium,2022-05-16,2025-02-18,True,False,0.8,Support,60,True,Negative,False
+783,2021-04-08,57,Female,Websterfurt,Lose Weight,72,37,6,2,5,0.9,iOS,Referral,Web,Standard,2022-04-14,2025-04-22,True,False,0.8,Workout,33,False,Positive,False
+172,2022-01-08,26,Other,New Ronald,Gain Muscle,19,43,4,6,4,0.1,Web,Google Ads,Mobile,Premium,2020-05-02,2025-03-31,True,False,0.6,Workout,79,True,Positive,True
+6005,2020-03-27,61,Male,New Amber,Gain Muscle,79,34,4,4,5,0.9,iOS,Referral,Web,Premium,2020-04-13,2025-04-20,True,True,0.5,Workout,51,True,Positive,True
+3849,2022-11-09,19,Male,Thomasberg,Lose Weight,15,9,7,4,3,0.1,Android,Referral,Web,Premium,2023-07-07,2025-01-07,True,True,0.3,Workout,8,False,Positive,True
+9448,2025-02-23,43,Other,North Carolynland,Lose Weight,87,42,1,4,1,0.0,Web,Referral,Web,Premium,2021-09-19,2025-02-17,False,False,0.6,Workout,21,True,Neutral,True
+6724,2024-07-26,51,Other,West Jeremyfort,Gain Muscle,7,96,6,3,6,0.5,Android,Google Ads,Web,Standard,2024-07-20,2025-03-18,True,False,0.4,Workout,54,False,Neutral,False
+2535,2023-04-27,50,Other,Mckinneyberg,Lose Weight,28,5,3,1,1,0.3,Web,Google Ads,Mobile,Standard,2022-05-07,2025-03-28,True,False,0.0,Workout,22,True,Neutral,False
+9653,2023-05-05,46,Female,West Jeanette,Lose Weight,2,95,3,5,5,0.6,iOS,Referral,Mobile,Standard,2023-09-08,2025-04-07,False,True,0.7,Meal Logging,96,False,Neutral,True
+9815,2021-12-31,78,Other,New William,Gain Muscle,87,0,7,3,5,0.0,Web,Google Ads,Mobile,Premium,2020-12-02,2025-02-27,True,True,0.3,Meal Logging,40,False,Neutral,True
+2999,2020-01-06,57,Female,West Johnmouth,Gain Muscle,94,29,5,5,2,0.1,Web,Google Ads,Web,Standard,2024-09-27,2025-04-15,True,False,0.1,Workout,90,True,Neutral,False
+307,2022-06-27,45,Female,New Tammyland,Lose Weight,71,39,1,2,1,0.2,Web,Referral,Mobile,Premium,2021-06-28,2025-05-07,True,True,0.6,Meal Logging,78,True,Negative,True
+1711,2022-06-17,18,Other,Moralesshire,Gain Muscle,22,5,6,7,1,0.0,Web,Google Ads,Mobile,Standard,2024-02-29,2025-04-13,False,True,0.3,Meal Logging,49,True,Negative,False
+4701,2022-01-10,27,Male,Jacquelineville,Lose Weight,39,53,7,5,1,0.6,Web,Referral,Web,Standard,2023-11-13,2025-04-26,True,True,0.0,Meal Logging,12,True,Neutral,True
+313,2020-01-18,36,Female,New Jeremyport,Lose Weight,77,4,6,6,1,0.2,iOS,Referral,Mobile,Premium,2021-12-18,2025-01-27,False,False,0.8,Workout,24,False,Neutral,True
+4195,2020-04-15,47,Female,South Annette,Gain Muscle,27,17,3,2,1,0.3,Android,Referral,Mobile,Standard,2021-12-05,2025-05-01,True,False,0.9,Meal Logging,50,True,Negative,True
+5212,2020-09-11,37,Female,Lake Melanie,Lose Weight,88,16,2,7,6,0.4,iOS,Referral,Web,Standard,2023-07-20,2025-04-26,False,False,0.2,Support,34,False,Neutral,True
+9783,2022-10-27,78,Female,South Sergio,Lose Weight,86,93,2,1,6,0.2,iOS,Google Ads,Mobile,Premium,2023-12-01,2025-02-06,False,True,0.7,Support,75,False,Neutral,False
+6626,2021-07-10,53,Male,Deannabury,Gain Muscle,57,81,5,2,7,0.8,Android,Google Ads,Mobile,Standard,2020-12-18,2025-01-07,True,False,0.4,Support,99,False,Positive,False
+8827,2021-04-30,20,Female,New Karenfurt,Lose Weight,61,83,1,2,4,0.7,Web,Referral,Mobile,Premium,2023-01-22,2025-01-26,False,True,0.8,Support,57,False,Negative,True
+9265,2023-03-01,59,Male,Davidland,Lose Weight,67,2,7,4,1,0.4,Web,Google Ads,Mobile,Premium,2021-10-04,2025-04-29,False,False,0.5,Workout,42,False,Neutral,False
+189,2021-03-06,75,Female,Port Stephaniemouth,Gain Muscle,38,78,3,4,2,0.8,Web,Referral,Mobile,Standard,2025-01-21,2025-03-30,True,True,0.9,Support,76,False,Negative,False
+6432,2023-11-18,71,Female,North Zachary,Gain Muscle,98,12,6,7,6,0.5,Web,Referral,Mobile,Premium,2022-03-29,2025-02-15,False,True,0.7,Meal Logging,99,False,Neutral,False
+9603,2022-09-12,27,Other,North Michael,Lose Weight,96,18,6,6,4,0.3,iOS,Google Ads,Web,Standard,2023-12-29,2025-03-23,True,True,0.8,Meal Logging,93,True,Neutral,True
+6475,2020-06-11,32,Other,South Sean,Lose Weight,35,35,4,5,6,0.9,Android,Google Ads,Web,Standard,2023-07-23,2025-03-24,False,False,0.5,Support,25,False,Neutral,True
+404,2020-01-29,78,Other,Lake Sharonfurt,Gain Muscle,39,2,7,1,3,0.4,iOS,Google Ads,Web,Standard,2020-01-10,2025-02-07,True,True,0.6,Workout,5,False,Negative,True
+5911,2021-05-29,38,Male,North Amy,Lose Weight,18,40,6,1,3,0.2,iOS,Google Ads,Web,Standard,2020-05-07,2025-01-22,True,False,0.4,Workout,77,True,Negative,True
+5310,2023-07-27,73,Other,Lake Barbara,Gain Muscle,47,82,3,7,1,0.6,iOS,Referral,Mobile,Premium,2023-06-14,2025-01-08,True,True,0.9,Meal Logging,94,False,Negative,True
+6803,2024-01-23,37,Other,Josephfort,Lose Weight,6,3,6,3,4,0.5,Android,Google Ads,Web,Standard,2022-05-23,2025-01-15,False,False,0.5,Support,20,True,Positive,True
+7636,2020-05-26,77,Other,Thomasshire,Gain Muscle,36,60,7,2,7,0.2,Android,Referral,Mobile,Standard,2025-05-05,2025-03-05,True,True,0.5,Support,33,False,Negative,False
+6023,2021-08-10,75,Male,East Jasonburgh,Lose Weight,62,24,5,1,2,0.7,Android,Google Ads,Web,Standard,2022-12-13,2025-01-07,False,True,0.4,Workout,96,False,Positive,False
+2164,2024-08-17,42,Other,Elizabethport,Gain Muscle,82,88,2,6,6,0.2,iOS,Referral,Mobile,Standard,2021-07-25,2025-04-20,True,False,0.3,Meal Logging,15,False,Negative,True
+2203,2022-02-20,44,Other,Lake Williamport,Gain Muscle,1,72,3,6,7,0.9,iOS,Referral,Mobile,Standard,2021-11-22,2025-04-06,True,False,0.8,Support,93,False,Negative,False
+3890,2025-04-17,21,Male,South Angelside,Gain Muscle,40,15,7,2,2,0.3,Web,Google Ads,Web,Standard,2023-08-19,2025-04-25,True,False,0.8,Support,86,True,Positive,False
+1788,2021-02-22,49,Other,Jacobborough,Lose Weight,19,32,6,4,6,0.5,Web,Google Ads,Mobile,Premium,2022-07-06,2025-01-20,True,False,0.7,Support,19,False,Positive,True
+6125,2025-04-28,63,Other,Frankhaven,Lose Weight,6,68,6,5,6,0.9,iOS,Google Ads,Mobile,Premium,2021-03-08,2025-05-08,True,False,0.6,Workout,62,True,Negative,False
+6733,2020-02-17,67,Male,Lindseychester,Gain Muscle,10,62,4,4,7,0.0,Android,Referral,Web,Standard,2023-06-10,2025-02-19,False,True,0.3,Support,54,False,Positive,False
+4673,2024-09-15,25,Male,New Ashleybury,Lose Weight,69,6,3,1,3,0.2,iOS,Referral,Web,Standard,2024-10-06,2025-04-30,True,False,0.4,Workout,35,False,Neutral,False
+1794,2021-05-02,37,Female,East William,Gain Muscle,52,29,5,3,7,0.1,iOS,Google Ads,Mobile,Premium,2024-06-12,2025-03-31,True,False,0.0,Meal Logging,39,False,Positive,False
+3726,2021-09-09,44,Male,West Jessetown,Gain Muscle,63,38,7,4,3,0.5,Web,Referral,Mobile,Standard,2022-09-13,2025-03-31,True,True,0.2,Meal Logging,91,True,Negative,True
+7286,2021-12-13,24,Female,Ericksonhaven,Gain Muscle,5,29,2,6,3,0.9,Android,Referral,Web,Standard,2023-12-10,2025-02-17,False,True,0.1,Support,14,True,Positive,True
+8275,2022-03-17,50,Female,East Elizabeth,Gain Muscle,10,26,6,3,6,0.5,Web,Google Ads,Web,Standard,2020-12-06,2025-04-19,False,True,0.0,Support,2,False,Neutral,False
+3038,2022-12-29,25,Male,Rangelfort,Lose Weight,86,82,1,2,5,0.9,iOS,Referral,Mobile,Premium,2024-08-05,2025-04-27,True,False,0.3,Support,58,True,Negative,False
+5151,2024-10-17,35,Female,Whitefurt,Lose Weight,56,21,7,7,3,0.9,iOS,Google Ads,Mobile,Standard,2023-02-02,2025-01-10,True,False,0.6,Workout,90,False,Negative,True
+1819,2022-06-16,39,Other,Margaretfurt,Lose Weight,44,33,2,1,3,0.1,Web,Google Ads,Web,Premium,2022-12-27,2025-04-06,False,True,0.6,Support,24,True,Neutral,True
+5380,2024-11-07,41,Other,East Leah,Gain Muscle,28,56,7,7,4,0.0,Web,Google Ads,Web,Premium,2024-09-05,2025-02-08,False,True,0.1,Meal Logging,19,True,Neutral,False
+1594,2024-04-16,80,Male,Beckermouth,Lose Weight,79,70,3,6,6,0.8,Web,Referral,Mobile,Standard,2020-10-23,2025-01-07,False,True,0.6,Workout,47,False,Negative,False
+3737,2020-03-12,73,Other,Marshstad,Gain Muscle,46,67,1,6,4,0.5,Web,Referral,Web,Premium,2021-05-17,2025-04-27,False,False,0.8,Workout,6,True,Neutral,True
+1072,2021-10-05,48,Other,New Kyle,Gain Muscle,90,9,6,2,4,0.9,Web,Referral,Mobile,Standard,2022-06-19,2025-01-07,False,False,0.0,Support,0,True,Neutral,True
+6215,2022-04-21,36,Other,North Vickiberg,Gain Muscle,43,41,5,7,5,0.2,Android,Referral,Mobile,Premium,2020-08-30,2025-05-05,False,True,0.6,Workout,83,True,Positive,True
+8916,2021-11-04,71,Male,Juanmouth,Gain Muscle,76,8,2,2,7,0.4,Android,Google Ads,Mobile,Standard,2024-07-21,2025-02-05,True,False,0.8,Support,90,True,Neutral,True
+1408,2024-09-26,52,Male,Wendymouth,Lose Weight,43,5,7,6,7,0.1,Web,Google Ads,Mobile,Premium,2025-04-17,2025-02-06,False,False,0.3,Workout,94,True,Neutral,True
+5967,2021-03-31,72,Other,Nguyenbury,Gain Muscle,82,16,5,3,7,0.7,iOS,Referral,Web,Standard,2023-03-13,2025-01-25,False,True,0.6,Meal Logging,78,False,Negative,False
+5502,2023-07-17,34,Female,Morenofort,Gain Muscle,86,69,1,7,4,0.0,Android,Google Ads,Mobile,Standard,2021-05-24,2025-01-23,True,False,0.9,Workout,10,False,Neutral,False
+1825,2024-06-18,28,Male,New Todd,Gain Muscle,38,15,5,4,7,0.7,Web,Referral,Web,Premium,2024-05-03,2025-04-26,False,True,0.2,Support,42,True,Negative,True
+6881,2025-03-28,24,Other,Lake Christine,Lose Weight,2,11,6,1,6,0.8,Web,Referral,Web,Premium,2022-04-26,2025-01-23,False,True,0.1,Support,94,False,Negative,False
+1434,2023-01-14,80,Female,North Omar,Gain Muscle,53,39,3,5,5,0.8,Android,Google Ads,Mobile,Premium,2022-09-26,2025-03-16,False,False,0.6,Support,64,False,Negative,True
+2046,2024-06-27,52,Female,Mcdonaldland,Gain Muscle,84,99,4,1,6,0.5,iOS,Google Ads,Web,Standard,2024-07-19,2025-01-08,False,False,0.0,Workout,97,False,Negative,False
+4028,2024-09-21,49,Female,Waltershire,Lose Weight,3,19,2,4,2,0.6,Android,Referral,Web,Standard,2024-04-12,2025-01-28,True,True,0.3,Support,84,True,Neutral,False
+8047,2020-03-23,21,Male,West Kristin,Gain Muscle,32,9,1,3,1,0.8,iOS,Referral,Mobile,Standard,2023-01-12,2025-04-21,False,True,0.2,Support,8,False,Positive,False
+8024,2022-09-19,31,Other,Perezchester,Gain Muscle,40,0,2,7,6,0.9,Web,Google Ads,Web,Premium,2022-03-07,2025-01-17,True,True,0.8,Support,56,True,Neutral,True
+4518,2024-02-14,25,Other,West Vincentland,Gain Muscle,70,71,2,4,3,0.3,Web,Google Ads,Mobile,Premium,2020-10-09,2025-02-18,True,True,0.9,Support,24,True,Negative,False
+8772,2021-05-10,58,Other,North Dustinville,Gain Muscle,66,64,4,1,6,0.7,Web,Referral,Mobile,Standard,2024-09-18,2025-01-18,False,True,0.0,Meal Logging,8,True,Negative,True
+2790,2021-09-16,38,Female,Briannachester,Gain Muscle,54,57,4,2,4,0.8,iOS,Referral,Mobile,Standard,2021-01-25,2025-02-22,True,False,0.7,Support,57,True,Positive,False
+3826,2024-08-21,71,Female,Ambershire,Lose Weight,11,44,7,4,6,0.8,Android,Google Ads,Mobile,Premium,2020-06-15,2025-04-15,True,False,0.2,Support,54,False,Negative,False
+7050,2021-05-17,24,Other,Sharontown,Lose Weight,73,11,3,6,7,0.0,Web,Google Ads,Web,Standard,2025-02-08,2025-05-01,True,True,0.9,Support,5,True,Positive,False
+745,2025-03-02,44,Male,Lake Kellyland,Lose Weight,9,25,4,2,4,0.4,Web,Referral,Web,Premium,2024-10-03,2025-03-22,False,False,0.2,Meal Logging,63,True,Positive,False
+2164,2023-12-16,47,Female,New Jennifer,Gain Muscle,30,10,4,3,7,0.3,iOS,Google Ads,Mobile,Standard,2020-12-29,2025-04-12,True,False,0.6,Workout,71,False,Negative,False
+3994,2021-05-20,40,Other,New Kim,Lose Weight,97,37,5,3,3,0.1,Web,Google Ads,Web,Premium,2021-12-01,2025-05-04,False,True,0.9,Support,41,False,Positive,False
+1949,2022-02-25,53,Other,Lake Melissa,Lose Weight,41,97,7,1,3,0.0,Web,Referral,Mobile,Premium,2022-09-17,2025-05-09,False,True,0.9,Workout,6,True,Positive,False
+8303,2023-11-15,79,Other,New Margarettown,Gain Muscle,9,71,3,7,2,0.5,Android,Google Ads,Web,Premium,2023-03-30,2025-02-19,False,False,0.6,Meal Logging,60,False,Positive,False
+577,2022-11-30,36,Female,South Deanna,Gain Muscle,97,21,7,4,4,0.8,Android,Referral,Mobile,Premium,2025-01-27,2025-03-06,True,False,0.6,Workout,73,True,Negative,True
+3224,2023-02-26,24,Other,Lake Gina,Gain Muscle,28,13,7,2,4,0.2,iOS,Referral,Mobile,Standard,2020-05-23,2025-04-20,True,True,0.6,Support,48,True,Positive,False
+9182,2020-08-27,22,Female,Meyerchester,Lose Weight,96,61,5,7,1,0.0,Android,Referral,Mobile,Premium,2023-05-16,2025-04-24,True,False,0.5,Meal Logging,64,False,Positive,True
+8260,2022-01-05,36,Other,New Jon,Lose Weight,45,31,3,3,5,0.9,Web,Google Ads,Mobile,Standard,2023-09-27,2025-04-27,False,False,0.7,Workout,7,False,Positive,False
+2999,2022-04-26,37,Female,East John,Lose Weight,18,5,5,5,5,0.0,iOS,Google Ads,Web,Standard,2022-05-20,2025-01-29,True,False,0.5,Meal Logging,36,False,Negative,False
+2459,2021-04-08,21,Other,Brandonland,Lose Weight,25,71,1,6,6,0.3,Android,Google Ads,Web,Premium,2020-02-01,2025-01-19,False,False,0.9,Workout,91,True,Positive,False
+7742,2023-08-22,46,Other,New Jesse,Lose Weight,68,97,7,7,4,0.9,Web,Google Ads,Mobile,Premium,2024-12-28,2025-04-08,False,True,0.0,Meal Logging,92,True,Positive,True
+9823,2023-01-17,56,Male,Kevinberg,Gain Muscle,38,39,3,5,4,0.6,Web,Google Ads,Mobile,Premium,2024-12-01,2025-03-19,True,True,0.7,Meal Logging,65,True,Positive,True
+8493,2022-09-26,44,Male,Lake Michael,Lose Weight,51,67,2,1,7,0.1,Android,Google Ads,Mobile,Standard,2024-07-23,2025-01-29,False,True,0.9,Workout,11,False,Neutral,True
+6077,2020-11-29,54,Male,North Jenniferburgh,Gain Muscle,2,24,7,5,5,0.5,iOS,Referral,Mobile,Standard,2024-07-19,2025-03-12,True,True,0.7,Support,57,False,Positive,False
+7424,2022-02-14,27,Female,Knightfort,Gain Muscle,37,41,7,1,5,0.6,iOS,Google Ads,Mobile,Premium,2020-05-02,2025-05-01,True,False,0.1,Meal Logging,2,False,Positive,True
+9568,2021-06-12,76,Other,Wardhaven,Lose Weight,13,30,7,4,3,0.9,Web,Referral,Mobile,Standard,2023-08-30,2025-03-24,False,True,0.4,Support,88,False,Neutral,False
+7207,2022-08-11,60,Female,Gonzalesmouth,Lose Weight,97,38,2,2,4,0.9,Android,Referral,Web,Premium,2021-02-25,2025-03-21,True,True,0.6,Support,67,False,Positive,True
+6815,2020-12-23,18,Other,South Timothyberg,Lose Weight,32,27,3,1,2,0.6,iOS,Referral,Web,Standard,2021-10-11,2025-02-11,True,False,0.0,Workout,91,True,Neutral,False
+6698,2024-07-05,35,Male,Gracetown,Lose Weight,47,43,7,6,5,0.7,Android,Referral,Web,Standard,2023-07-04,2025-01-28,False,False,0.9,Meal Logging,96,True,Neutral,True
+4603,2022-05-30,57,Male,Clarkberg,Lose Weight,74,21,7,7,6,0.3,iOS,Google Ads,Web,Standard,2022-05-10,2025-02-08,False,False,0.9,Support,89,True,Neutral,False
+5597,2024-07-22,31,Other,Port David,Gain Muscle,81,86,3,4,3,0.4,Web,Referral,Web,Standard,2024-07-16,2025-02-14,False,False,0.9,Support,59,False,Positive,False
+5223,2022-05-31,71,Other,North Jeffrey,Lose Weight,97,2,5,3,5,0.8,iOS,Referral,Mobile,Premium,2022-06-06,2025-03-04,True,True,0.2,Support,0,True,Neutral,False
+6771,2022-05-25,30,Male,Nathanland,Lose Weight,27,3,1,1,3,0.7,Android,Google Ads,Web,Standard,2023-04-22,2025-04-01,True,True,0.3,Meal Logging,43,False,Negative,True
+7670,2021-07-29,25,Male,Lake Laurieberg,Gain Muscle,82,62,5,6,1,0.7,Android,Google Ads,Mobile,Premium,2024-08-22,2025-02-18,True,False,0.7,Support,88,False,Positive,False
+1160,2024-12-02,80,Other,Hoffmanberg,Gain Muscle,82,60,2,7,2,0.3,iOS,Google Ads,Web,Premium,2023-02-28,2025-01-01,True,True,0.6,Meal Logging,56,False,Neutral,True
+7217,2025-01-15,26,Male,North Sarah,Gain Muscle,30,11,4,2,7,0.7,Android,Google Ads,Web,Premium,2024-03-27,2025-01-02,False,True,0.5,Meal Logging,95,False,Negative,True
+3460,2021-02-17,79,Male,Lake Melanie,Gain Muscle,61,86,4,2,2,0.4,Web,Google Ads,Web,Premium,2022-03-12,2025-05-04,False,True,0.6,Support,44,True,Negative,False
+5576,2024-03-13,53,Female,Petersonhaven,Lose Weight,39,79,3,6,7,0.3,Android,Referral,Mobile,Premium,2025-03-11,2025-01-21,True,True,0.2,Support,25,False,Neutral,True
+6011,2024-12-23,18,Male,New Mary,Gain Muscle,40,70,4,7,3,0.0,Android,Referral,Web,Standard,2024-11-25,2025-04-10,True,False,0.2,Meal Logging,57,True,Negative,False
+2221,2022-05-22,39,Other,West Michaelmouth,Lose Weight,37,4,4,5,6,0.2,Android,Referral,Mobile,Premium,2024-12-17,2025-04-25,True,True,0.7,Meal Logging,16,False,Neutral,True
+1938,2024-04-14,44,Male,Port Shannon,Lose Weight,28,18,7,7,2,0.4,Android,Referral,Mobile,Standard,2021-11-05,2025-05-09,False,True,0.8,Workout,8,True,Positive,False
+9836,2022-05-22,55,Male,Lisaborough,Gain Muscle,4,1,2,7,1,0.6,Web,Referral,Web,Premium,2022-04-26,2025-04-10,False,False,0.8,Workout,68,True,Neutral,True
+3022,2024-08-13,56,Female,East Diana,Gain Muscle,68,92,3,1,5,0.5,iOS,Referral,Mobile,Standard,2021-07-11,2025-02-04,False,False,0.6,Meal Logging,46,True,Negative,True
+1284,2021-01-23,31,Female,Thomasview,Gain Muscle,79,77,5,5,1,0.2,iOS,Google Ads,Mobile,Standard,2023-08-25,2025-03-01,False,False,0.0,Meal Logging,43,True,Positive,False
+8839,2022-12-22,64,Male,North Jimmy,Lose Weight,88,54,1,4,4,0.9,Web,Referral,Mobile,Premium,2022-08-24,2025-03-07,True,True,0.1,Support,45,False,Negative,False
+9115,2023-06-02,28,Other,Evanfort,Lose Weight,40,26,5,5,4,0.9,iOS,Google Ads,Mobile,Standard,2022-03-27,2025-04-16,True,False,0.6,Meal Logging,90,True,Positive,False
+944,2023-02-26,20,Male,West Jason,Gain Muscle,17,22,4,5,7,0.7,iOS,Google Ads,Web,Standard,2021-10-10,2025-01-17,True,False,0.1,Meal Logging,44,True,Neutral,False
+2094,2024-03-27,70,Other,East Meganshire,Gain Muscle,43,50,3,2,1,0.7,Android,Google Ads,Web,Premium,2023-01-16,2025-04-19,False,False,0.2,Workout,29,False,Negative,True
+9260,2025-03-18,29,Male,Andersonview,Gain Muscle,27,27,3,7,1,0.3,Web,Referral,Web,Premium,2021-08-25,2025-05-09,False,False,0.1,Workout,29,True,Neutral,True
+4219,2020-07-07,59,Female,Wilkersonland,Gain Muscle,19,72,3,4,2,0.2,Web,Google Ads,Mobile,Premium,2022-02-02,2025-02-24,False,True,0.8,Support,78,False,Neutral,False
+6167,2020-06-15,23,Female,Aprilville,Gain Muscle,30,36,6,5,2,0.8,Android,Referral,Mobile,Premium,2022-11-18,2025-03-08,False,True,0.6,Workout,40,False,Positive,False
+342,2024-02-25,75,Male,South Michaelfurt,Gain Muscle,3,35,1,1,4,0.8,Web,Referral,Web,Standard,2021-12-23,2025-04-04,True,False,0.4,Meal Logging,37,False,Negative,True
+6537,2025-02-12,76,Other,West Chadburgh,Lose Weight,39,98,6,4,5,0.8,Web,Google Ads,Mobile,Standard,2024-02-01,2025-01-17,True,False,0.1,Support,89,True,Positive,True
+6657,2024-12-07,33,Male,Lake Jamie,Gain Muscle,49,14,1,3,7,0.9,iOS,Referral,Web,Premium,2025-01-17,2025-04-22,True,True,0.4,Workout,52,True,Positive,True
+652,2020-06-26,24,Male,Walkerhaven,Lose Weight,34,88,1,2,7,0.1,iOS,Google Ads,Web,Premium,2024-01-09,2025-01-27,True,False,0.8,Meal Logging,75,True,Negative,True
+8982,2023-12-31,36,Other,South Jimmytown,Gain Muscle,60,81,7,4,3,0.8,Web,Referral,Web,Standard,2022-08-10,2025-03-13,False,True,0.3,Workout,63,False,Positive,False
+2064,2024-03-11,52,Female,Lake Paul,Lose Weight,68,97,7,2,6,0.6,iOS,Google Ads,Web,Premium,2020-09-29,2025-03-31,True,False,0.4,Meal Logging,43,False,Negative,False
+9270,2022-10-02,52,Female,West Christinaport,Lose Weight,24,6,3,4,4,0.8,Android,Referral,Mobile,Premium,2021-03-17,2025-02-15,False,True,0.1,Workout,4,True,Negative,False
+6850,2020-09-14,72,Other,Robinsonstad,Lose Weight,36,47,7,2,1,0.0,Android,Referral,Mobile,Premium,2021-07-17,2025-03-09,False,True,0.4,Meal Logging,47,True,Neutral,False
+7102,2024-08-25,52,Female,Wangmouth,Gain Muscle,95,63,4,5,4,0.0,Web,Referral,Web,Premium,2022-06-22,2025-01-05,True,False,0.5,Workout,13,False,Positive,True
+1070,2021-04-26,41,Female,New Annberg,Lose Weight,11,49,7,6,5,0.3,Android,Google Ads,Web,Standard,2021-01-30,2025-04-06,True,True,0.5,Support,69,True,Positive,False
+1620,2020-10-20,80,Male,Shermanside,Lose Weight,47,43,6,1,2,0.0,Web,Google Ads,Web,Standard,2021-02-04,2025-01-19,True,False,0.7,Meal Logging,5,True,Negative,True
+9035,2022-04-19,71,Male,North Michellemouth,Lose Weight,88,39,4,2,3,0.1,Web,Referral,Mobile,Standard,2021-02-12,2025-01-01,True,True,0.2,Support,30,False,Positive,True
+4865,2022-06-04,43,Other,Millertown,Lose Weight,70,34,4,3,4,0.9,iOS,Referral,Mobile,Premium,2023-02-05,2025-01-23,False,False,0.8,Support,33,True,Neutral,False
+7481,2021-10-12,42,Other,New Robert,Lose Weight,48,7,5,7,6,0.9,iOS,Referral,Mobile,Premium,2024-08-05,2025-02-16,True,False,0.1,Workout,73,True,Neutral,False
+9729,2023-03-19,24,Female,Lake Briana,Gain Muscle,52,58,6,3,2,0.6,Android,Referral,Mobile,Premium,2023-12-28,2025-03-12,True,True,0.5,Support,38,True,Positive,False
+4235,2020-07-23,30,Other,West Derekshire,Lose Weight,20,56,1,7,1,0.7,Web,Google Ads,Mobile,Premium,2021-10-19,2025-01-09,True,True,0.2,Workout,74,False,Positive,False
+7876,2021-02-27,56,Other,New Arielfort,Lose Weight,86,79,4,6,2,0.5,iOS,Google Ads,Web,Standard,2020-04-05,2025-04-25,True,True,0.2,Support,5,False,Negative,False
+7139,2023-03-30,69,Male,Aimeefort,Lose Weight,42,96,3,5,4,0.7,Android,Referral,Web,Premium,2024-06-22,2025-01-05,False,False,0.6,Workout,66,False,Neutral,True
+8917,2021-02-14,35,Female,East Veronica,Lose Weight,69,41,2,2,2,0.2,Android,Google Ads,Web,Premium,2023-09-23,2025-04-09,False,False,0.8,Support,89,True,Positive,True
+9983,2023-06-17,40,Male,North Davidfort,Gain Muscle,3,77,4,1,3,0.2,Android,Referral,Mobile,Standard,2024-08-25,2025-03-19,True,True,0.0,Meal Logging,6,True,Negative,False
+6125,2023-12-18,69,Female,Port Amyton,Lose Weight,13,35,3,1,7,0.4,iOS,Google Ads,Mobile,Premium,2024-10-31,2025-03-15,False,False,0.2,Meal Logging,67,False,Positive,True
+229,2022-11-23,36,Female,Shepardbury,Lose Weight,16,85,3,2,6,0.0,iOS,Referral,Mobile,Premium,2021-10-10,2025-05-09,False,False,0.3,Support,98,True,Negative,True
+6673,2023-06-15,30,Other,Leahland,Gain Muscle,47,53,5,5,4,0.1,iOS,Referral,Web,Premium,2022-09-08,2025-05-03,True,True,0.3,Support,22,False,Positive,True
+6099,2024-09-22,77,Other,Nguyenland,Lose Weight,1,29,5,7,1,0.1,Web,Google Ads,Web,Standard,2023-03-30,2025-02-27,False,True,0.2,Meal Logging,74,False,Neutral,False
+874,2022-07-02,27,Female,Bennettside,Lose Weight,47,3,7,4,4,0.3,iOS,Referral,Mobile,Standard,2021-07-08,2025-02-11,False,False,0.4,Support,2,True,Positive,True
+2683,2022-01-29,54,Other,Batesmouth,Lose Weight,45,70,7,2,2,0.4,Web,Referral,Mobile,Premium,2022-07-18,2025-01-03,True,False,0.7,Support,10,False,Neutral,True
+8926,2022-06-20,63,Other,South Micheleview,Lose Weight,5,9,3,2,6,0.7,iOS,Referral,Web,Standard,2024-08-15,2025-03-05,False,True,0.8,Workout,89,False,Negative,False
+8403,2021-01-20,32,Other,Stephaniemouth,Lose Weight,92,9,2,7,5,0.0,iOS,Google Ads,Mobile,Premium,2021-12-03,2025-02-22,True,False,0.6,Meal Logging,72,False,Negative,False
+1948,2023-09-22,47,Male,Shelbyburgh,Lose Weight,84,3,7,6,7,0.1,Android,Google Ads,Web,Premium,2025-03-05,2025-01-30,False,False,0.2,Workout,62,True,Negative,True
+4227,2020-01-12,78,Female,Bushland,Lose Weight,8,91,6,2,6,0.4,Android,Referral,Mobile,Premium,2021-11-22,2025-01-16,True,True,0.6,Workout,41,False,Negative,True
+7366,2024-11-01,18,Female,New Kyle,Lose Weight,89,85,1,4,3,0.8,Web,Google Ads,Web,Premium,2023-10-17,2025-02-18,False,False,0.8,Workout,46,False,Positive,True
+9401,2021-07-26,52,Female,Gutierrezchester,Lose Weight,84,36,5,5,1,0.6,Android,Google Ads,Mobile,Premium,2022-05-19,2025-04-08,True,False,0.4,Support,55,True,Positive,False
+6249,2020-04-13,33,Other,East Alicia,Gain Muscle,50,20,3,5,6,0.8,Android,Google Ads,Web,Standard,2020-04-01,2025-01-23,True,False,0.4,Support,7,False,Positive,True
+2120,2020-09-18,19,Male,Hillton,Lose Weight,65,98,2,5,6,0.1,Android,Google Ads,Web,Premium,2022-07-24,2025-01-23,True,True,0.4,Workout,42,True,Negative,False
+9499,2024-06-24,74,Male,South Jeff,Lose Weight,58,1,6,6,4,0.9,Android,Google Ads,Web,Standard,2020-05-25,2025-01-27,False,False,0.2,Workout,66,False,Negative,True
+5832,2020-05-24,25,Female,Whitebury,Gain Muscle,80,12,2,1,6,0.5,Web,Referral,Web,Standard,2021-11-28,2025-01-14,True,False,0.9,Workout,6,True,Negative,False
+840,2021-06-25,53,Other,Jeffreyburgh,Lose Weight,34,46,2,6,2,0.3,Web,Referral,Mobile,Premium,2022-01-04,2025-01-19,False,False,0.2,Support,83,False,Positive,False
+8853,2023-10-26,61,Female,Owensburgh,Lose Weight,33,60,2,4,1,0.6,Web,Google Ads,Web,Standard,2021-07-06,2025-05-08,False,False,0.0,Meal Logging,13,True,Positive,False
+597,2021-01-16,65,Other,Robinsonville,Lose Weight,67,1,4,4,5,0.6,iOS,Referral,Web,Premium,2020-04-01,2025-02-08,False,True,0.2,Workout,12,False,Positive,False
+9644,2020-05-02,46,Other,Elliottstad,Gain Muscle,98,76,4,4,5,0.1,Android,Google Ads,Web,Standard,2022-02-19,2025-05-09,True,True,0.1,Support,37,False,Neutral,False
+5922,2022-12-20,67,Female,West James,Lose Weight,48,58,5,7,7,0.2,Web,Google Ads,Mobile,Standard,2022-02-06,2025-05-05,True,True,0.0,Meal Logging,99,True,Neutral,False
+4977,2023-11-15,43,Other,Mcmillanbury,Gain Muscle,73,71,1,2,4,0.0,Android,Referral,Mobile,Standard,2024-03-02,2025-02-08,False,True,0.7,Support,92,False,Neutral,True
+5316,2022-05-06,61,Female,Ortizberg,Gain Muscle,26,41,4,3,4,0.5,Android,Google Ads,Web,Standard,2020-04-09,2025-03-14,False,False,0.5,Support,7,True,Neutral,True
+2373,2023-10-31,22,Male,Russellburgh,Gain Muscle,73,75,1,6,2,0.3,Android,Referral,Mobile,Premium,2025-03-12,2025-02-16,True,False,0.2,Workout,63,False,Neutral,False
+6635,2021-03-10,50,Other,Lake Maryside,Lose Weight,11,12,3,6,2,0.2,Web,Referral,Web,Premium,2024-12-11,2025-04-19,False,True,0.7,Workout,28,False,Negative,False
+7385,2022-07-03,64,Other,Port Jessica,Gain Muscle,98,95,7,7,3,0.4,iOS,Google Ads,Web,Standard,2023-05-17,2025-02-06,False,False,0.3,Workout,91,False,Neutral,False
+486,2022-09-29,18,Female,Foxmouth,Gain Muscle,0,33,4,5,3,0.2,Android,Google Ads,Web,Standard,2023-04-29,2025-04-11,False,False,0.5,Workout,85,True,Positive,True
+4239,2024-03-26,25,Other,Edwardsland,Lose Weight,33,56,2,7,2,0.8,iOS,Google Ads,Web,Standard,2023-05-20,2025-02-04,True,False,0.2,Workout,60,False,Negative,True
+6818,2023-10-04,78,Other,Paulport,Lose Weight,30,85,3,1,1,0.8,iOS,Google Ads,Mobile,Premium,2021-09-04,2025-04-22,True,False,0.6,Meal Logging,34,False,Negative,False
+8289,2022-08-26,63,Female,East Kristinafurt,Lose Weight,59,9,5,2,7,0.1,iOS,Google Ads,Web,Premium,2024-11-21,2025-03-03,False,False,0.5,Meal Logging,39,False,Negative,False
+225,2025-03-20,39,Other,Spencerberg,Gain Muscle,79,68,7,1,7,0.2,iOS,Google Ads,Web,Premium,2021-12-05,2025-02-14,True,False,0.5,Meal Logging,71,False,Negative,True
+5641,2021-12-17,75,Male,Carterfurt,Lose Weight,25,78,5,6,4,0.4,iOS,Google Ads,Mobile,Premium,2020-12-25,2025-05-07,False,False,0.8,Support,15,False,Neutral,True
+1994,2024-05-06,80,Other,Laurieport,Lose Weight,41,69,1,2,4,0.3,Android,Referral,Mobile,Premium,2023-05-13,2025-02-11,True,False,0.1,Workout,43,True,Negative,False
+6630,2020-11-01,71,Female,Lake Herbertborough,Lose Weight,67,13,1,4,7,0.3,iOS,Referral,Mobile,Standard,2021-11-19,2025-01-30,True,True,0.8,Support,1,False,Neutral,True
+6927,2021-06-11,77,Other,East Aprilmouth,Lose Weight,11,6,4,3,7,0.8,Android,Google Ads,Mobile,Standard,2024-09-20,2025-01-21,True,False,0.7,Support,84,False,Neutral,False
+9292,2022-03-30,29,Other,Marshallbury,Gain Muscle,82,24,6,3,1,0.6,iOS,Google Ads,Mobile,Premium,2021-10-02,2025-01-07,False,False,0.8,Workout,23,False,Neutral,True
+1220,2024-02-23,52,Other,Port Adamberg,Gain Muscle,26,58,3,2,3,0.2,Android,Referral,Web,Premium,2023-11-14,2025-01-10,True,False,0.4,Support,97,False,Neutral,False
+2623,2023-11-29,45,Female,Johnsonmouth,Gain Muscle,18,72,7,6,4,0.7,Web,Referral,Web,Standard,2022-01-29,2025-02-13,True,False,0.4,Workout,62,False,Positive,True
+9000,2020-11-24,63,Female,Alexandratown,Lose Weight,19,74,5,1,2,0.3,iOS,Google Ads,Web,Standard,2023-08-25,2025-02-24,True,False,0.5,Workout,57,True,Positive,False
+401,2021-07-06,67,Other,Marktown,Lose Weight,10,25,6,4,1,0.9,Web,Referral,Web,Standard,2021-06-14,2025-03-27,False,True,0.6,Support,16,True,Positive,True
+1367,2023-08-02,48,Other,North Ryanfort,Gain Muscle,20,12,7,7,1,0.7,iOS,Referral,Mobile,Standard,2023-04-09,2025-02-24,False,False,0.2,Workout,94,False,Negative,False
+9693,2021-12-09,34,Other,Ryanport,Gain Muscle,1,53,7,5,1,0.2,iOS,Referral,Mobile,Premium,2024-10-16,2025-03-21,False,False,0.7,Workout,47,True,Negative,False
+1916,2023-09-02,43,Other,Lake Roberta,Lose Weight,14,80,1,3,3,0.4,Android,Referral,Mobile,Premium,2025-01-07,2025-03-14,True,True,0.1,Workout,41,True,Positive,False
+1131,2021-11-07,55,Female,Jennifermouth,Lose Weight,76,37,5,1,1,0.2,Web,Google Ads,Mobile,Standard,2020-05-24,2025-01-28,True,False,0.6,Support,20,False,Negative,False
+2103,2020-05-27,27,Male,Zacharybury,Gain Muscle,12,62,7,1,7,0.0,Android,Google Ads,Web,Premium,2024-04-20,2025-02-07,True,True,0.9,Meal Logging,23,False,Neutral,False
+9971,2020-07-29,76,Male,Rickyport,Lose Weight,18,1,5,6,4,0.2,iOS,Google Ads,Mobile,Standard,2021-12-08,2025-01-06,True,False,0.8,Workout,77,False,Negative,False
+7202,2021-03-27,78,Other,Hannahfort,Gain Muscle,0,95,5,7,5,0.7,iOS,Referral,Web,Standard,2021-01-04,2025-04-22,True,False,0.1,Workout,41,False,Neutral,True
+4680,2020-05-07,57,Female,North Melindaburgh,Gain Muscle,23,60,1,3,7,0.1,Web,Referral,Web,Premium,2021-12-26,2025-03-11,True,False,0.2,Workout,43,True,Neutral,True
+4447,2024-01-03,67,Female,Ginaport,Lose Weight,14,12,3,3,6,0.3,iOS,Referral,Web,Standard,2023-06-12,2025-05-08,False,False,0.3,Meal Logging,57,True,Neutral,False
+7089,2022-05-28,43,Male,Kevintown,Gain Muscle,23,93,4,3,5,0.3,Android,Google Ads,Web,Premium,2022-08-11,2025-04-19,True,True,0.1,Meal Logging,99,False,Negative,False
+7747,2023-07-18,54,Other,Chenburgh,Gain Muscle,7,81,5,6,2,0.8,Web,Google Ads,Web,Premium,2022-10-14,2025-02-28,False,True,0.6,Meal Logging,70,True,Negative,False
+8181,2024-04-16,42,Other,Port Ernestbury,Lose Weight,21,76,5,6,3,0.2,Android,Referral,Mobile,Premium,2022-08-14,2025-01-03,True,False,0.3,Meal Logging,9,False,Negative,False
+1163,2025-02-03,80,Other,Kristinchester,Lose Weight,54,27,3,3,6,0.6,Web,Google Ads,Mobile,Standard,2022-09-09,2025-04-11,False,True,0.0,Meal Logging,36,True,Negative,True
+5610,2024-01-26,48,Other,Wilkinsonborough,Gain Muscle,60,35,7,2,2,0.4,iOS,Referral,Web,Premium,2020-09-29,2025-03-23,False,True,0.3,Workout,19,False,Negative,True
+7358,2021-04-15,28,Male,Chavezstad,Gain Muscle,1,48,3,3,4,0.5,iOS,Referral,Web,Premium,2023-08-23,2025-03-09,True,True,0.7,Support,27,False,Neutral,False
+5147,2023-07-15,38,Male,New Markfort,Gain Muscle,78,16,6,6,1,0.8,Web,Google Ads,Mobile,Premium,2024-11-24,2025-04-29,True,False,0.2,Support,10,False,Neutral,True
+3345,2020-06-11,44,Female,Nicoleborough,Lose Weight,88,75,2,2,7,0.4,iOS,Google Ads,Mobile,Premium,2022-03-26,2025-05-06,False,False,0.4,Support,91,True,Neutral,True
+3978,2024-05-11,44,Female,Port Katherinefurt,Lose Weight,79,73,5,7,6,0.1,Web,Referral,Web,Standard,2020-01-30,2025-05-08,False,True,0.4,Support,81,False,Neutral,False
+7941,2024-08-11,80,Male,Boydshire,Gain Muscle,83,41,4,4,5,0.4,Web,Referral,Mobile,Standard,2023-05-19,2025-01-08,True,True,0.2,Meal Logging,98,False,Negative,True
+9149,2024-04-25,58,Female,Carlsonfurt,Gain Muscle,97,14,3,2,5,0.6,Web,Referral,Mobile,Premium,2023-10-07,2025-03-05,False,True,0.2,Meal Logging,96,False,Neutral,True
+5838,2022-01-13,54,Other,South Allisonfort,Lose Weight,11,78,4,4,4,0.4,iOS,Referral,Web,Standard,2025-04-29,2025-02-01,False,True,0.0,Support,5,False,Positive,False
+3017,2022-05-03,62,Male,Smithfort,Lose Weight,77,75,5,5,5,0.8,Web,Google Ads,Mobile,Premium,2023-05-03,2025-01-16,True,True,0.0,Support,92,True,Negative,True
+8689,2023-04-22,48,Male,Hernandezstad,Gain Muscle,99,92,7,3,1,0.5,iOS,Referral,Mobile,Premium,2020-06-25,2025-02-05,False,True,0.5,Meal Logging,10,True,Positive,False
+2993,2021-02-25,68,Other,New John,Lose Weight,54,78,2,1,7,0.9,Android,Google Ads,Mobile,Standard,2020-12-24,2025-03-05,True,False,0.4,Meal Logging,2,True,Neutral,True
+2566,2021-01-10,50,Female,Lake Jacqueline,Lose Weight,20,46,5,6,3,0.0,iOS,Google Ads,Mobile,Standard,2020-08-05,2025-01-06,True,False,0.6,Workout,84,False,Positive,False
+6855,2023-06-23,21,Male,Evanston,Lose Weight,44,67,6,4,6,0.7,Android,Referral,Web,Premium,2020-12-27,2025-04-25,False,True,0.7,Meal Logging,64,False,Positive,False
+9194,2020-12-30,28,Male,East Jessicatown,Gain Muscle,74,94,4,7,1,0.3,Android,Referral,Web,Premium,2021-09-13,2025-01-01,False,False,0.3,Support,19,True,Neutral,False
+4797,2023-02-23,54,Female,Lake Shawn,Gain Muscle,35,78,6,2,7,0.5,Android,Google Ads,Web,Standard,2023-06-16,2025-03-06,False,True,0.6,Support,39,False,Positive,False
+7752,2024-07-19,52,Other,East Christophertown,Gain Muscle,83,84,3,3,2,0.4,iOS,Referral,Mobile,Premium,2020-01-11,2025-04-18,False,False,0.4,Meal Logging,25,True,Negative,False
+4193,2023-08-21,34,Male,Lake Josephburgh,Lose Weight,47,75,1,6,5,0.1,Web,Referral,Mobile,Premium,2021-06-19,2025-02-26,False,True,0.3,Support,55,True,Neutral,False
+2977,2024-02-02,75,Female,Martinezmouth,Gain Muscle,59,72,3,1,7,0.3,Web,Google Ads,Mobile,Standard,2020-07-15,2025-03-18,False,True,0.1,Meal Logging,81,False,Neutral,True
+6954,2023-08-16,79,Other,Barrettberg,Lose Weight,80,30,4,1,7,0.4,Web,Google Ads,Web,Standard,2020-07-07,2025-04-22,False,True,0.9,Workout,66,True,Neutral,False
+3596,2022-07-05,60,Female,Anthonyborough,Gain Muscle,41,36,2,7,1,0.5,Android,Google Ads,Web,Standard,2020-03-08,2025-01-24,False,True,0.3,Support,2,True,Positive,False
+1875,2022-11-09,68,Other,Johnsonborough,Gain Muscle,58,37,3,7,4,0.8,iOS,Google Ads,Mobile,Premium,2024-09-26,2025-05-02,False,True,0.3,Meal Logging,95,False,Negative,True
+8462,2023-12-23,42,Female,West Brian,Lose Weight,77,92,6,2,1,0.4,Web,Referral,Web,Premium,2023-10-07,2025-02-06,False,True,0.2,Workout,88,False,Negative,False
+5022,2020-12-23,67,Other,Cortezfurt,Gain Muscle,18,81,2,7,7,0.2,Web,Google Ads,Mobile,Premium,2024-02-04,2025-03-16,True,True,0.6,Meal Logging,66,True,Negative,False
+6098,2024-02-17,78,Male,Bradyside,Lose Weight,87,80,5,5,7,0.6,iOS,Referral,Web,Premium,2020-01-16,2025-01-03,False,False,0.5,Support,90,False,Negative,False
+7732,2021-05-30,66,Female,Samuelfurt,Lose Weight,62,95,3,6,1,0.2,iOS,Google Ads,Web,Standard,2020-12-27,2025-01-28,False,True,0.5,Meal Logging,14,True,Negative,True
+9473,2020-07-22,18,Female,East Matthewhaven,Lose Weight,46,43,6,6,7,0.5,Web,Referral,Mobile,Standard,2020-04-14,2025-04-12,True,True,0.8,Meal Logging,23,False,Negative,True
+5591,2023-10-20,40,Male,Biancabury,Gain Muscle,51,34,5,1,6,0.1,Web,Google Ads,Web,Standard,2022-07-17,2025-04-08,True,True,0.3,Support,97,False,Neutral,True
+7896,2024-02-18,51,Female,West Daniel,Lose Weight,91,27,2,4,5,0.9,Web,Referral,Web,Standard,2024-09-30,2025-02-05,False,True,0.3,Workout,69,True,Positive,False
+4579,2023-10-18,56,Female,New Amanda,Gain Muscle,74,7,5,1,7,0.8,Android,Referral,Web,Standard,2023-08-02,2025-01-14,False,True,0.4,Workout,20,True,Negative,True
+1023,2022-08-16,46,Female,East Alisonburgh,Gain Muscle,50,59,4,7,2,0.7,Android,Google Ads,Web,Premium,2024-09-09,2025-04-26,False,True,0.6,Support,1,True,Neutral,False
+7432,2024-04-22,71,Other,South Robertfort,Gain Muscle,81,17,7,5,4,0.7,Web,Referral,Mobile,Standard,2022-08-27,2025-02-22,True,True,0.8,Workout,35,False,Negative,False
+3425,2024-03-15,58,Other,New Jasonfort,Lose Weight,35,43,2,2,2,0.2,Web,Google Ads,Mobile,Standard,2020-03-11,2025-03-16,False,False,0.5,Meal Logging,61,False,Positive,True
+7350,2024-12-24,65,Male,Karenmouth,Lose Weight,45,7,5,1,1,0.6,Android,Google Ads,Mobile,Standard,2022-08-14,2025-02-19,False,True,0.2,Support,44,True,Negative,True
+6052,2022-03-11,75,Female,West Gabriel,Gain Muscle,10,21,5,4,5,0.7,Android,Referral,Web,Premium,2022-02-08,2025-02-04,False,True,0.6,Meal Logging,31,False,Positive,True
+4998,2020-03-13,38,Male,East Justin,Gain Muscle,13,87,1,6,5,0.4,Web,Google Ads,Mobile,Premium,2020-05-27,2025-02-17,True,False,0.2,Workout,61,True,Positive,False
+5623,2022-02-23,44,Female,New Katherine,Gain Muscle,46,71,7,5,4,0.6,Android,Referral,Web,Standard,2022-03-17,2025-02-17,True,True,0.4,Meal Logging,1,True,Positive,False
+1066,2022-04-17,75,Other,Haynesfurt,Gain Muscle,88,5,5,3,7,0.8,Android,Google Ads,Web,Standard,2025-01-20,2025-03-28,True,False,0.1,Meal Logging,40,True,Neutral,True
+3171,2023-11-12,46,Other,East Tracey,Lose Weight,27,32,2,1,6,0.9,Web,Google Ads,Web,Premium,2023-12-03,2025-03-02,False,True,0.8,Support,40,False,Positive,True
+5456,2022-01-03,73,Male,Fordbury,Gain Muscle,57,91,5,1,3,0.2,iOS,Referral,Web,Standard,2023-01-31,2025-04-20,True,False,0.8,Workout,62,False,Positive,True
+1924,2020-10-30,49,Male,West Melissafurt,Gain Muscle,64,68,5,5,5,0.3,iOS,Google Ads,Mobile,Premium,2020-02-06,2025-01-29,False,False,0.0,Meal Logging,26,False,Positive,False
+6142,2024-01-05,60,Female,Caitlinfort,Lose Weight,97,75,7,7,6,0.9,Android,Google Ads,Mobile,Standard,2023-02-09,2025-02-09,False,True,0.8,Workout,61,True,Positive,False
+9322,2023-07-21,19,Other,New Melissa,Gain Muscle,63,17,3,5,5,0.4,Web,Referral,Web,Premium,2020-10-09,2025-04-11,True,False,0.7,Workout,69,False,Positive,False
+5257,2023-09-29,25,Other,South Jacqueline,Lose Weight,16,97,4,5,7,0.2,Web,Referral,Mobile,Standard,2023-06-03,2025-04-16,True,True,0.7,Support,83,True,Negative,False
+9283,2020-03-21,48,Female,Stevensport,Gain Muscle,74,1,6,2,6,0.4,iOS,Google Ads,Mobile,Premium,2020-09-29,2025-04-06,False,False,0.4,Support,9,False,Neutral,False
+1728,2022-06-29,56,Other,East Ashley,Lose Weight,17,47,1,3,2,0.4,Web,Google Ads,Web,Standard,2022-03-09,2025-04-17,True,True,0.1,Support,48,True,Neutral,False
+8888,2020-12-08,19,Male,Patelfort,Gain Muscle,43,7,5,2,2,0.2,Android,Referral,Web,Standard,2021-12-17,2025-02-09,False,False,0.5,Workout,85,False,Neutral,True
+5673,2024-10-25,36,Other,Shelbyland,Gain Muscle,53,39,2,3,6,0.3,iOS,Referral,Web,Premium,2021-08-11,2025-02-28,True,True,0.9,Workout,94,False,Neutral,False
+2992,2021-05-19,78,Female,Matthewchester,Lose Weight,19,29,2,7,6,0.2,iOS,Referral,Web,Premium,2021-06-06,2025-01-13,True,False,0.7,Meal Logging,90,False,Negative,False
+1469,2021-03-11,19,Other,Mcgeestad,Lose Weight,19,34,6,6,6,0.7,Android,Google Ads,Mobile,Standard,2024-05-18,2025-05-05,False,True,0.9,Workout,73,True,Neutral,False
+3771,2024-08-06,26,Other,Manningland,Lose Weight,21,88,7,4,6,0.4,Android,Google Ads,Web,Standard,2022-03-20,2025-03-10,False,False,0.5,Workout,42,True,Positive,True
+4378,2021-11-13,54,Other,Garystad,Lose Weight,7,8,1,1,1,0.4,Web,Referral,Mobile,Premium,2024-07-22,2025-02-22,True,False,0.7,Workout,66,True,Positive,True
+3577,2022-06-20,54,Other,Westside,Lose Weight,48,31,1,7,1,0.1,Android,Referral,Mobile,Premium,2023-04-02,2025-02-04,True,False,0.3,Meal Logging,25,False,Negative,False
+5801,2021-03-18,67,Other,Port Jesse,Lose Weight,40,51,1,5,5,0.6,Android,Referral,Web,Premium,2021-08-29,2025-03-17,True,False,0.6,Meal Logging,77,True,Neutral,True
+816,2024-06-17,58,Female,South Angela,Gain Muscle,9,11,2,1,6,0.8,Android,Google Ads,Web,Premium,2023-07-10,2025-04-07,False,False,0.4,Workout,95,False,Negative,False
+3311,2024-11-30,49,Male,Shawnmouth,Gain Muscle,71,98,7,4,1,0.0,Web,Google Ads,Mobile,Premium,2022-09-18,2025-02-16,True,False,0.5,Support,61,False,Neutral,True
+9094,2022-05-18,58,Male,Shawnport,Lose Weight,73,17,7,6,5,0.7,iOS,Referral,Mobile,Standard,2024-07-30,2025-01-17,True,False,0.1,Workout,9,False,Negative,True
+5368,2024-09-12,63,Male,West Yolanda,Lose Weight,98,88,1,6,3,0.6,iOS,Google Ads,Web,Premium,2023-07-29,2025-03-02,True,True,0.7,Workout,86,True,Neutral,False
+4823,2023-01-16,27,Other,New Kristie,Gain Muscle,41,70,2,3,1,0.0,Android,Google Ads,Mobile,Premium,2024-05-13,2025-03-10,True,True,0.1,Support,28,False,Neutral,True
+6729,2021-05-25,40,Male,Lake John,Lose Weight,6,80,7,1,1,0.0,Web,Referral,Web,Standard,2025-04-01,2025-01-18,True,False,0.6,Workout,88,False,Positive,False
+519,2024-12-03,78,Female,East Robert,Lose Weight,34,69,1,2,7,0.7,iOS,Google Ads,Web,Standard,2023-08-22,2025-03-13,False,False,0.5,Meal Logging,87,False,Neutral,False
+9458,2021-09-10,23,Female,Port Robertport,Gain Muscle,73,18,7,4,3,0.8,iOS,Google Ads,Web,Standard,2024-03-04,2025-01-11,False,False,0.4,Meal Logging,51,False,Neutral,True
+8988,2024-01-30,24,Other,West Michele,Lose Weight,65,19,7,6,3,0.9,iOS,Google Ads,Mobile,Standard,2020-05-09,2025-03-01,True,True,0.3,Workout,55,False,Negative,False
+5119,2025-03-20,56,Female,Lisatown,Lose Weight,71,66,1,5,6,0.3,Web,Google Ads,Mobile,Premium,2021-07-19,2025-02-06,False,True,0.7,Support,56,True,Neutral,False
+8907,2024-10-20,27,Other,Yoderhaven,Lose Weight,2,84,5,6,4,0.2,Web,Referral,Web,Standard,2024-04-16,2025-01-02,True,False,0.9,Workout,61,False,Positive,False
+4200,2022-04-09,62,Other,Jonesfort,Gain Muscle,88,38,2,2,5,0.9,Android,Referral,Mobile,Standard,2023-11-20,2025-01-01,True,True,0.2,Workout,73,False,Neutral,False
+4139,2021-07-05,23,Male,Smithburgh,Lose Weight,10,64,1,1,4,0.3,iOS,Google Ads,Mobile,Standard,2020-03-17,2025-03-16,False,False,0.6,Meal Logging,27,False,Neutral,True
+1188,2020-12-01,34,Other,East Jessicaside,Lose Weight,99,95,3,4,1,0.8,iOS,Google Ads,Mobile,Standard,2024-04-17,2025-03-07,False,False,0.3,Support,8,False,Negative,False
+3167,2024-09-24,33,Other,Dianechester,Lose Weight,86,91,7,5,1,0.5,iOS,Referral,Web,Premium,2022-04-05,2025-01-22,False,True,0.1,Meal Logging,24,True,Neutral,True
+8296,2021-11-02,19,Male,South John,Lose Weight,1,90,3,5,4,0.3,iOS,Google Ads,Mobile,Premium,2022-05-19,2025-02-08,True,True,0.0,Support,79,True,Positive,True
+9657,2021-03-01,23,Other,Port Tonymouth,Lose Weight,76,68,6,5,1,0.5,Web,Google Ads,Web,Standard,2023-04-15,2025-04-20,True,True,0.1,Meal Logging,11,True,Negative,False
+4323,2021-05-04,34,Other,Suttonburgh,Gain Muscle,9,93,4,6,7,0.9,Web,Google Ads,Mobile,Premium,2025-02-07,2025-04-26,True,False,0.8,Workout,86,True,Positive,False
+1538,2024-08-04,49,Female,South Melanieberg,Gain Muscle,78,55,6,4,6,0.3,iOS,Google Ads,Web,Standard,2023-09-24,2025-02-10,True,False,0.1,Support,69,False,Positive,False
+5990,2020-07-22,51,Male,North Eric,Gain Muscle,17,64,1,6,1,0.8,Web,Referral,Mobile,Premium,2023-02-18,2025-02-20,True,True,0.6,Workout,91,True,Negative,False
+9437,2023-02-25,59,Female,South Adam,Lose Weight,45,74,3,1,2,0.4,Android,Referral,Web,Premium,2024-11-13,2025-02-05,True,True,0.7,Workout,49,False,Negative,True
+537,2023-12-18,27,Other,Justinfurt,Gain Muscle,22,47,6,7,1,0.6,Android,Referral,Mobile,Standard,2024-07-23,2025-01-12,True,True,0.5,Meal Logging,90,False,Negative,False
+8888,2022-07-04,23,Male,Carterton,Gain Muscle,68,45,5,7,3,0.3,iOS,Referral,Mobile,Standard,2021-11-30,2025-03-19,True,True,0.0,Meal Logging,91,True,Positive,True
+4219,2023-08-26,52,Female,Port Lindseyton,Lose Weight,19,41,2,6,1,0.3,iOS,Referral,Web,Premium,2023-04-15,2025-04-07,True,False,0.7,Workout,97,True,Positive,False
+6595,2020-12-15,62,Female,Hayesfurt,Lose Weight,34,85,2,4,1,0.0,Android,Google Ads,Web,Standard,2020-07-28,2025-02-19,True,False,0.2,Workout,68,False,Neutral,True
+8453,2020-10-08,70,Male,Mercedesborough,Gain Muscle,13,25,1,1,1,0.8,Web,Google Ads,Web,Standard,2024-04-17,2025-02-10,False,True,0.4,Workout,95,False,Negative,True
+621,2023-09-20,53,Female,Veronicaside,Lose Weight,38,50,7,1,5,0.0,Android,Google Ads,Mobile,Standard,2023-01-06,2025-02-17,True,False,0.2,Workout,75,False,Positive,True
+916,2023-10-18,63,Male,West Normamouth,Lose Weight,6,12,7,2,5,0.1,Android,Referral,Web,Standard,2020-03-15,2025-03-24,True,False,0.5,Workout,73,True,Negative,True
+7095,2020-03-04,33,Female,Josephside,Gain Muscle,8,54,1,2,3,0.6,iOS,Google Ads,Web,Standard,2022-02-17,2025-02-26,False,True,0.5,Support,34,True,Neutral,False
+1697,2023-09-03,24,Male,Pricefurt,Lose Weight,50,71,4,7,3,0.6,iOS,Referral,Mobile,Premium,2021-05-09,2025-01-02,False,False,0.5,Support,98,False,Neutral,True
+5049,2023-09-10,47,Female,Wrightmouth,Gain Muscle,64,44,4,6,5,0.6,iOS,Referral,Web,Standard,2022-11-18,2025-05-07,False,False,0.5,Workout,47,True,Neutral,False
+182,2023-12-16,21,Male,Nguyenchester,Lose Weight,74,42,2,5,1,0.1,iOS,Referral,Mobile,Standard,2021-11-25,2025-04-24,True,False,0.2,Support,99,True,Positive,False
+6147,2024-01-10,29,Male,West Jeffreyview,Gain Muscle,74,58,3,4,2,0.9,Web,Google Ads,Mobile,Standard,2021-09-15,2025-03-31,True,False,0.3,Support,4,True,Neutral,True
+5886,2024-05-26,79,Other,Townsendshire,Lose Weight,60,20,2,4,7,0.0,Android,Google Ads,Web,Standard,2022-06-24,2025-02-03,False,False,0.1,Meal Logging,66,True,Negative,False
+2179,2022-03-16,40,Other,New Michelleside,Gain Muscle,17,28,1,4,5,0.9,iOS,Google Ads,Web,Premium,2020-08-13,2025-03-20,True,False,0.2,Workout,90,False,Neutral,True
+6603,2021-06-19,64,Other,Ericshire,Lose Weight,57,99,4,5,7,0.4,Web,Google Ads,Web,Standard,2025-02-04,2025-02-07,True,False,0.6,Meal Logging,22,False,Neutral,False
+9215,2020-12-18,42,Female,West Latasha,Lose Weight,5,12,4,3,6,0.8,iOS,Google Ads,Mobile,Standard,2025-01-13,2025-01-16,True,True,0.2,Workout,16,True,Positive,True
+7225,2024-03-05,39,Male,West Mary,Gain Muscle,0,48,3,2,5,0.7,Android,Google Ads,Mobile,Standard,2020-08-30,2025-01-13,True,True,0.2,Workout,55,True,Neutral,True
+4490,2022-04-05,49,Male,Elizabethburgh,Lose Weight,48,46,4,3,3,0.4,Web,Google Ads,Mobile,Premium,2021-01-04,2025-03-15,True,True,0.1,Meal Logging,39,False,Neutral,True
+749,2024-05-01,44,Female,Richardsonfurt,Lose Weight,70,76,1,7,4,0.8,Android,Referral,Web,Premium,2021-02-22,2025-04-07,True,False,0.3,Workout,58,True,Neutral,False
+3776,2025-01-31,24,Male,Troymouth,Gain Muscle,60,92,6,2,5,0.5,Android,Google Ads,Mobile,Premium,2021-11-11,2025-01-23,False,True,0.2,Meal Logging,75,False,Neutral,False
+3822,2020-10-26,19,Male,Jameschester,Gain Muscle,7,98,3,5,2,0.9,iOS,Referral,Mobile,Standard,2024-07-01,2025-02-21,False,True,0.3,Meal Logging,62,False,Positive,True
+139,2022-11-09,75,Female,Victoriaton,Gain Muscle,10,90,3,4,7,0.7,iOS,Referral,Mobile,Standard,2025-05-04,2025-01-04,False,False,0.1,Workout,31,False,Positive,True
